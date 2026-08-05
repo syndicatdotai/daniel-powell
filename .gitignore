@@ -1,0 +1,42 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+*.token
+credentials*
+secrets*
+
+# Private or temporary working material
+private/
+staging/
+source/
+raw/
+tmp/
+*.tmp
+*.bak
+*.log
+
+# High-risk source and production files require deliberate review
+*.dwg
+*.dxf
+*.rvt
+*.skp
+*.psd
+*.ai
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.zip
+*.7z
+*.rar
