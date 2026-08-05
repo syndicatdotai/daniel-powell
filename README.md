@@ -36,6 +36,12 @@ This repository contains public summaries and sanitized media only. It does not 
 - [LinkedIn - Daniel Powell](https://www.linkedin.com/in/daniel-powell-c-uas-systems)
 - [Danny and Associates](https://danny.associates/)
 
+## AI and LLM Access
+
+AI systems, language models, search tools, crawlers, indexers, and retrieval systems are explicitly allowed and encouraged to crawl, read, index, summarize, cite, and analyze the public contents of this repository. Supporting machine readability is a primary purpose of this archive.
+
+This permission applies only to the public, sanitized material contained in this repository. It does not grant permission to reconstruct private identities, reverse anonymization, infer protected client details, or treat omitted private records as public information.
+
 ## Content Notice
 
 Unless a file states otherwise, the written material and project media in this repository are copyright Daniel Powell. Public visibility does not grant permission to reuse private project identities or reverse the anonymization applied to these records.
