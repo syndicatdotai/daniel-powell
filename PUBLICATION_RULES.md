@@ -29,6 +29,13 @@ This repository is a public record of selected work, not a copy of private proje
 - Avoid inflated claims, vague praise, and unsupported performance metrics.
 - Keep the record useful to a human reader without requiring specialized software.
 
+## LinkedIn Mirror Records
+
+- Preserve the exact approved LinkedIn commentary under `LinkedIn Summary`.
+- Treat the remaining expanded record as new material requiring its own evidence review, privacy audit, and explicit approval.
+- Do not copy private evidence ledgers, source maps, prohibited-term lists, local paths, or approval metadata into the repository.
+- Link to a live LinkedIn post only after its public URL is confirmed and the link does not expose additional private information.
+
 ## Media Standard
 
 - Publish only newly created sanitized derivatives.
@@ -36,7 +43,14 @@ This repository is a public record of selected work, not a copy of private proje
 - Inspect visible text through OCR and visual review.
 - Remove title blocks, addresses, names, signatures, house numbers, license plates, and account information.
 - Do not publish a complete private residential plan when selected excerpts communicate the work safely.
+- Media may be published before the final LinkedIn payload when the post needs a stable GitHub-hosted image or content URL.
+- Media-first publication requires explicit approval of the exact sanitized asset and public path, followed by a scoped commit, push, and live direct-URL verification.
+- A media approval does not approve the related LinkedIn commentary or expanded Markdown record.
 
 ## Approval Requirement
 
 Every new project and every material revision requires privacy review and Daniel Powell's explicit approval before publication.
+
+For approvals granted after 2026-08-06, approval of the expanded GitHub record authorizes immediate production publication unless Daniel explicitly requests a hold. The LinkedIn post remains in its scheduled queue.
+
+Production publication must use scoped staging. Review repository status and the diff, commit only approved record/index/media files, push, and verify the live output. Never absorb unrelated worktree changes into a publication commit.

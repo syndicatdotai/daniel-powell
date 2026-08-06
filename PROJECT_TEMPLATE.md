@@ -11,6 +11,10 @@
 | Project status | [Verified completion state] |
 | Evidence basis | [Notes, drawings, photographs, documents, or memory] |
 
+## LinkedIn Summary
+
+[When this record mirrors a LinkedIn post, preserve the exact approved commentary here. Otherwise state that no LinkedIn summary is associated with the record.]
+
 ## Overview
 
 [Explain the project, its purpose, and why the work was significant.]
