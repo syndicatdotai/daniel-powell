@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0006 - Build the Feature or Draw It Manually? A Railing Automation Decision Framework](projects/PUB-0006-build-the-feature-or-draw-it-manually-a-railing-automation-decision-fram/README.md)
 - [PUB-0001 - Middlesex County Residential Design Adaptation](projects/PUB-0001-middlesex-county-residential-design/README.md)
 
 ## Working Areas
