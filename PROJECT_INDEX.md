@@ -16,6 +16,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0014 | [Remote AI Intake from Phone Call to Project Record](projects/PUB-0014-remote-ai-intake-from-phone-call-to-project-record/README.md) | AI-assisted customer intake, Local-first project records, Remote field administration, Calendar automation | Published |
 | PUB-0011 | [On-Site Drafting for Existing Commercial Interiors](projects/PUB-0011-on-site-drafting-for-existing-commercial-interiors/README.md) | Existing-condition documentation, Field measurement, On-site drafting, Commercial interiors | Published |
 | PUB-0009 | [Turning Manufacturing Knowledge into Shop-Drawing Software](projects/PUB-0009-turning-manufacturing-knowledge-into-shop-drawing-software/README.md) | Domain-driven software development, Shop-drawing automation, Manufacturing workflow design, AutoCAD production knowledge | Published |
 | PUB-0008 | [Obsidian Skills and Automation Systems for a Solo Operator](projects/PUB-0008-obsidian-skills-and-automation-systems-for-a-solo-operator/README.md) | AI-assisted operations, Obsidian workflow design, Remote administration, Construction business systems | Published |

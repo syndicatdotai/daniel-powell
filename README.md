@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0014 - Remote AI Intake from Phone Call to Project Record](projects/PUB-0014-remote-ai-intake-from-phone-call-to-project-record/README.md)
 - [PUB-0012 - A Memorable Notary Appointment and Situational Awareness](projects/PUB-0012-a-memorable-notary-appointment-and-situational-awareness/README.md)
 - [PUB-0011 - On-Site Drafting for Existing Commercial Interiors](projects/PUB-0011-on-site-drafting-for-existing-commercial-interiors/README.md)
 - [PUB-0010 - Connecticut Nuisance Wildlife Control as a Community Service](projects/PUB-0010-connecticut-nuisance-wildlife-control-as-a-community-service/README.md)
