@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0015 - Voice-Assisted AI Asset Tracking for Field Operations](projects/PUB-0015-voice-assisted-ai-asset-tracking-for-field-operations/README.md)
 - [PUB-0014 - Remote AI Intake from Phone Call to Project Record](projects/PUB-0014-remote-ai-intake-from-phone-call-to-project-record/README.md)
 - [PUB-0012 - A Memorable Notary Appointment and Situational Awareness](projects/PUB-0012-a-memorable-notary-appointment-and-situational-awareness/README.md)
 - [PUB-0011 - On-Site Drafting for Existing Commercial Interiors](projects/PUB-0011-on-site-drafting-for-existing-commercial-interiors/README.md)
