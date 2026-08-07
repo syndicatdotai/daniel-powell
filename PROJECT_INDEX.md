@@ -31,4 +31,5 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0012 | [A Memorable Notary Appointment and Situational Awareness](projects/PUB-0012-a-memorable-notary-appointment-and-situational-awareness/README.md) | Notary public services, Off-site appointment, Situational awareness, Professional judgment | Published |
 | PUB-0010 | [Connecticut Nuisance Wildlife Control as a Community Service](projects/PUB-0010-connecticut-nuisance-wildlife-control-as-a-community-service/README.md) | Nuisance wildlife control, Community service, Residential property assistance, Field operations | Published |
