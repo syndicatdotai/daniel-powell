@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0008 - Obsidian Skills and Automation Systems for a Solo Operator](projects/PUB-0008-obsidian-skills-and-automation-systems-for-a-solo-operator/README.md)
 - [PUB-0007 - Southern Connecticut Shopping Center Life-Safety Coordination](projects/PUB-0007-southern-connecticut-shopping-center-life-safety-coordination/README.md)
 - [PUB-0006 - Build the Feature or Draw It Manually? A Railing Automation Decision Framework](projects/PUB-0006-build-the-feature-or-draw-it-manually-a-railing-automation-decision-fram/README.md)
 - [PUB-0001 - Middlesex County Residential Design Adaptation](projects/PUB-0001-middlesex-county-residential-design/README.md)
