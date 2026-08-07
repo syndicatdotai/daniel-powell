@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0011 - On-Site Drafting for Existing Commercial Interiors](projects/PUB-0011-on-site-drafting-for-existing-commercial-interiors/README.md)
 - [PUB-0010 - Connecticut Nuisance Wildlife Control as a Community Service](projects/PUB-0010-connecticut-nuisance-wildlife-control-as-a-community-service/README.md)
 - [PUB-0009 - Turning Manufacturing Knowledge into Shop-Drawing Software](projects/PUB-0009-turning-manufacturing-knowledge-into-shop-drawing-software/README.md)
 - [PUB-0008 - Obsidian Skills and Automation Systems for a Solo Operator](projects/PUB-0008-obsidian-skills-and-automation-systems-for-a-solo-operator/README.md)
