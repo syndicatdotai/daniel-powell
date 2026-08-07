@@ -16,6 +16,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0011 | [On-Site Drafting for Existing Commercial Interiors](projects/PUB-0011-on-site-drafting-for-existing-commercial-interiors/README.md) | Existing-condition documentation, Field measurement, On-site drafting, Commercial interiors | Published |
 | PUB-0009 | [Turning Manufacturing Knowledge into Shop-Drawing Software](projects/PUB-0009-turning-manufacturing-knowledge-into-shop-drawing-software/README.md) | Domain-driven software development, Shop-drawing automation, Manufacturing workflow design, AutoCAD production knowledge | Published |
 | PUB-0008 | [Obsidian Skills and Automation Systems for a Solo Operator](projects/PUB-0008-obsidian-skills-and-automation-systems-for-a-solo-operator/README.md) | AI-assisted operations, Obsidian workflow design, Remote administration, Construction business systems | Published |
 | PUB-0006 | [Build the Feature or Draw It Manually? A Railing Automation Decision Framework](projects/PUB-0006-build-the-feature-or-draw-it-manually-a-railing-automation-decision-fram/README.md) | Shop-drawing automation, Software development, Drafting workflow design, Decision framework | Published |
