@@ -25,3 +25,9 @@ Historical projects will be added after source review, time-range confirmation, 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
 | PUB-0007 | [Southern Connecticut Shopping Center Life-Safety Coordination](projects/PUB-0007-southern-connecticut-shopping-center-life-safety-coordination/README.md) | Life-safety coordination, Existing-condition investigation, Subcontractor coordination, Commercial project management | Published |
+
+## Community and Field Services
+
+| Public ID | Project | Work areas | Public status |
+|---|---|---|---|
+| PUB-0010 | [Connecticut Nuisance Wildlife Control as a Community Service](projects/PUB-0010-connecticut-nuisance-wildlife-control-as-a-community-service/README.md) | Nuisance wildlife control, Community service, Residential property assistance, Field operations | Published |
