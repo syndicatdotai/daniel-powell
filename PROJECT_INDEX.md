@@ -16,6 +16,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0019 | [Asymmetrical Workflows: AI as Delegated Capacity](projects/PUB-0019-asymmetrical-workflows-ai-as-delegated-capacity/README.md) | AI-assisted operations, Delegated task execution, Construction administration, Solo-operator capacity | Published |
 | PUB-0015 | [Voice-Assisted AI Asset Tracking for Field Operations](projects/PUB-0015-voice-assisted-ai-asset-tracking-for-field-operations/README.md) | AI-assisted asset tracking, Equipment location and job assignment, Vehicle and repair records, Voice-to-text field intake | Published |
 | PUB-0014 | [Remote AI Intake from Phone Call to Project Record](projects/PUB-0014-remote-ai-intake-from-phone-call-to-project-record/README.md) | AI-assisted customer intake, Local-first project records, Remote field administration, Calendar automation | Published |
 | PUB-0011 | [On-Site Drafting for Existing Commercial Interiors](projects/PUB-0011-on-site-drafting-for-existing-commercial-interiors/README.md) | Existing-condition documentation, Field measurement, On-site drafting, Commercial interiors | Published |
