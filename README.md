@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0017 - Combining Wildlife and Building-Condition Investigations](projects/PUB-0017-combining-wildlife-and-building-condition-investigations/README.md)
 - [PUB-0016 - Operator-Led 3D-Printed Tool for Licensed Wildlife Control](projects/PUB-0016-operator-led-3d-printed-tool-for-licensed-wildlife-control/README.md)
 - [PUB-0015 - Voice-Assisted AI Asset Tracking for Field Operations](projects/PUB-0015-voice-assisted-ai-asset-tracking-for-field-operations/README.md)
 - [PUB-0014 - Remote AI Intake from Phone Call to Project Record](projects/PUB-0014-remote-ai-intake-from-phone-call-to-project-record/README.md)
