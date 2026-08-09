@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0005 - Voice-Enabled Field Access to Advanced Construction Software](projects/PUB-0005-voice-enabled-field-access-to-advanced-construction-software/README.md)
 - [PUB-0019 - Asymmetrical Workflows: AI as Delegated Capacity](projects/PUB-0019-asymmetrical-workflows-ai-as-delegated-capacity/README.md)
 - [PUB-0017 - Combining Wildlife and Building-Condition Investigations](projects/PUB-0017-combining-wildlife-and-building-condition-investigations/README.md)
 - [PUB-0016 - Operator-Led 3D-Printed Tool for Licensed Wildlife Control](projects/PUB-0016-operator-led-3d-printed-tool-for-licensed-wildlife-control/README.md)
