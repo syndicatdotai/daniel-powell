@@ -16,6 +16,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0020 | [Open-Source PDF Tools in an AutoCAD Workflow](projects/PUB-0020-open-source-pdf-tools-in-an-autocad-workflow/README.md) | Drafting support, PDF document assembly, Open-source software, AI-assisted file operations | Published |
 | PUB-0005 | [Voice-Enabled Field Access to Advanced Construction Software](projects/PUB-0005-voice-enabled-field-access-to-advanced-construction-software/README.md) | Field operations, Voice interfaces, Construction technology, Remote software access | Published |
 | PUB-0019 | [Asymmetrical Workflows: AI as Delegated Capacity](projects/PUB-0019-asymmetrical-workflows-ai-as-delegated-capacity/README.md) | AI-assisted operations, Delegated task execution, Construction administration, Solo-operator capacity | Published |
 | PUB-0015 | [Voice-Assisted AI Asset Tracking for Field Operations](projects/PUB-0015-voice-assisted-ai-asset-tracking-for-field-operations/README.md) | AI-assisted asset tracking, Equipment location and job assignment, Vehicle and repair records, Voice-to-text field intake | Published |
