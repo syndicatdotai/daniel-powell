@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0021 - Voice-Assisted Documentation After a Construction Site Visit](projects/PUB-0021-voice-assisted-post-visit-construction-documentation/README.md)
 - [PUB-0020 - Open-Source PDF Tools in an AutoCAD Workflow](projects/PUB-0020-open-source-pdf-tools-in-an-autocad-workflow/README.md)
 - [PUB-0005 - Voice-Enabled Field Access to Advanced Construction Software](projects/PUB-0005-voice-enabled-field-access-to-advanced-construction-software/README.md)
 - [PUB-0019 - Asymmetrical Workflows: AI as Delegated Capacity](projects/PUB-0019-asymmetrical-workflows-ai-as-delegated-capacity/README.md)
