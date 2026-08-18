@@ -16,6 +16,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0024 | [Using Codex to Sign Documents Remotely](projects/PUB-0024-using-codex-to-sign-documents-remotely/README.md) | Document signing and delivery | Published |
 | PUB-0023 | [Using Codex to Upload Project Documentation into JobTread](projects/PUB-0023-using-codex-to-upload-project-documentation-into-jobtread/README.md) | Construction project management, AI-assisted file handling | Published |
 | PUB-0020 | [Open-Source PDF Tools in an AutoCAD Workflow](projects/PUB-0020-open-source-pdf-tools-in-an-autocad-workflow/README.md) | Drafting support, PDF document assembly, Open-source software, AI-assisted file operations | Published |
 | PUB-0005 | [Voice-Enabled Field Access to Advanced Construction Software](projects/PUB-0005-voice-enabled-field-access-to-advanced-construction-software/README.md) | Field operations, Voice interfaces, Construction technology, Remote software access | Published |
