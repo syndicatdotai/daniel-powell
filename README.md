@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0026 - Reducing Office Dependence Through AI-Assisted Administration](projects/PUB-0026-reducing-office-dependence-ai-assisted-administration/README.md)
 - [PUB-0025 - Real-Time Audio for Organizing Field Context](projects/PUB-0025-real-time-audio-field-context/README.md)
 - [PUB-0024 - Using Codex to Sign Documents Remotely](projects/PUB-0024-using-codex-to-sign-documents-remotely/README.md)
 - [PUB-0023 - Using Codex to Upload Project Documentation into JobTread](projects/PUB-0023-using-codex-to-upload-project-documentation-into-jobtread/README.md)
