@@ -49,3 +49,9 @@ Historical projects will be added after source review, time-range confirmation, 
 |---|---|---|---|
 | PUB-0025 | [Real-Time Audio for Organizing Field Context](projects/PUB-0025-real-time-audio-field-context/README.md) | Voice-assisted field operations, Project knowledge capture, AI-assisted note organization | Published |
 | PUB-0021 | [Voice-Assisted Documentation After a Construction Site Visit](projects/PUB-0021-voice-assisted-post-visit-construction-documentation/README.md) | Construction field documentation, AI-assisted project administration, Estimate and contract preparation | Published |
+
+## Systems And Workflows
+
+| Public ID | Project | Work areas | Public status |
+|---|---|---|---|
+| PUB-0026 | [Reducing Office Dependence Through AI-Assisted Administration](projects/PUB-0026-reducing-office-dependence-ai-assisted-administration/README.md) | Remote administration, AI-assisted business operations, Construction project coordination | Published |
