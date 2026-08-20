@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0027 - Automating Gaussian Splats from Phone Capture to Production](projects/PUB-0027-automated-gaussian-splat-phone-to-production/README.md)
 - [PUB-0026 - Reducing Office Dependence Through AI-Assisted Administration](projects/PUB-0026-reducing-office-dependence-ai-assisted-administration/README.md)
 - [PUB-0025 - Real-Time Audio for Organizing Field Context](projects/PUB-0025-real-time-audio-field-context/README.md)
 - [PUB-0024 - Using Codex to Sign Documents Remotely](projects/PUB-0024-using-codex-to-sign-documents-remotely/README.md)
