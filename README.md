@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0028 - Automating Connecticut site context at project kickoff](projects/PUB-0028-automating-connecticut-site-context-at-project-kickoff/README.md)
 - [PUB-0027 - Automating Gaussian Splats from Phone Capture to Production](projects/PUB-0027-automated-gaussian-splat-phone-to-production/README.md)
 - [PUB-0026 - Reducing Office Dependence Through AI-Assisted Administration](projects/PUB-0026-reducing-office-dependence-ai-assisted-administration/README.md)
 - [PUB-0025 - Real-Time Audio for Organizing Field Context](projects/PUB-0025-real-time-audio-field-context/README.md)

@@ -6,6 +6,7 @@ Projects are listed by approximate period. Public IDs are stable and do not corr
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0028 | [Automating Connecticut site context at project kickoff](projects/PUB-0028-automating-connecticut-site-context-at-project-kickoff/README.md) | Construction planning, Geospatial context, Workflow automation | Published |
 | PUB-0001 | [Middlesex County Residential Design Adaptation](projects/PUB-0001-middlesex-county-residential-design/README.md) | Residential planning, drafting, permit-response coordination | Initial public draft |
 
 ## Earlier Work
