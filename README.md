@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0030 - Using a fresh context for contract revisions](projects/PUB-0030-using-a-fresh-context-for-contract-revisions/README.md)
 - [PUB-0029 - Using AI to find building codes and verify the source](projects/PUB-0029-using-ai-to-find-building-codes-and-verify-the-source/README.md)
 - [PUB-0028 - Automating Connecticut site context at project kickoff](projects/PUB-0028-automating-connecticut-site-context-at-project-kickoff/README.md)
 - [PUB-0027 - Automating Gaussian Splats from Phone Capture to Production](projects/PUB-0027-automated-gaussian-splat-phone-to-production/README.md)
