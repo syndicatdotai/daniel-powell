@@ -17,6 +17,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0031 | [Using travel time to keep construction administration current](projects/PUB-0031-using-travel-time-to-keep-construction-administration-current/README.md) | Construction administration, Field-to-office workflow, AI-assisted workflow design | Published |
 | PUB-0030 | [Using a fresh context for contract revisions](projects/PUB-0030-using-a-fresh-context-for-contract-revisions/README.md) | Construction document revision, Contract review, AI-assisted workflow design | Published |
 | PUB-0029 | [Using AI to find building codes and verify the source](projects/PUB-0029-using-ai-to-find-building-codes-and-verify-the-source/README.md) | Construction research, Code and regulation research, Source verification | Published |
 | PUB-0024 | [Using Codex to Sign Documents Remotely](projects/PUB-0024-using-codex-to-sign-documents-remotely/README.md) | Document signing and delivery | Published |
