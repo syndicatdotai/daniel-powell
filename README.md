@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0031 - Using travel time to keep construction administration current](projects/PUB-0031-using-travel-time-to-keep-construction-administration-current/README.md)
 - [PUB-0030 - Using a fresh context for contract revisions](projects/PUB-0030-using-a-fresh-context-for-contract-revisions/README.md)
 - [PUB-0029 - Using AI to find building codes and verify the source](projects/PUB-0029-using-ai-to-find-building-codes-and-verify-the-source/README.md)
 - [PUB-0028 - Automating Connecticut site context at project kickoff](projects/PUB-0028-automating-connecticut-site-context-at-project-kickoff/README.md)
