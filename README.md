@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0035 - Using Codex to learn unfamiliar construction assembly methods](projects/PUB-0035-using-codex-to-learn-unfamiliar-construction-assembly-methods/README.md)
 - [PUB-0034 - Using Codex to build client-specific marketing brochures](projects/PUB-0034-using-codex-to-build-client-specific-marketing-brochures/README.md)
 - [PUB-0033 - Using AI for a material-sourcing research loop](projects/PUB-0033-using-ai-for-a-material-sourcing-research-loop/README.md)
 - [PUB-0032 - Using AI to connect regulatory research to the first residential design meeting](projects/PUB-0032-using-ai-to-connect-regulatory-research-to-the-first-residential-design-/README.md)
