@@ -17,6 +17,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0034 | [Using Codex to build client-specific marketing brochures](projects/PUB-0034-using-codex-to-build-client-specific-marketing-brochures/README.md) | Client communication, Marketing collateral, Construction technology, Source-backed project documentation | Published |
 | PUB-0033 | [Using AI for a material-sourcing research loop](projects/PUB-0033-using-ai-for-a-material-sourcing-research-loop/README.md) | Material sourcing, Procurement research, Construction technology | Published |
 | PUB-0032 | [Using AI to connect regulatory research to the first residential design meeting](projects/PUB-0032-using-ai-to-connect-regulatory-research-to-the-first-residential-design-/README.md) | Residential design intake, Zoning and building-regulation research, AI-assisted site-visit documentation | Published |
 | PUB-0031 | [Using travel time to keep construction administration current](projects/PUB-0031-using-travel-time-to-keep-construction-administration-current/README.md) | Construction administration, Field-to-office workflow, AI-assisted workflow design | Published |
