@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0037 - Using Codex Remote to capture design thinking away from the office](projects/PUB-0037-using-codex-remote-to-capture-design-thinking-away-from-the-office/README.md)
 - [PUB-0036 - Using Codex to explore alternative construction approaches under local codes](projects/PUB-0036-using-codex-to-explore-alternative-construction-approaches-under-local-c/README.md)
 - [PUB-0035 - Using Codex to learn unfamiliar construction assembly methods](projects/PUB-0035-using-codex-to-learn-unfamiliar-construction-assembly-methods/README.md)
 - [PUB-0034 - Using Codex to build client-specific marketing brochures](projects/PUB-0034-using-codex-to-build-client-specific-marketing-brochures/README.md)

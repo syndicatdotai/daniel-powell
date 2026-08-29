@@ -6,6 +6,7 @@ Projects are listed by approximate period. Public IDs are stable and do not corr
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0037 | [Using Codex Remote to capture design thinking away from the office](projects/PUB-0037-using-codex-remote-to-capture-design-thinking-away-from-the-office/README.md) | Mobile design documentation, Design research, Construction technology | Published |
 | PUB-0036 | [Using Codex to explore alternative construction approaches under local codes](projects/PUB-0036-using-codex-to-explore-alternative-construction-approaches-under-local-c/README.md) | Regulatory research, Construction planning, Alternative construction methods | Published |
 | PUB-0035 | [Using Codex to learn unfamiliar construction assembly methods](projects/PUB-0035-using-codex-to-learn-unfamiliar-construction-assembly-methods/README.md) | Construction research, Building methods, AI-assisted technical research | Published |
 | PUB-0028 | [Automating Connecticut site context at project kickoff](projects/PUB-0028-automating-connecticut-site-context-at-project-kickoff/README.md) | Construction planning, Geospatial context, Workflow automation | Published |
