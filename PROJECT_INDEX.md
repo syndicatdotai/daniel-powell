@@ -6,6 +6,7 @@ Projects are listed by approximate period. Public IDs are stable and do not corr
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0041 | [Juggling parallel AI work from the road](projects/PUB-0041-juggling-parallel-ai-work-from-the-road/README.md) | AI-assisted operations, Parallel task orchestration, Construction administration | Published |
 | PUB-0039 | [Using Codex Remote to clear the weekend admin backlog](projects/PUB-0039-using-codex-remote-to-clear-the-weekend-admin-backlog/README.md) | Remote construction administration, Voice-assisted documentation, Project recordkeeping | Published |
 | PUB-0038 | [Finding the trust threshold for AI delegation](projects/PUB-0038-finding-the-trust-threshold-for-ai-delegation/README.md) | AI-assisted workflow design, Decision delegation | Published |
 | PUB-0037 | [Using Codex Remote to capture design thinking away from the office](projects/PUB-0037-using-codex-remote-to-capture-design-thinking-away-from-the-office/README.md) | Mobile design documentation, Design research, Construction technology | Published |

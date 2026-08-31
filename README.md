@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0041 - Juggling parallel AI work from the road](projects/PUB-0041-juggling-parallel-ai-work-from-the-road/README.md)
 - [PUB-0039 - Using Codex Remote to clear the weekend admin backlog](projects/PUB-0039-using-codex-remote-to-clear-the-weekend-admin-backlog/README.md)
 - [PUB-0038 - Finding the trust threshold for AI delegation](projects/PUB-0038-finding-the-trust-threshold-for-ai-delegation/README.md)
 - [PUB-0037 - Using Codex Remote to capture design thinking away from the office](projects/PUB-0037-using-codex-remote-to-capture-design-thinking-away-from-the-office/README.md)
