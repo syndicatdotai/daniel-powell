@@ -6,6 +6,7 @@ Projects are listed by approximate period. Public IDs are stable and do not corr
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0043 | [Routing Project PDFs from Email into the Right Job with Codex Remote](projects/PUB-0043-routing-project-pdfs-from-email-into-the-right-job-with-codex-remote/README.md) | Construction document control and mobile project administration | Published |
 | PUB-0042 | [Near Instant Field Notes with Codex Remote](projects/PUB-0042-near-instant-field-notes-with-codex-remote/README.md) | Field documentation, Construction administration, Voice-assisted note capture | Published |
 | PUB-0041 | [Juggling parallel AI work from the road](projects/PUB-0041-juggling-parallel-ai-work-from-the-road/README.md) | AI-assisted operations, Parallel task orchestration, Construction administration | Published |
 | PUB-0039 | [Using Codex Remote to clear the weekend admin backlog](projects/PUB-0039-using-codex-remote-to-clear-the-weekend-admin-backlog/README.md) | Remote construction administration, Voice-assisted documentation, Project recordkeeping | Published |
