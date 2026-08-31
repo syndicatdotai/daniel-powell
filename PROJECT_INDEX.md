@@ -6,6 +6,7 @@ Projects are listed by approximate period. Public IDs are stable and do not corr
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0039 | [Using Codex Remote to clear the weekend admin backlog](projects/PUB-0039-using-codex-remote-to-clear-the-weekend-admin-backlog/README.md) | Remote construction administration, Voice-assisted documentation, Project recordkeeping | Published |
 | PUB-0038 | [Finding the trust threshold for AI delegation](projects/PUB-0038-finding-the-trust-threshold-for-ai-delegation/README.md) | AI-assisted workflow design, Decision delegation | Published |
 | PUB-0037 | [Using Codex Remote to capture design thinking away from the office](projects/PUB-0037-using-codex-remote-to-capture-design-thinking-away-from-the-office/README.md) | Mobile design documentation, Design research, Construction technology | Published |
 | PUB-0036 | [Using Codex to explore alternative construction approaches under local codes](projects/PUB-0036-using-codex-to-explore-alternative-construction-approaches-under-local-c/README.md) | Regulatory research, Construction planning, Alternative construction methods | Published |
