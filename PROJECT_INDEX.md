@@ -77,3 +77,9 @@ Historical projects will be added after source review, time-range confirmation, 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
 | PUB-0046 | [Keeping track of blueprint revisions with AI](projects/PUB-0046-keeping-track-of-blueprint-revisions-with-ai/README.md) | Drawing revision documentation | Published |
+
+## AI Workflows
+
+| Public ID | Project | Work areas | Public status |
+|---|---|---|---|
+| PUB-0047 | [Adding field photos and context to job records with Codex Remote](projects/PUB-0047-adding-field-photos-and-context-to-job-records-with-codex-remote/README.md) | Field documentation, Job records | Published |
