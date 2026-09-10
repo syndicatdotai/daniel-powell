@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0048 - Using ChatGPT to speak translated instructions on the job](projects/PUB-0048-using-chatgpt-to-speak-translated-instructions-on-the-job/README.md)
 - [PUB-0047 - Adding field photos and context to job records with Codex Remote](projects/PUB-0047-adding-field-photos-and-context-to-job-records-with-codex-remote/README.md)
 - [PUB-0046 - Keeping track of blueprint revisions with AI](projects/PUB-0046-keeping-track-of-blueprint-revisions-with-ai/README.md)
 - [PUB-0043 - Routing Project PDFs from Email into the Right Job with Codex Remote](projects/PUB-0043-routing-project-pdfs-from-email-into-the-right-job-with-codex-remote/README.md)
