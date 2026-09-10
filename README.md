@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0050 - Remembering more and carrying less through voice documentation](projects/PUB-0050-remembering-more-and-carrying-less-through-voice-documentation/README.md)
 - [PUB-0049 - Updating my schedule remotely with a local calendar record](projects/PUB-0049-updating-my-schedule-remotely-with-a-local-calendar-record/README.md)
 - [PUB-0048 - Using ChatGPT to speak translated instructions on the job](projects/PUB-0048-using-chatgpt-to-speak-translated-instructions-on-the-job/README.md)
 - [PUB-0047 - Adding field photos and context to job records with Codex Remote](projects/PUB-0047-adding-field-photos-and-context-to-job-records-with-codex-remote/README.md)

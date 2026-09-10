@@ -82,6 +82,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0050 | [Remembering more and carrying less through voice documentation](projects/PUB-0050-remembering-more-and-carrying-less-through-voice-documentation/README.md) | Business documentation, Voice note capture | Published |
 | PUB-0049 | [Updating my schedule remotely with a local calendar record](projects/PUB-0049-updating-my-schedule-remotely-with-a-local-calendar-record/README.md) | Remote scheduling, Calendar synchronization | Published |
 | PUB-0048 | [Using ChatGPT to speak translated instructions on the job](projects/PUB-0048-using-chatgpt-to-speak-translated-instructions-on-the-job/README.md) | Jobsite communication, Translation | Published |
 | PUB-0047 | [Adding field photos and context to job records with Codex Remote](projects/PUB-0047-adding-field-photos-and-context-to-job-records-with-codex-remote/README.md) | Field documentation, Job records | Published |
