@@ -82,4 +82,5 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0048 | [Using ChatGPT to speak translated instructions on the job](projects/PUB-0048-using-chatgpt-to-speak-translated-instructions-on-the-job/README.md) | Jobsite communication, Translation | Published |
 | PUB-0047 | [Adding field photos and context to job records with Codex Remote](projects/PUB-0047-adding-field-photos-and-context-to-job-records-with-codex-remote/README.md) | Field documentation, Job records | Published |
