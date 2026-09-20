@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0052 - Asking Questions About Project Manuals](projects/PUB-0052-asking-questions-about-project-manuals/README.md)
 - [PUB-0051 - Directing work through Codex Remote during driving time](projects/PUB-0051-directing-work-through-codex-remote-during-driving-time/README.md)
 - [PUB-0050 - Remembering more and carrying less through voice documentation](projects/PUB-0050-remembering-more-and-carrying-less-through-voice-documentation/README.md)
 - [PUB-0049 - Updating my schedule remotely with a local calendar record](projects/PUB-0049-updating-my-schedule-remotely-with-a-local-calendar-record/README.md)
