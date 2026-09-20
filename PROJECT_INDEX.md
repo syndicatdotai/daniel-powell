@@ -82,6 +82,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0052 | [Asking Questions About Project Manuals](projects/PUB-0052-asking-questions-about-project-manuals/README.md) | Technical documentation | Published |
 | PUB-0051 | [Directing work through Codex Remote during driving time](projects/PUB-0051-directing-work-through-codex-remote-during-driving-time/README.md) | Remote administration, Voice directed work | Published |
 | PUB-0050 | [Remembering more and carrying less through voice documentation](projects/PUB-0050-remembering-more-and-carrying-less-through-voice-documentation/README.md) | Business documentation, Voice note capture | Published |
 | PUB-0049 | [Updating my schedule remotely with a local calendar record](projects/PUB-0049-updating-my-schedule-remotely-with-a-local-calendar-record/README.md) | Remote scheduling, Calendar synchronization | Published |
