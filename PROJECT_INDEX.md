@@ -82,6 +82,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0054 | [Choosing the Model for Each Part of the Work](projects/PUB-0054-choosing-the-model-for-each-part-of-the-work/README.md) | Model selection and task handoffs | Published |
 | PUB-0053 | [Using AutoCAD Elevations for Customer Concept Images](projects/PUB-0053-using-autocad-elevations-for-customer-concept-images/README.md) | Design visualization | Published |
 | PUB-0052 | [Asking Questions About Project Manuals](projects/PUB-0052-asking-questions-about-project-manuals/README.md) | Technical documentation | Published |
 | PUB-0051 | [Directing work through Codex Remote during driving time](projects/PUB-0051-directing-work-through-codex-remote-during-driving-time/README.md) | Remote administration, Voice directed work | Published |
