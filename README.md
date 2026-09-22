@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0055 - Moving Everyday AI Work into ChatGPT with Saved Context](projects/PUB-0055-moving-everyday-ai-work-into-chatgpt-with-saved-context/README.md)
 - [PUB-0054 - Choosing the Model for Each Part of the Work](projects/PUB-0054-choosing-the-model-for-each-part-of-the-work/README.md)
 - [PUB-0053 - Using AutoCAD Elevations for Customer Concept Images](projects/PUB-0053-using-autocad-elevations-for-customer-concept-images/README.md)
 - [PUB-0052 - Asking Questions About Project Manuals](projects/PUB-0052-asking-questions-about-project-manuals/README.md)
