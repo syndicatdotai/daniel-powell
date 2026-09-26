@@ -82,6 +82,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0056 | [Turning Open Chrome Tabs into a Batch Research Task](projects/PUB-0056-turning-open-chrome-tabs-into-a-batch-research-task/README.md) | Research and knowledge capture | Published |
 | PUB-0055 | [Moving Everyday AI Work into ChatGPT with Saved Context](projects/PUB-0055-moving-everyday-ai-work-into-chatgpt-with-saved-context/README.md) | AI note capture and saved context | Published |
 | PUB-0054 | [Choosing the Model for Each Part of the Work](projects/PUB-0054-choosing-the-model-for-each-part-of-the-work/README.md) | Model selection and task handoffs | Published |
 | PUB-0053 | [Using AutoCAD Elevations for Customer Concept Images](projects/PUB-0053-using-autocad-elevations-for-customer-concept-images/README.md) | Design visualization | Published |
