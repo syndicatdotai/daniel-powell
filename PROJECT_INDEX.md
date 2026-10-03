@@ -6,6 +6,9 @@ Projects are listed by approximate period. Public IDs are stable and do not corr
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0045 | [Remote AutoCAD drawing set maintenance and quality control](projects/PUB-0045-remote-autocad-drawing-set-maintenance-and-quality-control/README.md) | Construction documentation, Drawing set quality control, Remote computer workflow | Published |
+| PUB-0044 | [How my daily AI use varies](projects/PUB-0044-how-my-daily-ai-use-varies/README.md) | AI assisted operations and construction administration | Published |
+| PUB-0040 | [Refining blueprint callouts with Codex](projects/PUB-0040-refining-blueprint-callouts-with-codex/README.md) | Architectural drafting, Construction documentation, AI-assisted writing | Published |
 | PUB-0043 | [Routing Project PDFs from Email into the Right Job with Codex Remote](projects/PUB-0043-routing-project-pdfs-from-email-into-the-right-job-with-codex-remote/README.md) | Construction document control and mobile project administration | Published |
 | PUB-0042 | [Near Instant Field Notes with Codex Remote](projects/PUB-0042-near-instant-field-notes-with-codex-remote/README.md) | Field documentation, Construction administration, Voice-assisted note capture | Published |
 | PUB-0041 | [Juggling parallel AI work from the road](projects/PUB-0041-juggling-parallel-ai-work-from-the-road/README.md) | AI-assisted operations, Parallel task orchestration, Construction administration | Published |
