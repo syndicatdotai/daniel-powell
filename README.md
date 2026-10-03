@@ -13,6 +13,9 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0045 - Remote AutoCAD drawing set maintenance and quality control](projects/PUB-0045-remote-autocad-drawing-set-maintenance-and-quality-control/README.md)
+- [PUB-0044 - How my daily AI use varies](projects/PUB-0044-how-my-daily-ai-use-varies/README.md)
+- [PUB-0040 - Refining blueprint callouts with Codex](projects/PUB-0040-refining-blueprint-callouts-with-codex/README.md)
 - [PUB-0056 - Turning Open Chrome Tabs into a Batch Research Task](projects/PUB-0056-turning-open-chrome-tabs-into-a-batch-research-task/README.md)
 - [PUB-0055 - Moving Everyday AI Work into ChatGPT with Saved Context](projects/PUB-0055-moving-everyday-ai-work-into-chatgpt-with-saved-context/README.md)
 - [PUB-0054 - Choosing the Model for Each Part of the Work](projects/PUB-0054-choosing-the-model-for-each-part-of-the-work/README.md)
