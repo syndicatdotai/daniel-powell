@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0060 - Exceptionally productive days with remote AI workflows](projects/PUB-0060-exceptionally-productive-days-with-remote-ai-workflows/README.md)
 - [PUB-0059 - Comparing foundation and metal building engineering documents with Codex](projects/PUB-0059-comparing-foundation-and-metal-building-engineering-documents-with-codex/README.md)
 - [PUB-0057 - Using AI during crunch times](projects/PUB-0057-using-ai-during-crunch-times/README.md)
 - [PUB-0045 - Remote AutoCAD drawing set maintenance and quality control](projects/PUB-0045-remote-autocad-drawing-set-maintenance-and-quality-control/README.md)
