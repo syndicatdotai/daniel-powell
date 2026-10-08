@@ -85,6 +85,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0059 | [Comparing foundation and metal building engineering documents with Codex](projects/PUB-0059-comparing-foundation-and-metal-building-engineering-documents-with-codex/README.md) | Engineering document coordination | Published |
 | PUB-0057 | [Using AI during crunch times](projects/PUB-0057-using-ai-during-crunch-times/README.md) | Remote construction documentation | Published |
 | PUB-0056 | [Turning Open Chrome Tabs into a Batch Research Task](projects/PUB-0056-turning-open-chrome-tabs-into-a-batch-research-task/README.md) | Research and knowledge capture | Published |
 | PUB-0055 | [Moving Everyday AI Work into ChatGPT with Saved Context](projects/PUB-0055-moving-everyday-ai-work-into-chatgpt-with-saved-context/README.md) | AI note capture and saved context | Published |
