@@ -85,6 +85,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0061 | [Creating and sending invoices through voice instructions](projects/PUB-0061-creating-and-sending-invoices-through-voice-instructions/README.md) | Voice directed client documents | Published |
 | PUB-0060 | [Exceptionally productive days with remote AI workflows](projects/PUB-0060-exceptionally-productive-days-with-remote-ai-workflows/README.md) | Remote project coordination | Published |
 | PUB-0059 | [Comparing foundation and metal building engineering documents with Codex](projects/PUB-0059-comparing-foundation-and-metal-building-engineering-documents-with-codex/README.md) | Engineering document coordination | Published |
 | PUB-0057 | [Using AI during crunch times](projects/PUB-0057-using-ai-during-crunch-times/README.md) | Remote construction documentation | Published |
