@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0062 - Helping a resale business organize tag sale visits with AI](projects/PUB-0062-helping-a-resale-business-organize-tag-sale-visits-with-ai/README.md)
 - [PUB-0061 - Creating and sending invoices through voice instructions](projects/PUB-0061-creating-and-sending-invoices-through-voice-instructions/README.md)
 - [PUB-0060 - Exceptionally productive days with remote AI workflows](projects/PUB-0060-exceptionally-productive-days-with-remote-ai-workflows/README.md)
 - [PUB-0059 - Comparing foundation and metal building engineering documents with Codex](projects/PUB-0059-comparing-foundation-and-metal-building-engineering-documents-with-codex/README.md)
