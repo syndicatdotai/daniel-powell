@@ -85,6 +85,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0063 | [How I use AI when starting a new project](projects/PUB-0063-how-i-use-ai-when-starting-a-new-project/README.md) | Project intake and documentation | Published |
 | PUB-0062 | [Helping a resale business organize tag sale visits with AI](projects/PUB-0062-helping-a-resale-business-organize-tag-sale-visits-with-ai/README.md) | Small business research and route planning | Published |
 | PUB-0061 | [Creating and sending invoices through voice instructions](projects/PUB-0061-creating-and-sending-invoices-through-voice-instructions/README.md) | Voice directed client documents | Published |
 | PUB-0060 | [Exceptionally productive days with remote AI workflows](projects/PUB-0060-exceptionally-productive-days-with-remote-ai-workflows/README.md) | Remote project coordination | Published |
