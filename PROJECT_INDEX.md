@@ -85,6 +85,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0065 | [Experimenting with new AI capabilities in the field](projects/PUB-0065-experimenting-with-new-ai-capabilities-in-the-field/README.md) | Field workflow experimentation | Published |
 | PUB-0064 | [Designing AI workflows for construction work in the field](projects/PUB-0064-designing-ai-workflows-for-construction-work-in-the-field/README.md) | Voice directed field administration | Published |
 | PUB-0063 | [How I use AI when starting a new project](projects/PUB-0063-how-i-use-ai-when-starting-a-new-project/README.md) | Project intake and documentation | Published |
 | PUB-0062 | [Helping a resale business organize tag sale visits with AI](projects/PUB-0062-helping-a-resale-business-organize-tag-sale-visits-with-ai/README.md) | Small business research and route planning | Published |
