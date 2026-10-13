@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0066 - Starting site documentation with real-time AI](projects/PUB-0066-turning-spoken-site-observations-into-working-documents/README.md)
 - [PUB-0065 - Experimenting with new AI capabilities in the field](projects/PUB-0065-experimenting-with-new-ai-capabilities-in-the-field/README.md)
 - [PUB-0064 - Designing AI workflows for construction work in the field](projects/PUB-0064-designing-ai-workflows-for-construction-work-in-the-field/README.md)
 - [PUB-0063 - How I use AI when starting a new project](projects/PUB-0063-how-i-use-ai-when-starting-a-new-project/README.md)
