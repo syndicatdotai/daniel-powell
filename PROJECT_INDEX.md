@@ -85,6 +85,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0069 | [Watching Wearables and AI in Construction](projects/PUB-0069-watching-wearables-and-ai-in-construction/README.md) | Field documentation | Published |
 | PUB-0067 | [Using voice dictation in the field and at my desktop](projects/PUB-0067-using-voice-dictation-in-the-field-and-at-my-desktop/README.md) | Voice directed desktop and field work | Published |
 | PUB-0066 | [Starting site documentation with real-time AI](projects/PUB-0066-turning-spoken-site-observations-into-working-documents/README.md) | Field notes and document preparation | Published |
 | PUB-0065 | [Experimenting with new AI capabilities in the field](projects/PUB-0065-experimenting-with-new-ai-capabilities-in-the-field/README.md) | Field workflow experimentation | Published |
