@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0071 - A Lightweight Task Manager and Punch Lists in Markdown](projects/PUB-0071-a-lightweight-task-manager-and-punch-lists-in-markdown/README.md)
 - [PUB-0069 - Watching Wearables and AI in Construction](projects/PUB-0069-watching-wearables-and-ai-in-construction/README.md)
 - [PUB-0067 - Using voice dictation in the field and at my desktop](projects/PUB-0067-using-voice-dictation-in-the-field-and-at-my-desktop/README.md)
 - [PUB-0066 - Starting site documentation with real-time AI](projects/PUB-0066-turning-spoken-site-observations-into-working-documents/README.md)
