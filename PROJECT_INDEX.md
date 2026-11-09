@@ -85,6 +85,7 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0073 | [AI Wearables and Everyday Construction Workflows](projects/PUB-0073-ai-wearables-and-everyday-construction-workflows/README.md) | Construction wearables and field documentation | Published |
 | PUB-0072 | [Routing One Voice Update Across Jobs and Projects](projects/PUB-0072-routing-one-voice-update-across-jobs-and-projects/README.md) | Voice capture and record routing | Published |
 | PUB-0071 | [A Lightweight Task Manager and Punch Lists in Markdown](projects/PUB-0071-a-lightweight-task-manager-and-punch-lists-in-markdown/README.md) | Task management and punch lists | Published |
 | PUB-0069 | [Watching Wearables and AI in Construction](projects/PUB-0069-watching-wearables-and-ai-in-construction/README.md) | Field documentation | Published |
