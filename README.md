@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0074 - Building Railing Software One Needed Feature at a Time](projects/PUB-0074-building-railing-software-one-needed-feature-at-a-time/README.md)
 - [PUB-0073 - AI Wearables and Everyday Construction Workflows](projects/PUB-0073-ai-wearables-and-everyday-construction-workflows/README.md)
 - [PUB-0072 - Routing One Voice Update Across Jobs and Projects](projects/PUB-0072-routing-one-voice-update-across-jobs-and-projects/README.md)
 - [PUB-0071 - A Lightweight Task Manager and Punch Lists in Markdown](projects/PUB-0071-a-lightweight-task-manager-and-punch-lists-in-markdown/README.md)
