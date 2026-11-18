@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0076 - Using Codex to Prepare a Building Review Response](projects/PUB-0076-using-codex-to-prepare-a-building-review-response/README.md)
 - [PUB-0075 - Using Voice for Almost All of My AI Instructions](projects/PUB-0075-using-voice-for-almost-all-of-my-ai-instructions/README.md)
 - [PUB-0074 - Building Railing Software One Needed Feature at a Time](projects/PUB-0074-building-railing-software-one-needed-feature-at-a-time/README.md)
 - [PUB-0073 - AI Wearables and Everyday Construction Workflows](projects/PUB-0073-ai-wearables-and-everyday-construction-workflows/README.md)
