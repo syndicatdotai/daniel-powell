@@ -4,6 +4,27 @@ Browse by period or subject. Each record has a stable PUB identifier for referen
 
 Explore the [Construction portfolio](construction/README.md) for project management, drafting, renovation, and construction technology.
 
+## Construction Articles
+
+| Public ID | Article | Work area |
+|---|---|---|
+| PUB-0092 | [Coordinating an Industrial Building Drawing Package](construction/PUB-0092-coordinating-an-industrial-building-drawing-package/README.md) | Drafting & Existing Conditions |
+| PUB-0093 | [Designing an In-Law Addition Around an Existing Home](construction/PUB-0093-designing-an-in-law-addition-around-an-existing-home/README.md) | Drafting & Existing Conditions |
+| PUB-0094 | [Testing the Feasibility of a Childcare Addition](construction/PUB-0094-testing-the-feasibility-of-a-childcare-addition/README.md) | Drafting & Existing Conditions |
+| PUB-0095 | [Developing a Garage Project Through Design and Pricing](construction/PUB-0095-developing-a-garage-project-through-design-and-pricing/README.md) | Drafting & Existing Conditions |
+| PUB-0096 | [Drawing and Building a Basement Workout Room](construction/PUB-0096-drawing-and-building-a-basement-workout-room/README.md) | Building & Renovation |
+| PUB-0097 | [Redesigning a Garage for Masonry Construction](construction/PUB-0097-redesigning-a-garage-for-masonry-construction/README.md) | Drafting & Existing Conditions |
+| PUB-0098 | [Developing an Open-Plan Home Renovation](construction/PUB-0098-developing-an-open-plan-home-renovation/README.md) | Drafting & Existing Conditions |
+| PUB-0099 | [Preparing a Site-Planning Exhibit With AI and QGIS](construction/PUB-0099-preparing-a-site-planning-exhibit-with-ai-and-qgis/README.md) | Construction Technology |
+| PUB-0100 | [Using AI Renderings to Explore Exterior Materials](construction/PUB-0100-using-ai-renderings-to-explore-exterior-materials/README.md) | Construction Technology |
+| PUB-0101 | [Reconstructing Curved Drywall After a Rejected Installation](construction/PUB-0101-reconstructing-curved-drywall-after-a-rejected-installation/README.md) | Building & Renovation |
+| PUB-0102 | [Repairing a Pergola and Finding the Cedar to Match](construction/PUB-0102-repairing-a-pergola-and-finding-the-cedar-to-match/README.md) | Building & Renovation |
+| PUB-0103 | [Installing Bathroom Assemblies in a New Industrial Building](construction/PUB-0103-installing-bathroom-assemblies-in-a-new-industrial-building/README.md) | Building & Renovation |
+| PUB-0104 | [Extending Railing Generator for Intermediate and Sloped Landings](construction/PUB-0104-extending-railing-generator-for-intermediate-and-sloped-landings/README.md) | Construction Technology |
+| PUB-0105 | [Coordinating a Field Assembly Change With the Architect of Record](construction/PUB-0105-coordinating-a-field-assembly-change-with-the-architect-of-record/README.md) | Building & Renovation |
+| PUB-0106 | [Developing a Residential Drawing Package for a General Contractor](construction/PUB-0106-developing-a-residential-drawing-package-for-a-general-contractor/README.md) | Drafting & Existing Conditions |
+| PUB-0107 | [Restoring a Space After a 5G Hub Decommissioning](construction/PUB-0107-restoring-a-space-after-a-5g-hub-decommissioning/README.md) | Building & Renovation |
+
 ## Applications
 
 | Public ID | Application | Work area | Public status |
