@@ -27,5 +27,6 @@ Construction assignments, drafting, coordination, and project delivery.
 - [PUB-0107 — Restoring a Space After a 5G Hub Decommissioning](PUB-0107-restoring-a-space-after-a-5g-hub-decommissioning.md)
 - [PUB-0110 — Developing a Faster Drywall Repair Process](PUB-0110-developing-a-faster-drywall-repair-process.md)
 - [PUB-0118 — Reconfiguring a Commercial Office and Building Eight Custom Workstations](PUB-0118-commercial-office-remodel-custom-workstations.md)
+- [PUB-0119 — Goodspeed Opera House: Assembly Selection and Installation for a Warehouse Fire Separation](PUB-0119-goodspeed-opera-house-warehouse-fire-separation.md)
 
 [Complete index](../INDEX.md) · [About Daniel Powell](../ABOUT.md)

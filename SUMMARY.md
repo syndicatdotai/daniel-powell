@@ -406,6 +406,10 @@ Daniel Powell developed a physical prototype and researched material behavior to
 
 Daniel Powell subdivided existing commercial rooms into additional offices, completing drafting, partitions, finishes, ceiling repairs, and floor repairs. Custom furniture was selected to complement the new layout. He designed eight desks in AutoCAD, sourced materials, and developed foam-padded, fabric-wrapped privacy panels for shop prefabrication and on-site assembly. The furniture phase took approximately one week.
 
+### PUB-0119 — [Goodspeed Opera House: Assembly Selection and Installation for a Warehouse Fire Separation](construction/PUB-0119-goodspeed-opera-house-warehouse-fire-separation.md)
+
+Around 2012, Daniel Powell guided a general contractor through assembly selection and installed a warehouse fire separation for Goodspeed Opera House. The work involved staged shaft-wall framing, core panels, layered gypsum board, and man-lift operation. The separation served offices beside a planned multilevel costume-storage structure with racks, catwalks, and stairs.
+
 ## Research
 
 Research projects and technical investigations.
