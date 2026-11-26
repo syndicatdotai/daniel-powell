@@ -4,7 +4,7 @@
 
 [Open the live browser game](https://blackout-ten.vercel.app/)
 
-The deployed game offers solo play and asymmetric multiplayer. In multiplayer, one person navigates while the other guides from a separate screen.
+Blackout remains in ongoing development. The public deployment is a playable development build, not a finished product. It offers solo play and asymmetric multiplayer. In multiplayer, one person navigates while the other guides from a separate screen.
 
 ## Project Summary
 
@@ -86,6 +86,16 @@ The repository history records a move from JavaScript level definitions to JSON 
 The registry also included compatibility behavior that preferred JSON when a legacy JavaScript definition shared the same identifier. This allowed the data format to change while retaining a defined way to resolve older content.
 
 Related development work updated level completion and progression for both solo and multiplayer play.
+
+## Visual Themes and Screen Effects
+
+Blackout's visual design starts with its grid and the difference between the navigating player's limited view and the guide's broader map. Walls, hazards, enemies, packages, and exits need recognizable identities while remaining readable in two different information displays.
+
+The game uses HTML and CSS for its visual elements. During development, I used AI to explore 12 alternative treatments of the existing blocks and entities, providing the application itself as context. This made it possible to compare different art directions against the same mechanics and layouts.
+
+Its screen treatment combines color-channel separation, darkened edges, scanline layers, and intermittent glitch effects. CSS and SVG filters handle parts of the presentation, with overlay layers supplying additional screen texture and interference. A shared effects stack controls where treatments apply, their order, and whether they are enabled on the sensor, map, or surrounding screen.
+
+Consolidating those effects became a design and performance decision. The presentation needed a consistent atmosphere while preserving the clarity of the grid, controls, and feedback. Adjustable effects, performance tiers, and reduced-motion handling support that balance as development continues.
 
 ## How I Used AI During Development
 
