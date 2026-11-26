@@ -2,6 +2,12 @@
 
 Browse by period or subject. Each record has a stable PUB identifier for reference.
 
+## Applications
+
+| Public ID | Application | Work area | Public status |
+|---|---|---|---|
+| PUB-0080 | [Railing Generator](applications/railing-generator.md) | Drafting automation | Published |
+
 ## 2026
 
 | Public ID | Project | Work areas | Public status |

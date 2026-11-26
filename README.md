@@ -9,6 +9,10 @@ The archive is written in plain Markdown so the material remains useful in the s
 - [About Daniel Powell](ABOUT.md)
 - [Project Index](PROJECT_INDEX.md)
 
+## Applications
+
+- [PUB-0080 - Railing Generator](applications/railing-generator.md)
+
 ## Selected Work
 
 - [PUB-0079 - Using Obsidian, GitHub, and Dropbox for Notes and Project Files](projects/PUB-0079-using-obsidian-github-and-dropbox-for-notes-and-project-files/README.md)
