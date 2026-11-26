@@ -1,25 +1,57 @@
 # Daniel Powell
 
-[Read the archive summary](SUMMARY.md) · [Complete index](INDEX.md)
+Business automation, software development, construction, and technical research.
 
-I work across construction, architectural drafting, software development, and technical research. This archive brings together the work itself and the thinking behind it: the problems encountered, the decisions made, and the methods developed along the way.
+I run a construction and drafting business and develop software to expand what I can manage as a solo operator. My work connects project delivery with the systems behind it: collecting information, developing drawings, coordinating decisions, and turning recurring work into reusable tools.
 
-Much of my software and automation grows out of running a construction and drafting business. A recurring drawing requirement becomes a feature in an application. Information captured on a site visit becomes the basis for estimates, project records, and follow-up. Experience from one assignment becomes something useful on the next.
+This archive documents that work through project accounts and development commentary. Each article explains the problem, my contribution, the decisions made, and how the approach developed.
 
-You'll also find work beyond construction, including research projects, games, music, and accounts from my wildlife-control practice. The articles range from individual project stories to detailed explanations of systems I've built and use.
+[About me](ABOUT.md) · [Career and capabilities](background/career.md) · [Complete article index](INDEX.md)
 
-## A Few Places to Begin
+## Business Operations and Automation
 
-- **[Railing Generator](applications/railing-generator/overview.md)** — How field measurements and voice instructions become shop drawings, and how production work shapes the application's development.
-- **[Running a Solo Business With Obsidian and Automation](workflows/PUB-0008-obsidian-business-automation.md)** — The connected records and reusable procedures behind project administration, business documents, and remote work.
-- **[Construction Projects](construction/index.md)** — Examples of drafting, renovation, field coordination, and resolving the differences between plans and existing conditions.
-- **[Producing Reasoning on Site](workflows/PUB-0077-podcast-production.md)** — The recording, editing, artwork, and publishing workflow behind my podcast.
-- **[C-UAS Research](research/PUB-0113-developing-a-counter-uas-research-catalog.md)** — A public research resource exploring drone threats, counter-drone technologies, and developments in the field.
-- **[The Workshop](workshop/index.md)** — Practical construction methods, beginning with a compact way to finish an exposed support column.
+How I organize a business around connected project records, voice input, reusable procedures, and AI-assisted administration.
+
+- **[Obsidian and business automation](workflows/PUB-0008-obsidian-business-automation.md)** — The operating system behind project information, business documents, and work between the office and the field.
+- **[Voice-enabled field workflows](workflows/PUB-0005-voice-enabled-field-software.md)** — Connecting spoken requests with project information, documentation, and construction software.
+- **[Browse the workflow articles](workflows/index.md)** — Estimating, correspondence, drawing reviews, research, and other recurring business processes.
+
+## Applications and Software Development
+
+Applications built around practical needs, alongside games used to explore interactive systems, visual design, and AI-assisted development.
+
+- **[Railing Generator](applications/railing-generator/overview.md)** — Turning field measurements and voice instructions into shop drawings, with production requirements guiding continued development.
+- **[Architectural client intake](applications/client-intake/overview.md)** — Organizing client requirements into a design program, written briefs, and concept visualization.
+- **[Blackout](applications/blackout/overview.md)** and **[Exfiltrate](applications/exfiltrate/overview.md)** — Browser games in ongoing development, with commentary on mechanics, art direction, tools, and architecture. Both records include playable links and screenshots.
+
+[Browse applications](applications/index.md)
+
+## Construction, Drafting, and Project Delivery
+
+The field and design experience behind much of the software and automation: architectural drafting, existing conditions, project coordination, and construction methods.
+
+- **[Construction project accounts](construction/index.md)** — Residential and commercial assignments covering design development, engineering coordination, renovation, and field execution.
+- **[From hand drafting to AutoCAD and AI](background/PUB-0083-drafting-from-handwork-to-ai.md)** — How my drafting practice developed and how different tools support the work.
+- **[Workshop techniques](workshop/index.md)** and **[design experiments](design-and-prototyping/index.md)** — Practical methods, physical prototypes, and approaches developed through hands-on work.
+
+## Research and Technical Investigation
+
+Research projects that connect source gathering, technical analysis, and useful ways to organize and present information.
+
+- **[Counter-UAS research catalog](research/PUB-0113-developing-a-counter-uas-research-catalog.md)** — Developing a public resource on drone threats, counter-drone technologies, and changes in the field.
+- **[AI-assisted research and an investigative dashboard](research/PUB-0115-ai-assisted-research-dashboard-for-a-private-investigator.md)** — Research support for a private investigator, combining public sources with a custom interface for reviewing findings.
+- **[Haddam Research Group](research/PUB-0116-haddam-research-group.md)** — Applying AI research workflows in a consultancy setting.
+
+[Browse research](research/index.md)
+
+## Media and Creative Work
+
+- **[Reasoning on Site production](workflows/PUB-0077-podcast-production.md)** — The recording, editing, artwork, and publishing workflow behind my podcast.
+- **[Musical background and production](background/music.md)** — Instrumental experience, songwriting, and digital music production.
 
 ## Background and Experience
 
-My background connects hands-on construction with project leadership, drafting, and software. These pages provide more detail about that history, my qualifications, and the interests that sit alongside the work.
+For the broader professional history, start with the pages below. The [background collection](background/index.md) also includes personal interests, community service, and wildlife-control field accounts.
 
 - [About Daniel Powell](ABOUT.md)
 - [Career and capabilities](background/career.md)
@@ -28,17 +60,17 @@ My background connects hands-on construction with project leadership, drafting, 
 
 ## Browse the Archive
 
-Choose a subject below, or open the [complete index](INDEX.md) to see every article.
+The [complete index](INDEX.md) lists every article by subject. The [archive summaries](SUMMARY.md) provide short descriptions to help you choose what to read.
 
 | Section | What you will find |
 |---|---|
-| [Background](background/index.md) | Personal history, career, education, credentials, and field accounts. |
 | [Workflows](workflows/index.md) | Business operations, automation, documentation, and media production. |
-| [Construction](construction/index.md) | Construction assignments, drafting, coordination, and project delivery. |
 | [Applications](applications/index.md) | Software applications and their development. |
+| [Construction](construction/index.md) | Construction assignments, drafting, coordination, and project delivery. |
 | [Research](research/index.md) | Research projects and technical investigations. |
 | [Design and Prototyping](design-and-prototyping/index.md) | Physical designs, prototypes, and experiments. |
 | [Workshop](workshop/index.md) | Construction techniques and practical methods. |
+| [Background](background/index.md) | Career, qualifications, personal history, and field accounts. |
 
 ## Reading With an AI Assistant
 

@@ -6,46 +6,6 @@ A searchable overview of Daniel Powell’s work. Start here to select relevant a
 
 <!-- Generated from catalog.json. Edit catalog summaries, then regenerate. -->
 
-## Background
-
-Personal history, career, education, credentials, and field accounts.
-
-### PUB-0010 — [Connecticut Nuisance Wildlife Control as a Community Service](background/PUB-0010-wildlife-control-community-service.md)
-
-Daniel Powell provides licensed nuisance-wildlife services in Connecticut, combining animal investigation with practical assistance to property owners. The work includes understanding activity around buildings, communicating with residents, and addressing wildlife access. It remains a community-service component of his broader construction and field practice.
-
-### PUB-0012 — [A Memorable Notary Appointment and Situational Awareness](background/PUB-0012-notary-appointment.md)
-
-Daniel Powell completed an affidavit notarization during an unusual off-site appointment. He assessed the unfamiliar setting, brought a companion, and maintained professional communication through the assignment. The account illustrates situational awareness and practical judgment in providing mobile notarial services.
-
-### PUB-0083 — [From Hand Drafting to AutoCAD and AI](background/PUB-0083-drafting-from-handwork-to-ai.md)
-
-Daniel Powell connects his early training in hand drafting and AutoCAD with his current drawing practice. Hand sketches remain useful for quick communication, while AutoCAD supports developed drawings and AI assists with documentation consistency. The account traces how familiar drafting methods continue to serve practical work alongside newer tools.
-
-### background:career — [Daniel Powell](background/career.md)
-
-Daniel Powell’s career inventory connects construction, drafting, project management, software development, automation, research, and creative work. It details personally performed trade work, coordination responsibilities, applications, field documentation, business operations, and training. Linked project accounts provide deeper context for the techniques, industries, deliverables, and capabilities described across his professional history.
-
-### background:education-and-credentials — [Education, Licenses, and Professional Training](background/education-and-credentials.md)
-
-Daniel Powell’s education and training span architectural drafting, AutoCAD, construction safety, notarial services, licensed wildlife control, and drone security. The article connects these qualifications with field operations, documentation, public-facing services, and technical research. It includes historical context and links to relevant credential and project information.
-
-### background:moving-a-skunk-away-from-a-crowded-shoreline-park — [Moving a Skunk Away From a Crowded Shoreline Park](background/moving-a-skunk-away-from-a-crowded-shoreline-park.md)
-
-Daniel Powell used his wildlife-control experience to guide a skunk away from visitors at a crowded shoreline park. He identified himself, asked people to create space, and directed the animal toward woodland without physical handling. He subsequently reported the encounter to police and included it in his annual wildlife activity report.
-
-### background:music — [Musical Background and Production](background/music.md)
-
-Daniel Powell’s musical background includes several instruments, approximately 150 songs written during an intensive period, and pro bono digital production work. He used Cubase and Native Instruments tools to develop arrangements and continues regular performance practice. The account connects instrumental learning, composition, and the technical process of music production.
-
-### background:responding-to-a-dangerous-wildlife-incident — [Responding to a Rabid Coyote on a Connecticut Farm](background/responding-to-a-dangerous-wildlife-incident.md)
-
-Daniel Powell responded to a dangerous coyote attacking people and animals on a Connecticut farm. He located and dispatched the animal, then reported the incident and transferred it to authorities for testing, which confirmed rabies. The account describes his field response and subsequent coordination with public agencies.
-
-### background:about — [About Daniel Powell](ABOUT.md)
-
-Daniel Powell runs a construction and drafting business and develops software to support his work as a solo operator. His practice connects field execution, design communication, estimating, coordination, and client decisions. The overview introduces how practical business needs shape his approach to automation and the work collected in this archive.
-
 ## Workflows
 
 Business operations, automation, documentation, and media production.
@@ -322,6 +282,26 @@ Remote document work extends from preparation through to a file or printed packa
 
 I use Obsidian as an ongoing record of my construction jobs. Each job has its own Markdown file, with related photos, drawings, and supporting documents stored alongside it. The notes develop as the work progresses. An initial scope might come from an email or a phone call.
 
+## Applications
+
+Software applications and their development.
+
+### PUB-0080 — [Railing Generator](applications/railing-generator/overview.md)
+
+Daniel Powell developed Railing Generator from his field-measurement and shop-drafting work for a manufacturer. The application converts measured stair and landing geometry into editable railing elevations with post and spindle relationships. He combines fabrication knowledge, voice-directed field input, drawing logic, and AutoCAD refinement in a tool he uses for production work.
+
+### PUB-0108 — [Building an Architectural Client Intake Application](applications/client-intake/overview.md)
+
+I built an architectural client intake application to collect the information that shapes a design program: what the client wants to build, which spaces they need, how they intend to use them, and the conditions the project needs to work within. The application brings a detailed questionnaire, saved client records, written summaries, and concept visualization into the same workflow.
+
+### PUB-0109 — [Building Blackout: A Cooperative Game with Two Different Views](applications/blackout/overview.md)
+
+I developed Blackout as a browser game built around asymmetric cooperation. Two people played on separate devices with different views of the same level. The player moving through the maze had limited visibility, while the guide had a map view and gave verbal directions. The project grew from that interaction into a larger development effort involving movement, hazards, enemies, level creation, visual effects, and multiplayer session handling.
+
+### PUB-0112 — [Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems](applications/exfiltrate/overview.md)
+
+Daniel Powell is developing Exfiltrate, a browser-based drone salvage game with a public Vercel build. He directs its mechanics and interface and uses AI-assisted development for implementation, testing, architecture, and authoring tools. The project combines physical cargo handling, Host storage and fabrication, interacting station systems, and sensing that separates world state from player knowledge.
+
 ## Construction
 
 Construction assignments, drafting, coordination, and project delivery.
@@ -422,26 +402,6 @@ Restoration associated with decommissioning a 5G hub required returning walls an
 
 Daniel Powell developed a physical prototype and researched material behavior to explore a faster drywall-repair process. His aim was to shorten the repair cycle and reduce repeat visits on small jobs. The development combined hands-on repair experience with AI-assisted research and experimental approaches to the full finishing sequence.
 
-## Applications
-
-Software applications and their development.
-
-### PUB-0080 — [Railing Generator](applications/railing-generator/overview.md)
-
-Daniel Powell developed Railing Generator from his field-measurement and shop-drafting work for a manufacturer. The application converts measured stair and landing geometry into editable railing elevations with post and spindle relationships. He combines fabrication knowledge, voice-directed field input, drawing logic, and AutoCAD refinement in a tool he uses for production work.
-
-### PUB-0108 — [Building an Architectural Client Intake Application](applications/client-intake/overview.md)
-
-I built an architectural client intake application to collect the information that shapes a design program: what the client wants to build, which spaces they need, how they intend to use them, and the conditions the project needs to work within. The application brings a detailed questionnaire, saved client records, written summaries, and concept visualization into the same workflow.
-
-### PUB-0109 — [Building Blackout: A Cooperative Game with Two Different Views](applications/blackout/overview.md)
-
-I developed Blackout as a browser game built around asymmetric cooperation. Two people played on separate devices with different views of the same level. The player moving through the maze had limited visibility, while the guide had a map view and gave verbal directions. The project grew from that interaction into a larger development effort involving movement, hazards, enemies, level creation, visual effects, and multiplayer session handling.
-
-### PUB-0112 — [Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems](applications/exfiltrate/overview.md)
-
-Daniel Powell is developing Exfiltrate, a browser-based drone salvage game with a public Vercel build. He directs its mechanics and interface and uses AI-assisted development for implementation, testing, architecture, and authoring tools. The project combines physical cargo handling, Host storage and fabrication, interacting station systems, and sensing that separates world state from player knowledge.
-
 ## Research
 
 Research projects and technical investigations.
@@ -485,3 +445,43 @@ Construction techniques and practical methods.
 ### workshop:compact-lally-column-wrap — [Wrapping a Lally Column Without Building a Wall Around It](workshop/compact-lally-column-wrap.md)
 
 Daniel Powell developed a compact finish around an exposed support column using folded drywall, low-pressure foam, and metal corner bead. The assembly combines enclosure, attachment, alignment, and finishing without a separate stud framework. The method addresses a recurring customer preference for a neatly concealed column with a small footprint.
+
+## Background
+
+Personal history, career, education, credentials, and field accounts.
+
+### PUB-0010 — [Connecticut Nuisance Wildlife Control as a Community Service](background/PUB-0010-wildlife-control-community-service.md)
+
+Daniel Powell provides licensed nuisance-wildlife services in Connecticut, combining animal investigation with practical assistance to property owners. The work includes understanding activity around buildings, communicating with residents, and addressing wildlife access. It remains a community-service component of his broader construction and field practice.
+
+### PUB-0012 — [A Memorable Notary Appointment and Situational Awareness](background/PUB-0012-notary-appointment.md)
+
+Daniel Powell completed an affidavit notarization during an unusual off-site appointment. He assessed the unfamiliar setting, brought a companion, and maintained professional communication through the assignment. The account illustrates situational awareness and practical judgment in providing mobile notarial services.
+
+### PUB-0083 — [From Hand Drafting to AutoCAD and AI](background/PUB-0083-drafting-from-handwork-to-ai.md)
+
+Daniel Powell connects his early training in hand drafting and AutoCAD with his current drawing practice. Hand sketches remain useful for quick communication, while AutoCAD supports developed drawings and AI assists with documentation consistency. The account traces how familiar drafting methods continue to serve practical work alongside newer tools.
+
+### background:career — [Daniel Powell](background/career.md)
+
+Daniel Powell’s career inventory connects construction, drafting, project management, software development, automation, research, and creative work. It details personally performed trade work, coordination responsibilities, applications, field documentation, business operations, and training. Linked project accounts provide deeper context for the techniques, industries, deliverables, and capabilities described across his professional history.
+
+### background:education-and-credentials — [Education, Licenses, and Professional Training](background/education-and-credentials.md)
+
+Daniel Powell’s education and training span architectural drafting, AutoCAD, construction safety, notarial services, licensed wildlife control, and drone security. The article connects these qualifications with field operations, documentation, public-facing services, and technical research. It includes historical context and links to relevant credential and project information.
+
+### background:moving-a-skunk-away-from-a-crowded-shoreline-park — [Moving a Skunk Away From a Crowded Shoreline Park](background/moving-a-skunk-away-from-a-crowded-shoreline-park.md)
+
+Daniel Powell used his wildlife-control experience to guide a skunk away from visitors at a crowded shoreline park. He identified himself, asked people to create space, and directed the animal toward woodland without physical handling. He subsequently reported the encounter to police and included it in his annual wildlife activity report.
+
+### background:music — [Musical Background and Production](background/music.md)
+
+Daniel Powell’s musical background includes several instruments, approximately 150 songs written during an intensive period, and pro bono digital production work. He used Cubase and Native Instruments tools to develop arrangements and continues regular performance practice. The account connects instrumental learning, composition, and the technical process of music production.
+
+### background:responding-to-a-dangerous-wildlife-incident — [Responding to a Rabid Coyote on a Connecticut Farm](background/responding-to-a-dangerous-wildlife-incident.md)
+
+Daniel Powell responded to a dangerous coyote attacking people and animals on a Connecticut farm. He located and dispatched the animal, then reported the incident and transferred it to authorities for testing, which confirmed rabies. The account describes his field response and subsequent coordination with public agencies.
+
+### background:about — [About Daniel Powell](ABOUT.md)
+
+Daniel Powell runs a construction and drafting business and develops software to support his work as a solo operator. His practice connects field execution, design communication, estimating, coordination, and client decisions. The overview introduces how practical business needs shape his approach to automation and the work collected in this archive.

@@ -3,28 +3,22 @@
   "layoutVersion": 2,
   "sections": [
     {
-      "key": "background",
-      "title": "Background",
-      "description": "Personal history, career, education, credentials, and field accounts.",
-      "index": "background/index.md"
-    },
-    {
       "key": "workflows",
       "title": "Workflows",
       "description": "Business operations, automation, documentation, and media production.",
       "index": "workflows/index.md"
     },
     {
-      "key": "construction",
-      "title": "Construction",
-      "description": "Construction assignments, drafting, coordination, and project delivery.",
-      "index": "construction/index.md"
-    },
-    {
       "key": "applications",
       "title": "Applications",
       "description": "Software applications and their development.",
       "index": "applications/index.md"
+    },
+    {
+      "key": "construction",
+      "title": "Construction",
+      "description": "Construction assignments, drafting, coordination, and project delivery.",
+      "index": "construction/index.md"
     },
     {
       "key": "research",
@@ -43,6 +37,12 @@
       "title": "Workshop",
       "description": "Construction techniques and practical methods.",
       "index": "workshop/index.md"
+    },
+    {
+      "key": "background",
+      "title": "Background",
+      "description": "Personal history, career, education, credentials, and field accounts.",
+      "index": "background/index.md"
     }
   ],
   "records": [

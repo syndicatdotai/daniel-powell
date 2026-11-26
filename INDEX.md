@@ -4,22 +4,6 @@ Browse by subject. PUB identifiers remain stable across titles and locations.
 
 [About Daniel Powell](ABOUT.md) · [Archive summary](SUMMARY.md) · [Archive structure](STRUCTURE.md)
 
-## Background
-
-Personal history, career, education, credentials, and field accounts.
-
-| Reference | Article |
-|---|---|
-| PUB-0010 | [Connecticut Nuisance Wildlife Control as a Community Service](background/PUB-0010-wildlife-control-community-service.md) |
-| PUB-0012 | [A Memorable Notary Appointment and Situational Awareness](background/PUB-0012-notary-appointment.md) |
-| PUB-0083 | [From Hand Drafting to AutoCAD and AI](background/PUB-0083-drafting-from-handwork-to-ai.md) |
-| Background | [Daniel Powell](background/career.md) |
-| Background | [Education, Licenses, and Professional Training](background/education-and-credentials.md) |
-| Background | [Moving a Skunk Away From a Crowded Shoreline Park](background/moving-a-skunk-away-from-a-crowded-shoreline-park.md) |
-| Background | [Musical Background and Production](background/music.md) |
-| Background | [Responding to a Rabid Coyote on a Connecticut Farm](background/responding-to-a-dangerous-wildlife-incident.md) |
-| Background | [About Daniel Powell](ABOUT.md) |
-
 ## Workflows
 
 Business operations, automation, documentation, and media production.
@@ -95,6 +79,17 @@ Business operations, automation, documentation, and media production.
 | PUB-0111 | [Preparing Drawing PDFs and Printed Documents Through Codex Remote](workflows/PUB-0111-remote-drawing-export-and-printing.md) |
 | PUB-0117 | [Keeping Job Conditions and Notes in Obsidian](workflows/PUB-0117-job-conditions-and-notes.md) |
 
+## Applications
+
+Software applications and their development.
+
+| Reference | Article |
+|---|---|
+| PUB-0080 | [Railing Generator](applications/railing-generator/overview.md) |
+| PUB-0108 | [Building an Architectural Client Intake Application](applications/client-intake/overview.md) |
+| PUB-0109 | [Building Blackout: A Cooperative Game with Two Different Views](applications/blackout/overview.md) |
+| PUB-0112 | [Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems](applications/exfiltrate/overview.md) |
+
 ## Construction
 
 Construction assignments, drafting, coordination, and project delivery.
@@ -126,17 +121,6 @@ Construction assignments, drafting, coordination, and project delivery.
 | PUB-0107 | [Restoring a Space After a 5G Hub Decommissioning](construction/PUB-0107-restoring-a-space-after-a-5g-hub-decommissioning.md) |
 | PUB-0110 | [Developing a Faster Drywall Repair Process](construction/PUB-0110-developing-a-faster-drywall-repair-process.md) |
 
-## Applications
-
-Software applications and their development.
-
-| Reference | Article |
-|---|---|
-| PUB-0080 | [Railing Generator](applications/railing-generator/overview.md) |
-| PUB-0108 | [Building an Architectural Client Intake Application](applications/client-intake/overview.md) |
-| PUB-0109 | [Building Blackout: A Cooperative Game with Two Different Views](applications/blackout/overview.md) |
-| PUB-0112 | [Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems](applications/exfiltrate/overview.md) |
-
 ## Research
 
 Research projects and technical investigations.
@@ -165,3 +149,19 @@ Construction techniques and practical methods.
 | Reference | Article |
 |---|---|
 | Technique | [Wrapping a Lally Column Without Building a Wall Around It](workshop/compact-lally-column-wrap.md) |
+
+## Background
+
+Personal history, career, education, credentials, and field accounts.
+
+| Reference | Article |
+|---|---|
+| PUB-0010 | [Connecticut Nuisance Wildlife Control as a Community Service](background/PUB-0010-wildlife-control-community-service.md) |
+| PUB-0012 | [A Memorable Notary Appointment and Situational Awareness](background/PUB-0012-notary-appointment.md) |
+| PUB-0083 | [From Hand Drafting to AutoCAD and AI](background/PUB-0083-drafting-from-handwork-to-ai.md) |
+| Background | [Daniel Powell](background/career.md) |
+| Background | [Education, Licenses, and Professional Training](background/education-and-credentials.md) |
+| Background | [Moving a Skunk Away From a Crowded Shoreline Park](background/moving-a-skunk-away-from-a-crowded-shoreline-park.md) |
+| Background | [Musical Background and Production](background/music.md) |
+| Background | [Responding to a Rabid Coyote on a Connecticut Farm](background/responding-to-a-dangerous-wildlife-incident.md) |
+| Background | [About Daniel Powell](ABOUT.md) |
