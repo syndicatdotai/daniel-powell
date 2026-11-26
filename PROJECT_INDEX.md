@@ -2,6 +2,8 @@
 
 Browse by period or subject. Each record has a stable PUB identifier for reference.
 
+Read the [Detailed Career and Capability Record](CAREER.md) for Daniel's experience, trade skills, industries, and technical work.
+
 For background and qualifications, see [About Daniel Powell](ABOUT.md) and [Education, Licenses, and Professional Training](EDUCATION-AND-CREDENTIALS.md).
 
 Explore the [Construction portfolio](construction/README.md) for project management, drafting, renovation, and construction technology.
