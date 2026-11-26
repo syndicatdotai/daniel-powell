@@ -6,21 +6,15 @@
 
 The deployed game offers solo play and asymmetric multiplayer. In multiplayer, one person navigates while the other guides from a separate screen.
 
-### Screenshots from the live game
-
-![Blackout mode and sector selection, with solo play and Sector Echo selected.](https://github.com/syndicatdotai/daniel-powell/releases/download/blackout-screenshots-2026-11-26/blackout-menu.jpg)
-
-*Mode and sector selection in the live browser game.*
-
-![Blackout solo sensor view after a ping, showing the grid, battery status, command log, and movement controls.](https://github.com/syndicatdotai/daniel-powell/releases/download/blackout-screenshots-2026-11-26/blackout-gameplay.jpg)
-
-*Sector Echo in solo mode after a sensor ping.*
-
 ## Project Summary
 
 I developed a game called Blackout, with AI helping me work on the code and visual design.
 
 It was a cooperative maze game for two people on separate devices. One player controlled the character with limited visibility. The other had a map view and had to talk them through the level. One person had the controls, the other had information they needed, and the two had to coordinate.
+
+<a href="https://github.com/syndicatdotai/daniel-powell/releases/download/blackout-screenshots-2026-11-26/blackout-overview.jpg"><img src="https://github.com/syndicatdotai/daniel-powell/releases/download/blackout-screenshots-2026-11-26/blackout-overview.jpg" alt="Blackout sector selection and solo sensor gameplay, side by side." width="360"></a>
+
+*Sector selection and solo gameplay. Select the image to view it full size.*
 
 The game included hazards, moving enemies, items to collect, and gates that changed with the turn cycle. That meant developing both the game mechanics and the way those changes appear on the other player's screen.
 
