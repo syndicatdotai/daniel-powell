@@ -90,6 +90,7 @@ Browse by period or subject. Each record has a stable PUB identifier for referen
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0084 | [Using AI to Test and Repair My Internal Tools](projects/PUB-0084-ai-adversarial-testing-internal-tools/README.md) | Internal software development and adversarial testing | Published |
 | PUB-0083 | [From Hand Drafting to AutoCAD and AI](projects/PUB-0083-hand-drafting-autocad-and-ai/README.md) | Drafting and documentation | Published |
 | PUB-0081 | [From Field Voice Notes to Annual Wildlife Reports](projects/PUB-0081-from-field-voice-notes-to-annual-wildlife-reports/README.md) | Wildlife activity documentation and reporting | Published |
 | PUB-0079 | [Using Obsidian, GitHub, and Dropbox for Notes and Project Files](projects/PUB-0079-using-obsidian-github-and-dropbox-for-notes-and-project-files/README.md) | Knowledge management and version control | Published |

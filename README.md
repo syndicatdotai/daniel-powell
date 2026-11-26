@@ -15,6 +15,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0084 - Using AI to Test and Repair My Internal Tools](projects/PUB-0084-ai-adversarial-testing-internal-tools/README.md)
 - [PUB-0083 - From Hand Drafting to AutoCAD and AI](projects/PUB-0083-hand-drafting-autocad-and-ai/README.md)
 - [PUB-0081 - From Field Voice Notes to Annual Wildlife Reports](projects/PUB-0081-from-field-voice-notes-to-annual-wildlife-reports/README.md)
 - [PUB-0079 - Using Obsidian, GitHub, and Dropbox for Notes and Project Files](projects/PUB-0079-using-obsidian-github-and-dropbox-for-notes-and-project-files/README.md)
