@@ -46,6 +46,7 @@ Renovation projects connecting hands-on construction knowledge with installation
 
 Software and field workflows supporting drafting, documentation, and project coordination.
 
+- **PUB-0111** — [Preparing Drawing PDFs and Printed Documents Through Codex Remote](PUB-0111-remote-autocad-pdf-exports-and-document-printing/README.md)
 - **PUB-0110** — [Developing a Faster Drywall Repair Process](PUB-0110-developing-a-faster-drywall-repair-process/README.md)
 - **PUB-0099** — [Preparing a Site-Planning Exhibit With AI and QGIS](PUB-0099-preparing-a-site-planning-exhibit-with-ai-and-qgis/README.md)
 - **PUB-0100** — [Using AI Renderings to Explore Exterior Materials](PUB-0100-using-ai-renderings-to-explore-exterior-materials/README.md)

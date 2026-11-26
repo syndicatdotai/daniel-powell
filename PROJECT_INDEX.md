@@ -8,6 +8,7 @@ Explore the [Construction portfolio](construction/README.md) for project managem
 
 | Public ID | Article | Work area |
 |---|---|---|
+| PUB-0111 | [Preparing Drawing PDFs and Printed Documents Through Codex Remote](construction/PUB-0111-remote-autocad-pdf-exports-and-document-printing/README.md) | Construction Technology |
 | PUB-0110 | [Developing a Faster Drywall Repair Process](construction/PUB-0110-developing-a-faster-drywall-repair-process/README.md) | Construction Technology |
 | PUB-0092 | [Coordinating an Industrial Building Drawing Package](construction/PUB-0092-coordinating-an-industrial-building-drawing-package/README.md) | Drafting & Existing Conditions |
 | PUB-0093 | [Designing an In-Law Addition Around an Existing Home](construction/PUB-0093-designing-an-in-law-addition-around-an-existing-home/README.md) | Drafting & Existing Conditions |
