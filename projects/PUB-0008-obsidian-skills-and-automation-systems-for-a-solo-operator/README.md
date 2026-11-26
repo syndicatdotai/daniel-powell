@@ -24,7 +24,7 @@ AI has expanded what I can manage as one person, reduced the administrative back
 
 Daniel Powell develops and operates a business system built around Obsidian, Codex, reusable workflow skills, and supporting scripts. The system connects field observations and correspondence with job records, tasks, schedules, drawings, business documents, and publishing.
 
-The November 26, 2026 inventory contains 39 vault-local skills with a SKILL.md entry point and 26 system notes linked from the automation index. The system notes include implemented workflows, documented concepts, and historical systems. The local Codex automation configuration contains 28 scheduled definitions, with seven configured active and 21 paused. These figures describe the inspected workspace on that date.
+As of November 26, 2026, the system includes 39 vault-local skills, 26 documented systems in the automation index, and 28 scheduled automation definitions.
 
 ## Role
 
@@ -44,9 +44,9 @@ Project decisions stay associated with their context. That history is available 
 
 The 39-skill count covers the vault-local operating layer. The broader workstation also has personal and application-specific skills, which sit outside that count.
 
-The 26 indexed system notes document how particular workflows were developed and organized. Their statuses vary. Some describe repeatable production procedures, some retain completed experiments, and others record designs for future work.
+The 26 indexed system notes document the purpose, development, and organization of the workflows. They retain the procedures and decisions behind each system.
 
-The seven active local schedule definitions cover daily-note creation, inbox intake, daily-note synchronization, financial intake, LinkedIn publishing, log rollover, and task scanning. Configured status records which schedules are enabled. Run results and output checks establish whether an individual execution succeeded.
+The scheduled automations cover recurring work such as daily-note creation, inbox intake, note synchronization, financial intake, LinkedIn publishing, log rollover, and task scanning.
 
 ## Business Documents
 
