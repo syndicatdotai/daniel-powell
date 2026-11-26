@@ -11,6 +11,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0079 - Using Obsidian, GitHub, and Dropbox for Notes and Project Files](projects/PUB-0079-using-obsidian-github-and-dropbox-for-notes-and-project-files/README.md)
 - [PUB-0078 - Reviewing and Updating AutoCAD Drawing Notes Remotely](projects/PUB-0078-reviewing-and-updating-autocad-drawing-notes-remotely/README.md)
 - [PUB-0077 - How I Automate Reasoning on Site](projects/PUB-0077-how-i-automate-reasoning-on-site/README.md)
 - [PUB-0076 - Using Codex to Prepare a Building Review Response](projects/PUB-0076-using-codex-to-prepare-a-building-review-response/README.md)
