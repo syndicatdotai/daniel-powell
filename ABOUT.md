@@ -22,6 +22,10 @@ Daniel hosts *Reasoning on Site*, where he develops his commentary in his own vo
 
 The show also gives that commentary a longer life. An episode can reach someone as a podcast, become a searchable reference on the website, or introduce a topic through an illustrated short. Building those formats around the same body of work lets Daniel publish for different audiences while retaining responsibility for what he says and how it is presented. [How Daniel produces Reasoning on Site](projects/PUB-0077-how-i-automate-reasoning-on-site/README.md)
 
+## Education, licenses, and professional training
+
+Daniel studied architectural drafting and CAD at Vinal Technical High School. His qualifications also include a Connecticut Notary Public commission, OSHA 30 safety training, DroneSec's Drone Security Operations Certificate, and a Connecticut Nuisance Wildlife Control Operator license. His notary work includes mobile and on-call appointments across the state, supporting a range of personal and business documentation. [Education, licenses, and professional training](EDUCATION-AND-CREDENTIALS.md)
+
 ## Contact
 
 LinkedIn direct messages are the best way to get in touch with Daniel. [Send a message on LinkedIn](https://www.linkedin.com/in/daniel-powell-c-uas-systems).

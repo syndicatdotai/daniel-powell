@@ -7,6 +7,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 ## Start Here
 
 - [About Daniel Powell](ABOUT.md)
+- [Education, Licenses, and Professional Training](EDUCATION-AND-CREDENTIALS.md)
 - [Project Index](PROJECT_INDEX.md)
 - [Construction Portfolio](construction/README.md)
 - [Research](research/README.md)
