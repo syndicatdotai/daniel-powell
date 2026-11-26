@@ -8,11 +8,11 @@ The deployed game offers solo play and asymmetric multiplayer. In multiplayer, o
 
 ### Screenshots from the live game
 
-![Blackout mode and sector selection, with solo play and Sector Echo selected.](media/blackout-menu.jpg)
+![Blackout mode and sector selection, with solo play and Sector Echo selected.](https://github.com/syndicatdotai/daniel-powell/releases/download/blackout-screenshots-2026-11-26/blackout-menu.jpg)
 
 *Mode and sector selection in the live browser game.*
 
-![Blackout solo sensor view after a ping, showing the grid, battery status, command log, and movement controls.](media/blackout-gameplay.jpg)
+![Blackout solo sensor view after a ping, showing the grid, battery status, command log, and movement controls.](https://github.com/syndicatdotai/daniel-powell/releases/download/blackout-screenshots-2026-11-26/blackout-gameplay.jpg)
 
 *Sector Echo in solo mode after a sensor ping.*
 
