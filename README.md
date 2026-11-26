@@ -15,6 +15,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0085 - Using LiDAR Terrain Maps Before the First Site Visit](projects/PUB-0085-lidar-terrain-maps-before-site-visits/README.md)
 - [PUB-0084 - Using AI to Test and Repair My Internal Tools](projects/PUB-0084-ai-adversarial-testing-internal-tools/README.md)
 - [PUB-0083 - From Hand Drafting to AutoCAD and AI](projects/PUB-0083-hand-drafting-autocad-and-ai/README.md)
 - [PUB-0081 - From Field Voice Notes to Annual Wildlife Reports](projects/PUB-0081-from-field-voice-notes-to-annual-wildlife-reports/README.md)
