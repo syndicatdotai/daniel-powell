@@ -129,6 +129,7 @@ Explore the [Construction portfolio](construction/README.md) for project managem
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0117 | [Keeping Job Conditions and Notes in Obsidian](projects/PUB-0117-keeping-job-conditions-and-notes-in-obsidian/README.md) | Construction documentation and field notes | Published |
 | PUB-0108 | [Building an Architectural Client Intake Application](projects/PUB-0108-architectural-client-intake-application/README.md) | Architectural programming and client intake | Published |
 | PUB-0087 | [Turning AutoCAD Linework into a Browser Game](projects/PUB-0087-autocad-linework-browser-game/README.md) | CAD geometry and browser game experimentation | Published |
 | PUB-0086 | [Nightly Research That Fills Gaps in My Knowledge Vault](projects/PUB-0086-nightly-research-knowledge-vault-gaps/README.md) | Automated research and connected knowledge management | Published |

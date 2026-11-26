@@ -20,6 +20,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0117 - Keeping Job Conditions and Notes in Obsidian](projects/PUB-0117-keeping-job-conditions-and-notes-in-obsidian/README.md)
 - [PUB-0108 - Building an Architectural Client Intake Application](projects/PUB-0108-architectural-client-intake-application/README.md)
 - [PUB-0087 - Turning AutoCAD Linework into a Browser Game](projects/PUB-0087-autocad-linework-browser-game/README.md)
 - [PUB-0086 - Nightly Research That Fills Gaps in My Knowledge Vault](projects/PUB-0086-nightly-research-knowledge-vault-gaps/README.md)
