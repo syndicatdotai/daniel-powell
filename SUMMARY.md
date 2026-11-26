@@ -402,6 +402,10 @@ Restoration associated with decommissioning a 5G hub required returning walls an
 
 Daniel Powell developed a physical prototype and researched material behavior to explore a faster drywall-repair process. His aim was to shorten the repair cycle and reduce repeat visits on small jobs. The development combined hands-on repair experience with AI-assisted research and experimental approaches to the full finishing sequence.
 
+### PUB-0118 — [Reconfiguring a Commercial Office and Building Eight Custom Workstations](construction/PUB-0118-commercial-office-remodel-custom-workstations.md)
+
+Daniel Powell subdivided existing commercial rooms into additional offices, completing drafting, partitions, finishes, ceiling repairs, and floor repairs. Custom furniture was selected to complement the new layout. He designed eight desks in AutoCAD, sourced materials, and developed foam-padded, fabric-wrapped privacy panels for shop prefabrication and on-site assembly. The furniture phase took approximately one week.
+
 ## Research
 
 Research projects and technical investigations.

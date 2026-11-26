@@ -2003,6 +2003,25 @@
       ],
       "wordCount": 703,
       "contentSha256": "ba19f91f0fe9e57ccdb95e0c12faa8120887cb8fa0a17ffbc38b26542533d764"
+    },
+    {
+      "id": "PUB-0118",
+      "title": "Reconfiguring a Commercial Office and Building Eight Custom Workstations",
+      "section": "construction",
+      "path": "construction/PUB-0118-commercial-office-remodel-custom-workstations.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell subdivided existing commercial rooms into additional offices, completing drafting, partitions, finishes, ceiling repairs, and floor repairs. Custom furniture was selected to complement the new layout. He designed eight desks in AutoCAD, sourced materials, and developed foam-padded, fabric-wrapped privacy panels for shop prefabrication and on-site assembly. The furniture phase took approximately one week.",
+      "tags": [
+        "commercial-renovation",
+        "custom-office-furniture",
+        "autocad",
+        "upholstery",
+        "shop-prefabrication",
+        "project-delivery"
+      ],
+      "wordCount": 699,
+      "contentSha256": "3503573776c9cf1f82c95bdd8035571c0b06121eb219427d15e91e009e9adced",
+      "role": "Office remodel and custom furniture design, fabrication, and installation"
     }
   ],
   "summaryVersion": 1

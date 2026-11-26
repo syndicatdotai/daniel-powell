@@ -120,6 +120,7 @@ Construction assignments, drafting, coordination, and project delivery.
 | PUB-0106 | [Developing a Residential Drawing Package for a General Contractor](construction/PUB-0106-developing-a-residential-drawing-package-for-a-general-contractor.md) |
 | PUB-0107 | [Restoring a Space After a 5G Hub Decommissioning](construction/PUB-0107-restoring-a-space-after-a-5g-hub-decommissioning.md) |
 | PUB-0110 | [Developing a Faster Drywall Repair Process](construction/PUB-0110-developing-a-faster-drywall-repair-process.md) |
+| PUB-0118 | [Reconfiguring a Commercial Office and Building Eight Custom Workstations](construction/PUB-0118-commercial-office-remodel-custom-workstations.md) |
 
 ## Research
 
