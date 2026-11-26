@@ -58,6 +58,8 @@ Wildlife control remains a direct community service within his broader practice.
 
 [Connecticut Nuisance Wildlife Control as a Community Service](projects/PUB-0010-connecticut-nuisance-wildlife-control-as-a-community-service/README.md) · [Combining Wildlife and Building-Condition Investigations](projects/PUB-0017-combining-wildlife-and-building-condition-investigations/README.md) · [From Field Voice Notes to Annual Wildlife Reports](projects/PUB-0081-from-field-voice-notes-to-annual-wildlife-reports/README.md)
 
+A separate account describes [responding to a rabid coyote on a Connecticut farm](background/responding-to-a-dangerous-wildlife-incident.md).
+
 ---
 
 [About Daniel Powell](ABOUT.md) · [Project index](PROJECT_INDEX.md)
