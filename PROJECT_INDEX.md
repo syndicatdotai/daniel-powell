@@ -2,6 +2,8 @@
 
 Browse by period or subject. Each record has a stable PUB identifier for reference.
 
+Explore the [Construction portfolio](construction/README.md) for project management, drafting, renovation, and construction technology.
+
 ## Applications
 
 | Public ID | Application | Work area | Public status |
@@ -54,6 +56,10 @@ Browse by period or subject. Each record has a stable PUB identifier for referen
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0088 | [Managing Construction Inside an Active Retirement Community](projects/PUB-0088-occupied-retirement-community/README.md) | Occupied-building coordination, Site safety, Subcontractor management | Published |
+| PUB-0089 | [Coordinating an Office-to-Conference-Room Renovation](projects/PUB-0089-office-conference-room-renovation/README.md) | Commercial renovation, Field leadership, Installation guidance | Published |
+| PUB-0090 | [Preparing an Office Renovation for a Project-Lead Handoff](projects/PUB-0090-office-renovation-handoff/README.md) | Project preparation, Subcontractor buyout, Project-lead handoff | Published |
+| PUB-0091 | [Coordinating Partitions, Glass, and Acoustics in a Commercial Fit-Out](projects/PUB-0091-commercial-interior-fitout/README.md) | Commercial interiors, Trade coordination, Partitions and glazing | Published |
 | PUB-0007 | [Southern Connecticut Shopping Center Life-Safety Coordination](projects/PUB-0007-southern-connecticut-shopping-center-life-safety-coordination/README.md) | Life-safety coordination, Existing-condition investigation, Subcontractor coordination, Commercial project management | Published |
 
 ## Community and Field Services
