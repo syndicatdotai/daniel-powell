@@ -25,5 +25,7 @@ The show also gives that commentary a longer life. An episode can reach someone 
 ## Links
 
 - [Project index](PROJECT_INDEX.md)
+- [Daniel Powell’s website](https://danielmpowell.com/)
+- [Reasoning on Site on Spotify](https://open.spotify.com/show/6wweXIpr1xCRsKhulqyfaS)
 - [LinkedIn](https://www.linkedin.com/in/daniel-powell-c-uas-systems)
 - [Danny and Associates](https://danny.associates/)
