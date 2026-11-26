@@ -26,6 +26,10 @@ The show also gives that commentary a longer life. An episode can reach someone 
 
 Daniel studied architectural drafting and CAD at Vinal Technical High School. His qualifications also include a Connecticut Notary Public commission, OSHA 30 safety training, DroneSec's Drone Security Operations Certificate, and a Connecticut Nuisance Wildlife Control Operator license. His notary work includes mobile and on-call appointments across the state, supporting a range of personal and business documentation. [Education, licenses, and professional training](EDUCATION-AND-CREDENTIALS.md)
 
+## Musical background
+
+Daniel's musical background spans instrumental performance, songwriting, and digital production. He wrote approximately 150 songs between 2005 and 2010, worked in a pro bono music-production role from approximately 2016 to 2018, and continues to play twice a week. [Musical background and production](background/music.md)
+
 ## Contact
 
 LinkedIn direct messages are the best way to get in touch with Daniel. [Send a message on LinkedIn](https://www.linkedin.com/in/daniel-powell-c-uas-systems).
