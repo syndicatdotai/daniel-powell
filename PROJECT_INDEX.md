@@ -77,6 +77,7 @@ Browse by period or subject. Each record has a stable PUB identifier for referen
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0078 | [Reviewing and Updating AutoCAD Drawing Notes Remotely](projects/PUB-0078-reviewing-and-updating-autocad-drawing-notes-remotely/README.md) | Drawing documentation | Published |
 | PUB-0046 | [Keeping track of blueprint revisions with AI](projects/PUB-0046-keeping-track-of-blueprint-revisions-with-ai/README.md) | Drawing revision documentation | Published |
 
 ## AI Workflows

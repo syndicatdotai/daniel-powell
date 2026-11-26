@@ -11,6 +11,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0078 - Reviewing and Updating AutoCAD Drawing Notes Remotely](projects/PUB-0078-reviewing-and-updating-autocad-drawing-notes-remotely/README.md)
 - [PUB-0077 - How I Automate Reasoning on Site](projects/PUB-0077-how-i-automate-reasoning-on-site/README.md)
 - [PUB-0076 - Using Codex to Prepare a Building Review Response](projects/PUB-0076-using-codex-to-prepare-a-building-review-response/README.md)
 - [PUB-0075 - Using Voice for Almost All of My AI Instructions](projects/PUB-0075-using-voice-for-almost-all-of-my-ai-instructions/README.md)
