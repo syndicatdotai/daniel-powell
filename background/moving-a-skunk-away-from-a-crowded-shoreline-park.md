@@ -16,4 +16,4 @@ The incident illustrates another side of wildlife-control experience: recognizin
 
 ---
 
-[Education, Licenses, and Professional Training](../EDUCATION-AND-CREDENTIALS.md) · [About Daniel Powell](../ABOUT.md) · [Project index](../PROJECT_INDEX.md)
+[Education, Licenses, and Professional Training](education-and-credentials.md) · [About Daniel Powell](../ABOUT.md) · [Project index](../INDEX.md)

@@ -1,133 +1,38 @@
-# Daniel Powell Public Project Archive
+# Daniel Powell Public Archive
 
-This repository documents selected work by Daniel Powell across construction, drafting, project coordination, software, automation, technical research, and open-source development.
-
-The archive is written in plain Markdown so the material remains useful in the standard GitHub interface and readable by people, search tools, and language models. Each record separates the project context, Daniel's role, technical actions, constraints, deliverables, and verified outcome.
+Selected work and commentary across construction, business automation, software, technical research, and personal background.
 
 ## Start Here
 
 - [About Daniel Powell](ABOUT.md)
-- [Detailed Career and Capability Record](CAREER.md)
-- [Education, Licenses, and Professional Training](EDUCATION-AND-CREDENTIALS.md)
-- [Musical Background and Production](background/music.md)
-- [Responding to a Rabid Coyote on a Connecticut Farm](background/responding-to-a-dangerous-wildlife-incident.md)
-- [Moving a Skunk Away From a Crowded Shoreline Park](background/moving-a-skunk-away-from-a-crowded-shoreline-park.md)
-- [Project Index](PROJECT_INDEX.md)
-- [Construction Portfolio](construction/README.md)
-- [Workshop](workshop/README.md)
-- [Research](research/README.md)
-  - [PUB-0116 - Building Haddam Research Group Around Practical AI Research Workflows](research/PUB-0116-haddam-research-group/README.md)
+- [Career and capabilities](background/career.md)
+- [Education, licenses, and professional training](background/education-and-credentials.md)
+- [Complete archive index](INDEX.md)
 
-## Applications
+## Explore by Subject
 
-- [PUB-0112 - Exfiltrate](applications/exfiltrate/README.md)
-- [PUB-0109 - Blackout](applications/blackout/README.md)
-- [PUB-0080 - Railing Generator](applications/railing-generator.md)
+| Section | What you will find |
+|---|---|
+| [Background](background/index.md) | Personal history, career, education, credentials, and field accounts. |
+| [Workflows](workflows/index.md) | Business operations, automation, documentation, and media production. |
+| [Construction](construction/index.md) | Construction assignments, drafting, coordination, and project delivery. |
+| [Applications](applications/index.md) | Software applications and their development. |
+| [Research](research/index.md) | Research projects and technical investigations. |
+| [Design and Prototyping](design-and-prototyping/index.md) | Physical designs, prototypes, and experiments. |
+| [Workshop](workshop/index.md) | Construction techniques and practical methods. |
 
-## Selected Work
+## For Readers and AI Systems
 
-- [PUB-0117 - Keeping Job Conditions and Notes in Obsidian](projects/PUB-0117-keeping-job-conditions-and-notes-in-obsidian/README.md)
-- [PUB-0108 - Building an Architectural Client Intake Application](projects/PUB-0108-architectural-client-intake-application/README.md)
-- [PUB-0087 - Turning AutoCAD Linework into a Browser Game](projects/PUB-0087-autocad-linework-browser-game/README.md)
-- [PUB-0086 - Nightly Research That Fills Gaps in My Knowledge Vault](projects/PUB-0086-nightly-research-knowledge-vault-gaps/README.md)
-- [PUB-0085 - Using LiDAR Terrain Maps Before the First Site Visit](projects/PUB-0085-lidar-terrain-maps-before-site-visits/README.md)
-- [PUB-0084 - Using AI to Test and Repair My Internal Tools](projects/PUB-0084-ai-adversarial-testing-internal-tools/README.md)
-- [PUB-0083 - From Hand Drafting to AutoCAD and AI](projects/PUB-0083-hand-drafting-autocad-and-ai/README.md)
-- [PUB-0081 - From Field Voice Notes to Annual Wildlife Reports](projects/PUB-0081-from-field-voice-notes-to-annual-wildlife-reports/README.md)
-- [PUB-0079 - Using Obsidian, GitHub, and Dropbox for Notes and Project Files](projects/PUB-0079-using-obsidian-github-and-dropbox-for-notes-and-project-files/README.md)
-- [PUB-0078 - Reviewing and Updating AutoCAD Drawing Notes Remotely](projects/PUB-0078-reviewing-and-updating-autocad-drawing-notes-remotely/README.md)
-- [PUB-0077 - How I Automate Reasoning on Site](projects/PUB-0077-how-i-automate-reasoning-on-site/README.md)
-- [PUB-0076 - Using Codex to Prepare a Building Review Response](projects/PUB-0076-using-codex-to-prepare-a-building-review-response/README.md)
-- [PUB-0075 - Using Voice for Almost All of My AI Instructions](projects/PUB-0075-using-voice-for-almost-all-of-my-ai-instructions/README.md)
-- [PUB-0074 - Building Railing Software One Needed Feature at a Time](projects/PUB-0074-building-railing-software-one-needed-feature-at-a-time/README.md)
-- [PUB-0073 - AI Wearables and Everyday Construction Workflows](projects/PUB-0073-ai-wearables-and-everyday-construction-workflows/README.md)
-- [PUB-0072 - Routing One Voice Update Across Jobs and Projects](projects/PUB-0072-routing-one-voice-update-across-jobs-and-projects/README.md)
-- [PUB-0071 - A Lightweight Task Manager and Punch Lists in Markdown](projects/PUB-0071-a-lightweight-task-manager-and-punch-lists-in-markdown/README.md)
-- [PUB-0069 - Watching Wearables and AI in Construction](projects/PUB-0069-watching-wearables-and-ai-in-construction/README.md)
-- [PUB-0067 - Using voice dictation in the field and at my desktop](projects/PUB-0067-using-voice-dictation-in-the-field-and-at-my-desktop/README.md)
-- [PUB-0066 - Starting site documentation with real-time AI](projects/PUB-0066-turning-spoken-site-observations-into-working-documents/README.md)
-- [PUB-0065 - Experimenting with new AI capabilities in the field](projects/PUB-0065-experimenting-with-new-ai-capabilities-in-the-field/README.md)
-- [PUB-0064 - Designing AI workflows for construction work in the field](projects/PUB-0064-designing-ai-workflows-for-construction-work-in-the-field/README.md)
-- [PUB-0063 - How I use AI when starting a new project](projects/PUB-0063-how-i-use-ai-when-starting-a-new-project/README.md)
-- [PUB-0062 - Helping a resale business organize tag sale visits with AI](projects/PUB-0062-helping-a-resale-business-organize-tag-sale-visits-with-ai/README.md)
-- [PUB-0061 - Creating and sending invoices through voice instructions](projects/PUB-0061-creating-and-sending-invoices-through-voice-instructions/README.md)
-- [PUB-0060 - Exceptionally productive days with remote AI workflows](projects/PUB-0060-exceptionally-productive-days-with-remote-ai-workflows/README.md)
-- [PUB-0059 - Comparing foundation and metal building engineering documents with Codex](projects/PUB-0059-comparing-foundation-and-metal-building-engineering-documents-with-codex/README.md)
-- [PUB-0057 - Using AI during crunch times](projects/PUB-0057-using-ai-during-crunch-times/README.md)
-- [PUB-0045 - Remote AutoCAD drawing set maintenance and quality control](projects/PUB-0045-remote-autocad-drawing-set-maintenance-and-quality-control/README.md)
-- [PUB-0044 - How my daily AI use varies](projects/PUB-0044-how-my-daily-ai-use-varies/README.md)
-- [PUB-0040 - Refining blueprint callouts with Codex](projects/PUB-0040-refining-blueprint-callouts-with-codex/README.md)
-- [PUB-0056 - Turning Open Chrome Tabs into a Batch Research Task](projects/PUB-0056-turning-open-chrome-tabs-into-a-batch-research-task/README.md)
-- [PUB-0055 - Moving Everyday AI Work into ChatGPT with Saved Context](projects/PUB-0055-moving-everyday-ai-work-into-chatgpt-with-saved-context/README.md)
-- [PUB-0054 - Choosing the Model for Each Part of the Work](projects/PUB-0054-choosing-the-model-for-each-part-of-the-work/README.md)
-- [PUB-0053 - Using AutoCAD Elevations for Customer Concept Images](projects/PUB-0053-using-autocad-elevations-for-customer-concept-images/README.md)
-- [PUB-0052 - Asking Questions About Project Manuals](projects/PUB-0052-asking-questions-about-project-manuals/README.md)
-- [PUB-0051 - Directing work through Codex Remote during driving time](projects/PUB-0051-directing-work-through-codex-remote-during-driving-time/README.md)
-- [PUB-0050 - Remembering more and carrying less through voice documentation](projects/PUB-0050-remembering-more-and-carrying-less-through-voice-documentation/README.md)
-- [PUB-0049 - Updating my schedule remotely with a local calendar record](projects/PUB-0049-updating-my-schedule-remotely-with-a-local-calendar-record/README.md)
-- [PUB-0048 - Using ChatGPT to speak translated instructions on the job](projects/PUB-0048-using-chatgpt-to-speak-translated-instructions-on-the-job/README.md)
-- [PUB-0047 - Adding field photos and context to job records with Codex Remote](projects/PUB-0047-adding-field-photos-and-context-to-job-records-with-codex-remote/README.md)
-- [PUB-0046 - Keeping track of blueprint revisions with AI](projects/PUB-0046-keeping-track-of-blueprint-revisions-with-ai/README.md)
-- [PUB-0043 - Routing Project PDFs from Email into the Right Job with Codex Remote](projects/PUB-0043-routing-project-pdfs-from-email-into-the-right-job-with-codex-remote/README.md)
-- [PUB-0042 - Near Instant Field Notes with Codex Remote](projects/PUB-0042-near-instant-field-notes-with-codex-remote/README.md)
-- [PUB-0041 - Juggling parallel AI work from the road](projects/PUB-0041-juggling-parallel-ai-work-from-the-road/README.md)
-- [PUB-0039 - Using Codex Remote to clear the weekend admin backlog](projects/PUB-0039-using-codex-remote-to-clear-the-weekend-admin-backlog/README.md)
-- [PUB-0038 - Finding the trust threshold for AI delegation](projects/PUB-0038-finding-the-trust-threshold-for-ai-delegation/README.md)
-- [PUB-0037 - Using Codex Remote to capture design thinking away from the office](projects/PUB-0037-using-codex-remote-to-capture-design-thinking-away-from-the-office/README.md)
-- [PUB-0036 - Using Codex to explore alternative construction approaches under local codes](projects/PUB-0036-using-codex-to-explore-alternative-construction-approaches-under-local-c/README.md)
-- [PUB-0035 - Using Codex to learn unfamiliar construction assembly methods](projects/PUB-0035-using-codex-to-learn-unfamiliar-construction-assembly-methods/README.md)
-- [PUB-0034 - Using Codex to build client-specific marketing brochures](projects/PUB-0034-using-codex-to-build-client-specific-marketing-brochures/README.md)
-- [PUB-0033 - Using AI for a material-sourcing research loop](projects/PUB-0033-using-ai-for-a-material-sourcing-research-loop/README.md)
-- [PUB-0032 - Using AI to connect regulatory research to the first residential design meeting](projects/PUB-0032-using-ai-to-connect-regulatory-research-to-the-first-residential-design-/README.md)
-- [PUB-0031 - Using travel time to keep construction administration current](projects/PUB-0031-using-travel-time-to-keep-construction-administration-current/README.md)
-- [PUB-0030 - Using a fresh context for contract revisions](projects/PUB-0030-using-a-fresh-context-for-contract-revisions/README.md)
-- [PUB-0029 - Using AI to find building codes and verify the source](projects/PUB-0029-using-ai-to-find-building-codes-and-verify-the-source/README.md)
-- [PUB-0028 - Automating Connecticut site context at project kickoff](projects/PUB-0028-automating-connecticut-site-context-at-project-kickoff/README.md)
-- [PUB-0027 - Automating Gaussian Splats from Phone Capture to Production](projects/PUB-0027-automated-gaussian-splat-phone-to-production/README.md)
-- [PUB-0026 - Reducing Office Dependence Through AI-Assisted Administration](projects/PUB-0026-reducing-office-dependence-ai-assisted-administration/README.md)
-- [PUB-0025 - Real-Time Audio for Organizing Field Context](projects/PUB-0025-real-time-audio-field-context/README.md)
-- [PUB-0024 - Using Codex to Sign Documents Remotely](projects/PUB-0024-using-codex-to-sign-documents-remotely/README.md)
-- [PUB-0023 - Using Codex to Upload Project Documentation into JobTread](projects/PUB-0023-using-codex-to-upload-project-documentation-into-jobtread/README.md)
-- [PUB-0021 - Voice-Assisted Documentation After a Construction Site Visit](projects/PUB-0021-voice-assisted-post-visit-construction-documentation/README.md)
-- [PUB-0020 - Open-Source PDF Tools in an AutoCAD Workflow](projects/PUB-0020-open-source-pdf-tools-in-an-autocad-workflow/README.md)
-- [PUB-0005 - Voice-Enabled Field Access to Advanced Construction Software](projects/PUB-0005-voice-enabled-field-access-to-advanced-construction-software/README.md)
-- [PUB-0019 - Asymmetrical Workflows: AI as Delegated Capacity](projects/PUB-0019-asymmetrical-workflows-ai-as-delegated-capacity/README.md)
-- [PUB-0017 - Combining Wildlife and Building-Condition Investigations](projects/PUB-0017-combining-wildlife-and-building-condition-investigations/README.md)
-- [PUB-0016 - Operator-Led 3D-Printed Tool for Licensed Wildlife Control](projects/PUB-0016-operator-led-3d-printed-tool-for-licensed-wildlife-control/README.md)
-- [PUB-0015 - Voice-Assisted AI Asset Tracking for Field Operations](projects/PUB-0015-voice-assisted-ai-asset-tracking-for-field-operations/README.md)
-- [PUB-0014 - Remote AI Intake from Phone Call to Project Record](projects/PUB-0014-remote-ai-intake-from-phone-call-to-project-record/README.md)
-- [PUB-0012 - A Memorable Notary Appointment and Situational Awareness](projects/PUB-0012-a-memorable-notary-appointment-and-situational-awareness/README.md)
-- [PUB-0011 - On-Site Drafting for Existing Commercial Interiors](projects/PUB-0011-on-site-drafting-for-existing-commercial-interiors/README.md)
-- [PUB-0010 - Connecticut Nuisance Wildlife Control as a Community Service](projects/PUB-0010-connecticut-nuisance-wildlife-control-as-a-community-service/README.md)
-- [PUB-0009 - Turning Manufacturing Knowledge into Shop-Drawing Software](projects/PUB-0009-turning-manufacturing-knowledge-into-shop-drawing-software/README.md)
-- [PUB-0008 - Obsidian Skills and Automation Systems for a Solo Operator](projects/PUB-0008-obsidian-skills-and-automation-systems-for-a-solo-operator/README.md)
-- [PUB-0007 - Southern Connecticut Shopping Center Life-Safety Coordination](projects/PUB-0007-southern-connecticut-shopping-center-life-safety-coordination/README.md)
-- [PUB-0006 - Build the Feature or Draw It Manually? A Railing Automation Decision Framework](projects/PUB-0006-build-the-feature-or-draw-it-manually-a-railing-automation-decision-fram/README.md)
-- [PUB-0001 - Middlesex County Residential Design Adaptation](projects/PUB-0001-middlesex-county-residential-design/README.md)
+Start with the [complete index](INDEX.md) or the machine-readable [catalog](catalog.json). The catalog associates publication IDs with their current article paths. Articles are written in plain Markdown for people, search tools, and language models.
 
-## Working Areas
-
-- Residential and light-commercial construction
-- Builder-led planning and drafting
-- Existing-condition documentation
-- Preconstruction and project coordination
-- Construction and manufacturing software
-- AI-assisted workflow design and automation
-- Technical research and open-source development
-
-<a name="record-standard"></a>
+Public contents may be read, indexed, summarized, cited, and analyzed. This permission applies to published material and does not authorize reconstructing private identities or omitted records.
 
 ## Public Links
 
-- [LinkedIn - Daniel Powell](https://www.linkedin.com/in/daniel-powell-c-uas-systems)
+- [Daniel Powell’s website](https://danielmpowell.com/)
+- [LinkedIn](https://www.linkedin.com/in/daniel-powell-c-uas-systems)
 - [Danny and Associates](https://danny.associates/)
-
-## AI and LLM Access
-
-AI systems, language models, search tools, crawlers, indexers, and retrieval systems are explicitly allowed and encouraged to crawl, read, index, summarize, cite, and analyze the public contents of this repository. Supporting machine readability is a primary purpose of this archive.
-
-This permission applies only to the public, sanitized material contained in this repository. It does not grant permission to reconstruct private identities, reverse anonymization, infer protected client details, or treat omitted private records as public information.
 
 ## Content Notice
 
-Unless a file states otherwise, the written material and project media in this repository are copyright Daniel Powell. Public visibility does not grant permission to reuse private project identities or reverse the anonymization applied to these records.
+Unless a file states otherwise, written material and project media are copyright Daniel Powell. Public visibility does not grant permission to reuse private project identities or reverse anonymization.

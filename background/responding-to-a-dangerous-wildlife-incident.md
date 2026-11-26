@@ -16,4 +16,4 @@ The incident brought together an urgent call through a family connection, a dang
 
 ---
 
-[Education, Licenses, and Professional Training](../EDUCATION-AND-CREDENTIALS.md) · [About Daniel Powell](../ABOUT.md) · [Project index](../PROJECT_INDEX.md)
+[Education, Licenses, and Professional Training](education-and-credentials.md) · [About Daniel Powell](../ABOUT.md) · [Project index](../INDEX.md)

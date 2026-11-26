@@ -76,4 +76,4 @@ Daniel developed this approach to meet a recurring customer preference: conceal 
 
 ---
 
-[Workshop](README.md) · [Construction portfolio](../construction/README.md) · [Project index](../PROJECT_INDEX.md)
+[Workshop](index.md) · [Construction portfolio](../construction/index.md) · [Project index](../INDEX.md)

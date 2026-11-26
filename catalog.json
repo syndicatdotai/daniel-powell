@@ -1,0 +1,1050 @@
+{
+  "schemaVersion": 1,
+  "layoutVersion": 2,
+  "sections": [
+    {
+      "key": "background",
+      "title": "Background",
+      "description": "Personal history, career, education, credentials, and field accounts.",
+      "index": "background/index.md"
+    },
+    {
+      "key": "workflows",
+      "title": "Workflows",
+      "description": "Business operations, automation, documentation, and media production.",
+      "index": "workflows/index.md"
+    },
+    {
+      "key": "construction",
+      "title": "Construction",
+      "description": "Construction assignments, drafting, coordination, and project delivery.",
+      "index": "construction/index.md"
+    },
+    {
+      "key": "applications",
+      "title": "Applications",
+      "description": "Software applications and their development.",
+      "index": "applications/index.md"
+    },
+    {
+      "key": "research",
+      "title": "Research",
+      "description": "Research projects and technical investigations.",
+      "index": "research/index.md"
+    },
+    {
+      "key": "design-and-prototyping",
+      "title": "Design and Prototyping",
+      "description": "Physical designs, prototypes, and experiments.",
+      "index": "design-and-prototyping/index.md"
+    },
+    {
+      "key": "workshop",
+      "title": "Workshop",
+      "description": "Construction techniques and practical methods.",
+      "index": "workshop/index.md"
+    }
+  ],
+  "records": [
+    {
+      "id": "PUB-0001",
+      "title": "Middlesex County Residential Design Adaptation",
+      "section": "construction",
+      "path": "construction/PUB-0001-residential-design-adaptation.md",
+      "legacyPaths": [
+        "projects/PUB-0001-middlesex-county-residential-design/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0005",
+      "title": "Voice-Enabled Field Access to Advanced Construction Software",
+      "section": "workflows",
+      "path": "workflows/PUB-0005-voice-enabled-field-software.md",
+      "legacyPaths": [
+        "projects/PUB-0005-voice-enabled-field-access-to-advanced-construction-software/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0006",
+      "title": "Build the Feature or Draw It Manually? A Railing Automation Decision Framework",
+      "section": "workflows",
+      "path": "workflows/PUB-0006-railing-feature-development-decisions.md",
+      "legacyPaths": [
+        "projects/PUB-0006-build-the-feature-or-draw-it-manually-a-railing-automation-decision-fram/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0007",
+      "title": "Southern Connecticut Shopping Center Life-Safety Coordination",
+      "section": "construction",
+      "path": "construction/PUB-0007-shopping-center-life-safety.md",
+      "legacyPaths": [
+        "projects/PUB-0007-southern-connecticut-shopping-center-life-safety-coordination/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0008",
+      "title": "Obsidian Skills and Automation Systems for a Solo Operator",
+      "section": "workflows",
+      "path": "workflows/PUB-0008-obsidian-business-automation.md",
+      "legacyPaths": [
+        "projects/PUB-0008-obsidian-skills-and-automation-systems-for-a-solo-operator/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0009",
+      "title": "Turning Manufacturing Knowledge into Shop-Drawing Software",
+      "section": "workflows",
+      "path": "workflows/PUB-0009-manufacturing-knowledge-in-software.md",
+      "legacyPaths": [
+        "projects/PUB-0009-turning-manufacturing-knowledge-into-shop-drawing-software/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0010",
+      "title": "Connecticut Nuisance Wildlife Control as a Community Service",
+      "section": "background",
+      "path": "background/PUB-0010-wildlife-control-community-service.md",
+      "legacyPaths": [
+        "projects/PUB-0010-connecticut-nuisance-wildlife-control-as-a-community-service/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0011",
+      "title": "On-Site Drafting for Existing Commercial Interiors",
+      "section": "construction",
+      "path": "construction/PUB-0011-on-site-commercial-drafting.md",
+      "legacyPaths": [
+        "projects/PUB-0011-on-site-drafting-for-existing-commercial-interiors/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0012",
+      "title": "A Memorable Notary Appointment and Situational Awareness",
+      "section": "background",
+      "path": "background/PUB-0012-notary-appointment.md",
+      "legacyPaths": [
+        "projects/PUB-0012-a-memorable-notary-appointment-and-situational-awareness/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0014",
+      "title": "Remote AI Intake from Phone Call to Project Record",
+      "section": "workflows",
+      "path": "workflows/PUB-0014-remote-customer-intake.md",
+      "legacyPaths": [
+        "projects/PUB-0014-remote-ai-intake-from-phone-call-to-project-record/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0015",
+      "title": "Voice-Assisted AI Asset Tracking for Field Operations",
+      "section": "workflows",
+      "path": "workflows/PUB-0015-voice-directed-asset-tracking.md",
+      "legacyPaths": [
+        "projects/PUB-0015-voice-assisted-ai-asset-tracking-for-field-operations/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0016",
+      "title": "Operator-Led 3D-Printed Tool for Licensed Wildlife Control",
+      "section": "design-and-prototyping",
+      "path": "design-and-prototyping/PUB-0016-wildlife-control-tool.md",
+      "legacyPaths": [
+        "projects/PUB-0016-operator-led-3d-printed-tool-for-licensed-wildlife-control/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0017",
+      "title": "Combining Wildlife and Building-Condition Investigations",
+      "section": "workflows",
+      "path": "workflows/PUB-0017-wildlife-and-building-investigations.md",
+      "legacyPaths": [
+        "projects/PUB-0017-combining-wildlife-and-building-condition-investigations/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0019",
+      "title": "Asymmetrical Workflows: AI as Delegated Capacity",
+      "section": "workflows",
+      "path": "workflows/PUB-0019-ai-as-delegated-capacity.md",
+      "legacyPaths": [
+        "projects/PUB-0019-asymmetrical-workflows-ai-as-delegated-capacity/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0020",
+      "title": "Open-Source PDF Tools in an AutoCAD Workflow",
+      "section": "workflows",
+      "path": "workflows/PUB-0020-pdf-tools-for-autocad.md",
+      "legacyPaths": [
+        "projects/PUB-0020-open-source-pdf-tools-in-an-autocad-workflow/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0021",
+      "title": "Voice-assisted documentation after a construction site visit",
+      "section": "workflows",
+      "path": "workflows/PUB-0021-post-visit-voice-documentation.md",
+      "legacyPaths": [
+        "projects/PUB-0021-voice-assisted-post-visit-construction-documentation/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0023",
+      "title": "Using Codex to upload project documentation into JobTread",
+      "section": "workflows",
+      "path": "workflows/PUB-0023-jobtread-document-upload.md",
+      "legacyPaths": [
+        "projects/PUB-0023-using-codex-to-upload-project-documentation-into-jobtread/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0024",
+      "title": "Using Codex to Sign Documents Remotely",
+      "section": "workflows",
+      "path": "workflows/PUB-0024-remote-document-signing.md",
+      "legacyPaths": [
+        "projects/PUB-0024-using-codex-to-sign-documents-remotely/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0025",
+      "title": "Real-Time Audio for Organizing Field Context",
+      "section": "workflows",
+      "path": "workflows/PUB-0025-real-time-audio-notes.md",
+      "legacyPaths": [
+        "projects/PUB-0025-real-time-audio-field-context/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0026",
+      "title": "Reducing Office Dependence Through AI-Assisted Administration",
+      "section": "workflows",
+      "path": "workflows/PUB-0026-remote-business-administration.md",
+      "legacyPaths": [
+        "projects/PUB-0026-reducing-office-dependence-ai-assisted-administration/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0027",
+      "title": "Automating Gaussian Splats from Phone Capture to Production",
+      "section": "workflows",
+      "path": "workflows/PUB-0027-phone-to-gaussian-splat.md",
+      "legacyPaths": [
+        "projects/PUB-0027-automated-gaussian-splat-phone-to-production/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0028",
+      "title": "Automating site context at project kickoff with Codex",
+      "section": "workflows",
+      "path": "workflows/PUB-0028-site-context-at-project-kickoff.md",
+      "legacyPaths": [
+        "projects/PUB-0028-automating-connecticut-site-context-at-project-kickoff/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0029",
+      "title": "Using AI to find building codes and verify the source",
+      "section": "workflows",
+      "path": "workflows/PUB-0029-building-code-source-verification.md",
+      "legacyPaths": [
+        "projects/PUB-0029-using-ai-to-find-building-codes-and-verify-the-source/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0030",
+      "title": "Using a fresh context for contract revisions",
+      "section": "workflows",
+      "path": "workflows/PUB-0030-contract-revision-context.md",
+      "legacyPaths": [
+        "projects/PUB-0030-using-a-fresh-context-for-contract-revisions/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0031",
+      "title": "Using travel time to keep construction administration current",
+      "section": "workflows",
+      "path": "workflows/PUB-0031-construction-administration-between-appointments.md",
+      "legacyPaths": [
+        "projects/PUB-0031-using-travel-time-to-keep-construction-administration-current/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0032",
+      "title": "Using AI to connect regulatory research to the first residential design meeting",
+      "section": "workflows",
+      "path": "workflows/PUB-0032-regulatory-research-before-design.md",
+      "legacyPaths": [
+        "projects/PUB-0032-using-ai-to-connect-regulatory-research-to-the-first-residential-design-/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0033",
+      "title": "Using AI for a material-sourcing research loop",
+      "section": "workflows",
+      "path": "workflows/PUB-0033-material-sourcing-research.md",
+      "legacyPaths": [
+        "projects/PUB-0033-using-ai-for-a-material-sourcing-research-loop/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0034",
+      "title": "Using Codex to build client-specific marketing brochures",
+      "section": "workflows",
+      "path": "workflows/PUB-0034-client-specific-brochures.md",
+      "legacyPaths": [
+        "projects/PUB-0034-using-codex-to-build-client-specific-marketing-brochures/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0035",
+      "title": "Using Codex to learn unfamiliar construction assembly methods",
+      "section": "workflows",
+      "path": "workflows/PUB-0035-learning-construction-assemblies.md",
+      "legacyPaths": [
+        "projects/PUB-0035-using-codex-to-learn-unfamiliar-construction-assembly-methods/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0036",
+      "title": "Using Codex to explore alternative construction approaches under local codes",
+      "section": "workflows",
+      "path": "workflows/PUB-0036-alternative-construction-research.md",
+      "legacyPaths": [
+        "projects/PUB-0036-using-codex-to-explore-alternative-construction-approaches-under-local-c/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0037",
+      "title": "Using Codex Remote to capture design thinking away from the office",
+      "section": "workflows",
+      "path": "workflows/PUB-0037-remote-design-notes.md",
+      "legacyPaths": [
+        "projects/PUB-0037-using-codex-remote-to-capture-design-thinking-away-from-the-office/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0038",
+      "title": "Finding the trust threshold for AI delegation",
+      "section": "workflows",
+      "path": "workflows/PUB-0038-ai-delegation-and-review.md",
+      "legacyPaths": [
+        "projects/PUB-0038-finding-the-trust-threshold-for-ai-delegation/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0039",
+      "title": "Using Codex Remote to clear the weekend admin backlog",
+      "section": "workflows",
+      "path": "workflows/PUB-0039-weekend-administration-recap.md",
+      "legacyPaths": [
+        "projects/PUB-0039-using-codex-remote-to-clear-the-weekend-admin-backlog/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0040",
+      "title": "Refining blueprint callouts with Codex",
+      "section": "workflows",
+      "path": "workflows/PUB-0040-blueprint-callouts.md",
+      "legacyPaths": [
+        "projects/PUB-0040-refining-blueprint-callouts-with-codex/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0041",
+      "title": "Juggling parallel AI work from the road",
+      "section": "workflows",
+      "path": "workflows/PUB-0041-parallel-ai-work.md",
+      "legacyPaths": [
+        "projects/PUB-0041-juggling-parallel-ai-work-from-the-road/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0042",
+      "title": "Near Instant Field Notes with Codex Remote",
+      "section": "workflows",
+      "path": "workflows/PUB-0042-field-note-capture.md",
+      "legacyPaths": [
+        "projects/PUB-0042-near-instant-field-notes-with-codex-remote/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0043",
+      "title": "Routing Project PDFs from Email into the Right Job with Codex Remote",
+      "section": "workflows",
+      "path": "workflows/PUB-0043-email-to-job-document-routing.md",
+      "legacyPaths": [
+        "projects/PUB-0043-routing-project-pdfs-from-email-into-the-right-job-with-codex-remote/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0044",
+      "title": "How my daily AI use varies",
+      "section": "workflows",
+      "path": "workflows/PUB-0044-daily-ai-use.md",
+      "legacyPaths": [
+        "projects/PUB-0044-how-my-daily-ai-use-varies/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0045",
+      "title": "Remote AutoCAD drawing set maintenance and quality control",
+      "section": "workflows",
+      "path": "workflows/PUB-0045-autocad-drawing-set-review.md",
+      "legacyPaths": [
+        "projects/PUB-0045-remote-autocad-drawing-set-maintenance-and-quality-control/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0046",
+      "title": "Keeping track of blueprint revisions with AI",
+      "section": "workflows",
+      "path": "workflows/PUB-0046-drawing-revision-records.md",
+      "legacyPaths": [
+        "projects/PUB-0046-keeping-track-of-blueprint-revisions-with-ai/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0047",
+      "title": "Adding field photos and context to job records with Codex Remote",
+      "section": "workflows",
+      "path": "workflows/PUB-0047-field-photos-and-job-context.md",
+      "legacyPaths": [
+        "projects/PUB-0047-adding-field-photos-and-context-to-job-records-with-codex-remote/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0048",
+      "title": "Using ChatGPT to speak translated instructions on the job",
+      "section": "workflows",
+      "path": "workflows/PUB-0048-spoken-translation.md",
+      "legacyPaths": [
+        "projects/PUB-0048-using-chatgpt-to-speak-translated-instructions-on-the-job/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0049",
+      "title": "Updating my schedule remotely with a local calendar record",
+      "section": "workflows",
+      "path": "workflows/PUB-0049-local-schedule-and-calendar.md",
+      "legacyPaths": [
+        "projects/PUB-0049-updating-my-schedule-remotely-with-a-local-calendar-record/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0050",
+      "title": "Remembering more and carrying less through voice documentation",
+      "section": "workflows",
+      "path": "workflows/PUB-0050-voice-documentation-and-memory.md",
+      "legacyPaths": [
+        "projects/PUB-0050-remembering-more-and-carrying-less-through-voice-documentation/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0051",
+      "title": "Directing work through Codex Remote during driving time",
+      "section": "workflows",
+      "path": "workflows/PUB-0051-hands-free-remote-work.md",
+      "legacyPaths": [
+        "projects/PUB-0051-directing-work-through-codex-remote-during-driving-time/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0052",
+      "title": "Asking Questions About Project Manuals",
+      "section": "workflows",
+      "path": "workflows/PUB-0052-project-manual-research.md",
+      "legacyPaths": [
+        "projects/PUB-0052-asking-questions-about-project-manuals/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0053",
+      "title": "Using AutoCAD Elevations for Customer Concept Images",
+      "section": "workflows",
+      "path": "workflows/PUB-0053-elevation-concept-images.md",
+      "legacyPaths": [
+        "projects/PUB-0053-using-autocad-elevations-for-customer-concept-images/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0054",
+      "title": "Choosing the Model for Each Part of the Work",
+      "section": "workflows",
+      "path": "workflows/PUB-0054-model-selection.md",
+      "legacyPaths": [
+        "projects/PUB-0054-choosing-the-model-for-each-part-of-the-work/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0055",
+      "title": "Moving Everyday AI Work into ChatGPT with Saved Context",
+      "section": "workflows",
+      "path": "workflows/PUB-0055-chatgpt-brainstorming-and-saved-context.md",
+      "legacyPaths": [
+        "projects/PUB-0055-moving-everyday-ai-work-into-chatgpt-with-saved-context/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0056",
+      "title": "Turning Open Chrome Tabs into a Batch Research Task",
+      "section": "workflows",
+      "path": "workflows/PUB-0056-batch-browser-research.md",
+      "legacyPaths": [
+        "projects/PUB-0056-turning-open-chrome-tabs-into-a-batch-research-task/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0057",
+      "title": "Using AI during crunch times",
+      "section": "workflows",
+      "path": "workflows/PUB-0057-documentation-during-busy-periods.md",
+      "legacyPaths": [
+        "projects/PUB-0057-using-ai-during-crunch-times/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0059",
+      "title": "Comparing foundation and metal building engineering documents with Codex",
+      "section": "workflows",
+      "path": "workflows/PUB-0059-engineering-document-comparison.md",
+      "legacyPaths": [
+        "projects/PUB-0059-comparing-foundation-and-metal-building-engineering-documents-with-codex/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0060",
+      "title": "Exceptionally productive days with remote AI workflows",
+      "section": "workflows",
+      "path": "workflows/PUB-0060-parallel-project-administration.md",
+      "legacyPaths": [
+        "projects/PUB-0060-exceptionally-productive-days-with-remote-ai-workflows/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0061",
+      "title": "Creating and sending invoices through voice instructions",
+      "section": "workflows",
+      "path": "workflows/PUB-0061-voice-directed-business-documents.md",
+      "legacyPaths": [
+        "projects/PUB-0061-creating-and-sending-invoices-through-voice-instructions/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0062",
+      "title": "Helping a resale business organize tag sale visits with AI",
+      "section": "workflows",
+      "path": "workflows/PUB-0062-resale-research-and-routing.md",
+      "legacyPaths": [
+        "projects/PUB-0062-helping-a-resale-business-organize-tag-sale-visits-with-ai/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0063",
+      "title": "How I use AI when starting a new project",
+      "section": "workflows",
+      "path": "workflows/PUB-0063-project-intake.md",
+      "legacyPaths": [
+        "projects/PUB-0063-how-i-use-ai-when-starting-a-new-project/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0064",
+      "title": "Designing AI workflows for construction work in the field",
+      "section": "workflows",
+      "path": "workflows/PUB-0064-ai-for-field-work.md",
+      "legacyPaths": [
+        "projects/PUB-0064-designing-ai-workflows-for-construction-work-in-the-field/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0065",
+      "title": "Experimenting with new AI capabilities in the field",
+      "section": "workflows",
+      "path": "workflows/PUB-0065-testing-ai-capabilities.md",
+      "legacyPaths": [
+        "projects/PUB-0065-experimenting-with-new-ai-capabilities-in-the-field/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0066",
+      "title": "Starting site documentation with real-time AI",
+      "section": "workflows",
+      "path": "workflows/PUB-0066-live-site-documentation.md",
+      "legacyPaths": [
+        "projects/PUB-0066-turning-spoken-site-observations-into-working-documents/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0067",
+      "title": "Using voice dictation in the field and at my desktop",
+      "section": "workflows",
+      "path": "workflows/PUB-0067-voice-at-the-desk-and-in-the-field.md",
+      "legacyPaths": [
+        "projects/PUB-0067-using-voice-dictation-in-the-field-and-at-my-desktop/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0069",
+      "title": "Watching Wearables and AI in Construction",
+      "section": "research",
+      "path": "research/PUB-0069-wearable-field-interfaces.md",
+      "legacyPaths": [
+        "projects/PUB-0069-watching-wearables-and-ai-in-construction/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0071",
+      "title": "A Lightweight Task Manager and Punch Lists in Markdown",
+      "section": "workflows",
+      "path": "workflows/PUB-0071-markdown-tasks-and-punch-lists.md",
+      "legacyPaths": [
+        "projects/PUB-0071-a-lightweight-task-manager-and-punch-lists-in-markdown/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0072",
+      "title": "Routing One Voice Update Across Jobs and Projects",
+      "section": "workflows",
+      "path": "workflows/PUB-0072-multi-job-voice-updates.md",
+      "legacyPaths": [
+        "projects/PUB-0072-routing-one-voice-update-across-jobs-and-projects/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0073",
+      "title": "AI Wearables and Everyday Construction Workflows",
+      "section": "research",
+      "path": "research/PUB-0073-construction-wearables.md",
+      "legacyPaths": [
+        "projects/PUB-0073-ai-wearables-and-everyday-construction-workflows/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0074",
+      "title": "Building Railing Software One Needed Feature at a Time",
+      "section": "workflows",
+      "path": "workflows/PUB-0074-incremental-railing-development.md",
+      "legacyPaths": [
+        "projects/PUB-0074-building-railing-software-one-needed-feature-at-a-time/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0075",
+      "title": "Using Voice for Almost All of My AI Instructions",
+      "section": "workflows",
+      "path": "workflows/PUB-0075-voice-first-ai-interaction.md",
+      "legacyPaths": [
+        "projects/PUB-0075-using-voice-for-almost-all-of-my-ai-instructions/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0076",
+      "title": "Using Codex to Prepare a Building Review Response",
+      "section": "workflows",
+      "path": "workflows/PUB-0076-building-review-responses.md",
+      "legacyPaths": [
+        "projects/PUB-0076-using-codex-to-prepare-a-building-review-response/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0077",
+      "title": "How I Automate Reasoning on Site",
+      "section": "workflows",
+      "path": "workflows/PUB-0077-podcast-production.md",
+      "legacyPaths": [
+        "projects/PUB-0077-how-i-automate-reasoning-on-site/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0078",
+      "title": "Reviewing and Updating AutoCAD Drawing Notes Remotely",
+      "section": "workflows",
+      "path": "workflows/PUB-0078-remote-autocad-notes.md",
+      "legacyPaths": [
+        "projects/PUB-0078-reviewing-and-updating-autocad-drawing-notes-remotely/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0079",
+      "title": "Using Obsidian, GitHub, and Dropbox for Notes and Project Files",
+      "section": "workflows",
+      "path": "workflows/PUB-0079-obsidian-github-and-dropbox.md",
+      "legacyPaths": [
+        "projects/PUB-0079-using-obsidian-github-and-dropbox-for-notes-and-project-files/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0080",
+      "title": "Railing Generator",
+      "section": "applications",
+      "path": "applications/railing-generator/overview.md",
+      "legacyPaths": [
+        "applications/railing-generator.md"
+      ]
+    },
+    {
+      "id": "PUB-0081",
+      "title": "From Field Voice Notes to Annual Wildlife Reports",
+      "section": "workflows",
+      "path": "workflows/PUB-0081-wildlife-reporting.md",
+      "legacyPaths": [
+        "projects/PUB-0081-from-field-voice-notes-to-annual-wildlife-reports/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0083",
+      "title": "From Hand Drafting to AutoCAD and AI",
+      "section": "background",
+      "path": "background/PUB-0083-drafting-from-handwork-to-ai.md",
+      "legacyPaths": [
+        "projects/PUB-0083-hand-drafting-autocad-and-ai/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0084",
+      "title": "Using AI to Test and Repair My Internal Tools",
+      "section": "workflows",
+      "path": "workflows/PUB-0084-adversarial-testing-of-internal-tools.md",
+      "legacyPaths": [
+        "projects/PUB-0084-ai-adversarial-testing-internal-tools/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0085",
+      "title": "Using LiDAR Terrain Maps Before the First Site Visit",
+      "section": "workflows",
+      "path": "workflows/PUB-0085-lidar-site-research.md",
+      "legacyPaths": [
+        "projects/PUB-0085-lidar-terrain-maps-before-site-visits/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0086",
+      "title": "Nightly Research That Fills Gaps in My Knowledge Vault",
+      "section": "workflows",
+      "path": "workflows/PUB-0086-knowledge-vault-research.md",
+      "legacyPaths": [
+        "projects/PUB-0086-nightly-research-knowledge-vault-gaps/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0087",
+      "title": "Turning AutoCAD Linework into a Browser Game",
+      "section": "design-and-prototyping",
+      "path": "design-and-prototyping/PUB-0087-cad-linework-browser-game.md",
+      "legacyPaths": [
+        "projects/PUB-0087-autocad-linework-browser-game/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0088",
+      "title": "Managing Construction Inside an Active Retirement Community",
+      "section": "construction",
+      "path": "construction/PUB-0088-occupied-retirement-community.md",
+      "legacyPaths": [
+        "projects/PUB-0088-occupied-retirement-community/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0089",
+      "title": "Coordinating an Office-to-Conference-Room Renovation",
+      "section": "construction",
+      "path": "construction/PUB-0089-conference-room-renovation.md",
+      "legacyPaths": [
+        "projects/PUB-0089-office-conference-room-renovation/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0090",
+      "title": "Preparing an Office Renovation for a Project-Lead Handoff",
+      "section": "construction",
+      "path": "construction/PUB-0090-office-renovation-handoff.md",
+      "legacyPaths": [
+        "projects/PUB-0090-office-renovation-handoff/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0091",
+      "title": "Coordinating Partitions, Glass, and Acoustics in a Commercial Fit-Out",
+      "section": "construction",
+      "path": "construction/PUB-0091-commercial-interior-fitout.md",
+      "legacyPaths": [
+        "projects/PUB-0091-commercial-interior-fitout/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0092",
+      "title": "Coordinating an Industrial Building Drawing Package",
+      "section": "construction",
+      "path": "construction/PUB-0092-coordinating-an-industrial-building-drawing-package.md",
+      "legacyPaths": [
+        "construction/PUB-0092-coordinating-an-industrial-building-drawing-package/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0093",
+      "title": "Designing an In-Law Addition Around an Existing Home",
+      "section": "construction",
+      "path": "construction/PUB-0093-designing-an-in-law-addition-around-an-existing-home.md",
+      "legacyPaths": [
+        "construction/PUB-0093-designing-an-in-law-addition-around-an-existing-home/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0094",
+      "title": "Testing the Feasibility of a Childcare Addition",
+      "section": "construction",
+      "path": "construction/PUB-0094-testing-the-feasibility-of-a-childcare-addition.md",
+      "legacyPaths": [
+        "construction/PUB-0094-testing-the-feasibility-of-a-childcare-addition/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0095",
+      "title": "Developing a Garage Project Through Design and Pricing",
+      "section": "construction",
+      "path": "construction/PUB-0095-developing-a-garage-project-through-design-and-pricing.md",
+      "legacyPaths": [
+        "construction/PUB-0095-developing-a-garage-project-through-design-and-pricing/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0096",
+      "title": "Drawing and Building a Basement Workout Room",
+      "section": "construction",
+      "path": "construction/PUB-0096-drawing-and-building-a-basement-workout-room.md",
+      "legacyPaths": [
+        "construction/PUB-0096-drawing-and-building-a-basement-workout-room/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0097",
+      "title": "Redesigning a Garage for Masonry Construction",
+      "section": "construction",
+      "path": "construction/PUB-0097-redesigning-a-garage-for-masonry-construction.md",
+      "legacyPaths": [
+        "construction/PUB-0097-redesigning-a-garage-for-masonry-construction/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0098",
+      "title": "Developing an Open-Plan Home Renovation",
+      "section": "construction",
+      "path": "construction/PUB-0098-developing-an-open-plan-home-renovation.md",
+      "legacyPaths": [
+        "construction/PUB-0098-developing-an-open-plan-home-renovation/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0099",
+      "title": "Preparing a Site-Planning Exhibit With AI and QGIS",
+      "section": "construction",
+      "path": "construction/PUB-0099-preparing-a-site-planning-exhibit-with-ai-and-qgis.md",
+      "legacyPaths": [
+        "construction/PUB-0099-preparing-a-site-planning-exhibit-with-ai-and-qgis/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0100",
+      "title": "Using AI Renderings to Explore Exterior Materials",
+      "section": "construction",
+      "path": "construction/PUB-0100-using-ai-renderings-to-explore-exterior-materials.md",
+      "legacyPaths": [
+        "construction/PUB-0100-using-ai-renderings-to-explore-exterior-materials/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0101",
+      "title": "Reconstructing Curved Drywall After a Rejected Installation",
+      "section": "construction",
+      "path": "construction/PUB-0101-reconstructing-curved-drywall-after-a-rejected-installation.md",
+      "legacyPaths": [
+        "construction/PUB-0101-reconstructing-curved-drywall-after-a-rejected-installation/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0102",
+      "title": "Repairing a Pergola and Finding the Cedar to Match",
+      "section": "construction",
+      "path": "construction/PUB-0102-repairing-a-pergola-and-finding-the-cedar-to-match.md",
+      "legacyPaths": [
+        "construction/PUB-0102-repairing-a-pergola-and-finding-the-cedar-to-match/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0103",
+      "title": "Installing Bathroom Assemblies in a New Industrial Building",
+      "section": "construction",
+      "path": "construction/PUB-0103-installing-bathroom-assemblies-in-a-new-industrial-building.md",
+      "legacyPaths": [
+        "construction/PUB-0103-installing-bathroom-assemblies-in-a-new-industrial-building/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0104",
+      "title": "Extending Railing Generator for Intermediate and Sloped Landings",
+      "section": "construction",
+      "path": "construction/PUB-0104-extending-railing-generator-for-intermediate-and-sloped-landings.md",
+      "legacyPaths": [
+        "construction/PUB-0104-extending-railing-generator-for-intermediate-and-sloped-landings/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0105",
+      "title": "Coordinating a Field Assembly Change With the Architect of Record",
+      "section": "construction",
+      "path": "construction/PUB-0105-coordinating-a-field-assembly-change-with-the-architect-of-record.md",
+      "legacyPaths": [
+        "construction/PUB-0105-coordinating-a-field-assembly-change-with-the-architect-of-record/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0106",
+      "title": "Developing a Residential Drawing Package for a General Contractor",
+      "section": "construction",
+      "path": "construction/PUB-0106-developing-a-residential-drawing-package-for-a-general-contractor.md",
+      "legacyPaths": [
+        "construction/PUB-0106-developing-a-residential-drawing-package-for-a-general-contractor/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0107",
+      "title": "Restoring a Space After a 5G Hub Decommissioning",
+      "section": "construction",
+      "path": "construction/PUB-0107-restoring-a-space-after-a-5g-hub-decommissioning.md",
+      "legacyPaths": [
+        "construction/PUB-0107-restoring-a-space-after-a-5g-hub-decommissioning/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0108",
+      "title": "Building an Architectural Client Intake Application",
+      "section": "applications",
+      "path": "applications/client-intake/overview.md",
+      "legacyPaths": [
+        "projects/PUB-0108-architectural-client-intake-application/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0109",
+      "title": "Building Blackout: A Cooperative Game with Two Different Views",
+      "section": "applications",
+      "path": "applications/blackout/overview.md",
+      "legacyPaths": [
+        "applications/blackout/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0110",
+      "title": "Developing a Faster Drywall Repair Process",
+      "section": "construction",
+      "path": "construction/PUB-0110-developing-a-faster-drywall-repair-process.md",
+      "legacyPaths": [
+        "construction/PUB-0110-developing-a-faster-drywall-repair-process/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0111",
+      "title": "Preparing Drawing PDFs and Printed Documents Through Codex Remote",
+      "section": "workflows",
+      "path": "workflows/PUB-0111-remote-drawing-export-and-printing.md",
+      "legacyPaths": [
+        "construction/PUB-0111-remote-autocad-pdf-exports-and-document-printing/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0112",
+      "title": "Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems",
+      "section": "applications",
+      "path": "applications/exfiltrate/overview.md",
+      "legacyPaths": [
+        "applications/exfiltrate/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0113",
+      "title": "Developing a Counter-UAS Research Catalog",
+      "section": "research",
+      "path": "research/PUB-0113-developing-a-counter-uas-research-catalog.md",
+      "legacyPaths": [
+        "research/PUB-0113-developing-a-counter-uas-research-catalog/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0115",
+      "title": "AI-Assisted Research and a Custom Dashboard for a Private Investigator",
+      "section": "research",
+      "path": "research/PUB-0115-ai-assisted-research-dashboard-for-a-private-investigator.md",
+      "legacyPaths": [
+        "research/PUB-0115-ai-assisted-research-dashboard-for-a-private-investigator/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0116",
+      "title": "Building Haddam Research Group Around Practical AI Research Workflows",
+      "section": "research",
+      "path": "research/PUB-0116-haddam-research-group.md",
+      "legacyPaths": [
+        "research/PUB-0116-haddam-research-group/README.md"
+      ]
+    },
+    {
+      "id": "PUB-0117",
+      "title": "Keeping Job Conditions and Notes in Obsidian",
+      "section": "workflows",
+      "path": "workflows/PUB-0117-job-conditions-and-notes.md",
+      "legacyPaths": [
+        "projects/PUB-0117-keeping-job-conditions-and-notes-in-obsidian/README.md"
+      ]
+    },
+    {
+      "id": "background:career",
+      "title": "Daniel Powell",
+      "section": "background",
+      "path": "background/career.md",
+      "legacyPaths": [
+        "CAREER.md"
+      ]
+    },
+    {
+      "id": "background:education-and-credentials",
+      "title": "Education, Licenses, and Professional Training",
+      "section": "background",
+      "path": "background/education-and-credentials.md",
+      "legacyPaths": [
+        "EDUCATION-AND-CREDENTIALS.md"
+      ]
+    },
+    {
+      "id": "background:moving-a-skunk-away-from-a-crowded-shoreline-park",
+      "title": "Moving a Skunk Away From a Crowded Shoreline Park",
+      "section": "background",
+      "path": "background/moving-a-skunk-away-from-a-crowded-shoreline-park.md",
+      "legacyPaths": []
+    },
+    {
+      "id": "background:music",
+      "title": "Musical Background and Production",
+      "section": "background",
+      "path": "background/music.md",
+      "legacyPaths": []
+    },
+    {
+      "id": "background:responding-to-a-dangerous-wildlife-incident",
+      "title": "Responding to a Rabid Coyote on a Connecticut Farm",
+      "section": "background",
+      "path": "background/responding-to-a-dangerous-wildlife-incident.md",
+      "legacyPaths": []
+    },
+    {
+      "id": "workshop:compact-lally-column-wrap",
+      "title": "Wrapping a Lally Column Without Building a Wall Around It",
+      "section": "workshop",
+      "path": "workshop/compact-lally-column-wrap.md",
+      "legacyPaths": []
+    }
+  ]
+}
