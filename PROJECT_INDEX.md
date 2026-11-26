@@ -4,6 +4,12 @@ Browse by period or subject. Each record has a stable PUB identifier for referen
 
 Explore the [Construction portfolio](construction/README.md) for project management, drafting, renovation, and construction technology.
 
+## Research
+
+| Public ID | Article | Work area |
+|---|---|---|
+| PUB-0113 | [Developing a Counter-UAS Research Catalog](research/PUB-0113-developing-a-counter-uas-research-catalog/README.md) | Counter-UAS research and information architecture |
+
 ## Construction Articles
 
 | Public ID | Article | Work area |
