@@ -1,6 +1,6 @@
 # Project Index
 
-Projects are listed by approximate period. Public IDs are stable and do not correspond to private job numbers.
+Browse by period or subject. Each record has a stable PUB identifier for reference.
 
 ## 2026
 
@@ -20,9 +20,7 @@ Projects are listed by approximate period. Public IDs are stable and do not corr
 | PUB-0028 | [Automating Connecticut site context at project kickoff](projects/PUB-0028-automating-connecticut-site-context-at-project-kickoff/README.md) | Construction planning, Geospatial context, Workflow automation | Published |
 | PUB-0001 | [Middlesex County Residential Design Adaptation](projects/PUB-0001-middlesex-county-residential-design/README.md) | Residential planning, drafting, permit-response coordination | Initial public draft |
 
-## Earlier Work
-
-Historical projects will be added after source review, time-range confirmation, anonymization, and publication approval. Approximate dates and memory-backed records will be labeled directly.
+<a name="earlier-work"></a>
 
 ## Systems and Workflows
 

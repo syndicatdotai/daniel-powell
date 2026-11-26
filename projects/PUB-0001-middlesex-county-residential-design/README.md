@@ -85,4 +85,4 @@ The project period is shown only as 2026 to reduce identification risk. No claim
 
 ## Images
 
-No images are included in the initial draft. Candidate drawings and project images must be selected, converted into sanitized derivatives, stripped of metadata, reviewed for visible identifiers, and approved before publication.
+This edition contains the written project record.

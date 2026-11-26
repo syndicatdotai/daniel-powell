@@ -1,18 +1,29 @@
 # About Daniel Powell
 
-Daniel Powell works at the intersection of construction, drafting, project coordination, and practical technology.
+Daniel Powell runs a construction and drafting business and develops software to expand what he can manage as a solo operator. His interest in automation comes from a business question he encounters in his own work. How do you give several projects the attention they need when the same person is responsible for design, estimating, coordination, and client decisions? Much of what he builds lets him put experience gained on one project to work on the next.
 
-His construction background began in 2005 with commercial and residential carpentry and developed into project leadership, management, planning, and drawing work. That field experience remains the foundation of his approach: understand existing conditions, define the scope clearly, coordinate the details, and produce information that can be used by the people pricing and building the work.
+Daniel began in commercial and residential carpentry in 2005. His work grew to include project leadership, preconstruction planning, and architectural drafting. In the four years through 2026, he worked on approximately 30 drafting projects. His AutoCAD practice spans existing-condition documentation, residential renovations and additions, and permit coordination. Having worked on both sides of a drawing set, he understands how an early design decision affects what a client can price, what a reviewer needs to see, and what a contractor can build.
 
-Current work includes residential and light-commercial drawing packages, renovation and addition planning, existing-condition documentation, permit-response revisions, estimates, construction coordination, and selected field execution. The common focus is reducing uncertainty before it becomes expensive work in the field.
+## Business operations and automation
 
-Daniel also develops software and AI-assisted workflows for construction and manufacturing environments. These systems organize project information, reduce repetitive drafting and administrative work, connect office decisions with field requirements, and make accumulated knowledge easier to retrieve and use.
+Daniel designed an operating system for his business around Obsidian and Codex. It gives him a working history of each project that he can draw on across planning, scheduling, correspondence, and financial administration. That continuity matters in a small practice. Several jobs may need attention on the same day, and a client calling about a change has every reason to expect the last conversation to carry forward.
 
-His technical research includes open-source counter-UAS work, structured source analysis, automation, and practical applications of AI. Across each area, the objective is consistent: produce accurate work, preserve useful context, and improve how a project moves from information to action.
+Estimates, contracts, and invoices are three places where that history pays off. Each document serves a different business purpose, but all three depend on a consistent understanding of the work. By building their preparation around shared project records, Daniel reduces the time he spends reconstructing earlier decisions. He can give more attention to the scope he is committing to, the price he is quoting, and the obligations he is taking on. [Obsidian and business automation](projects/PUB-0008-obsidian-skills-and-automation-systems-for-a-solo-operator/README.md)
 
-This repository provides selected, evidence-grounded project records. Client identities, direct addresses, personal contact information, and private operational documents are intentionally excluded.
+## Software for drafting and manufacturing
+
+Daniel’s railing software grew out of his work producing shop drawings for a manufacturer. He saw that each new order depended on judgments he had already made many times about how to represent a railing so the shop could fabricate it. Developing the application gave that knowledge a life beyond any one drawing. A capability added for one order becomes available the next time the manufacturer encounters a similar configuration.
+
+Daniel works as both the developer and the drafter using the software. That gives him a practical basis for investment decisions. He can assess which improvements will benefit future orders, where flexibility matters to the shop, and when a custom detail is the most economical way to serve a particular job. [Manufacturing knowledge and shop-drawing software](projects/PUB-0009-turning-manufacturing-knowledge-into-shop-drawing-software/README.md)
+
+## Reasoning on Site
+
+Daniel hosts *Reasoning on Site*, where he develops his commentary in his own voice. He also designed the production workflow that makes the show manageable alongside client work. He can devote his editorial attention to the idea behind an episode, the examples that explain it, and the finished piece a listener will hear.
+
+The show also gives that commentary a longer life. An episode can reach someone as a podcast, become a searchable reference on the website, or introduce a topic through an illustrated short. Building those formats around the same body of work lets Daniel publish for different audiences while retaining responsibility for what he says and how it is presented. [How Daniel produces Reasoning on Site](projects/PUB-0077-how-i-automate-reasoning-on-site/README.md)
 
 ## Links
 
+- [Project index](PROJECT_INDEX.md)
 - [LinkedIn](https://www.linkedin.com/in/daniel-powell-c-uas-systems)
 - [Danny and Associates](https://danny.associates/)

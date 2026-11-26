@@ -8,8 +8,6 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 - [About Daniel Powell](ABOUT.md)
 - [Project Index](PROJECT_INDEX.md)
-- [Publication Rules](PUBLICATION_RULES.md)
-- [Project Record Template](PROJECT_TEMPLATE.md)
 
 ## Selected Work
 
@@ -92,11 +90,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 - AI-assisted workflow design and automation
 - Technical research and open-source development
 
-## Record Standard
-
-Projects are selected for documented value, not volume. Dates and locations may be generalized to protect clients and property owners. Project status is stated directly so feasibility work, drawing work, project management, and completed construction are not treated as interchangeable. When a record mirrors an approved LinkedIn post, the short commentary is preserved as a summary and the longer record is independently sourced, anonymized, audited, and approved.
-
-This repository contains public summaries and sanitized media only. It does not contain raw project files, private correspondence, client records, direct addresses, personal contact information, credentials, or internal operating documents.
+<a name="record-standard"></a>
 
 ## Public Links
 
