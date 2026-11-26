@@ -116,4 +116,5 @@ Historical projects will be added after source review, time-range confirmation, 
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0077 | [How I Automate Reasoning on Site](projects/PUB-0077-how-i-automate-reasoning-on-site/README.md) | Podcast production, Workflow automation | Published |
 | PUB-0076 | [Using Codex to Prepare a Building Review Response](projects/PUB-0076-using-codex-to-prepare-a-building-review-response/README.md) | Permit response research and documentation | Published |
