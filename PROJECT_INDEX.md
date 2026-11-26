@@ -90,6 +90,7 @@ Browse by period or subject. Each record has a stable PUB identifier for referen
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0086 | [Nightly Research That Fills Gaps in My Knowledge Vault](projects/PUB-0086-nightly-research-knowledge-vault-gaps/README.md) | Automated research and connected knowledge management | Published |
 | PUB-0085 | [Using LiDAR Terrain Maps Before the First Site Visit](projects/PUB-0085-lidar-terrain-maps-before-site-visits/README.md) | Terrain research and preliminary construction planning | Published |
 | PUB-0084 | [Using AI to Test and Repair My Internal Tools](projects/PUB-0084-ai-adversarial-testing-internal-tools/README.md) | Internal software development and adversarial testing | Published |
 | PUB-0083 | [From Hand Drafting to AutoCAD and AI](projects/PUB-0083-hand-drafting-autocad-and-ai/README.md) | Drafting and documentation | Published |

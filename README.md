@@ -15,6 +15,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Selected Work
 
+- [PUB-0086 - Nightly Research That Fills Gaps in My Knowledge Vault](projects/PUB-0086-nightly-research-knowledge-vault-gaps/README.md)
 - [PUB-0085 - Using LiDAR Terrain Maps Before the First Site Visit](projects/PUB-0085-lidar-terrain-maps-before-site-visits/README.md)
 - [PUB-0084 - Using AI to Test and Repair My Internal Tools](projects/PUB-0084-ai-adversarial-testing-internal-tools/README.md)
 - [PUB-0083 - From Hand Drafting to AutoCAD and AI](projects/PUB-0083-hand-drafting-autocad-and-ai/README.md)
