@@ -31,6 +31,7 @@ Explore the [Construction portfolio](construction/README.md) for project managem
 
 | Public ID | Application | Work area | Public status |
 |---|---|---|---|
+| PUB-0112 | [Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems](applications/exfiltrate/README.md) | Game design and AI assisted software development | Published |
 | PUB-0109 | [Blackout: A Cooperative Game with Two Different Views](applications/blackout/README.md) | Game design and AI assisted software development | Published |
 | PUB-0080 | [Railing Generator](applications/railing-generator.md) | Drafting automation | Published |
 

@@ -12,6 +12,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 
 ## Applications
 
+- [PUB-0112 - Exfiltrate](applications/exfiltrate/README.md)
 - [PUB-0109 - Blackout](applications/blackout/README.md)
 - [PUB-0080 - Railing Generator](applications/railing-generator.md)
 
