@@ -1,0 +1,19 @@
+name: Archive summary validation
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate discovery metadata and generated overview
+        run: python3 scripts/archive_summary.py check
+      - name: Test summary maintenance
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'

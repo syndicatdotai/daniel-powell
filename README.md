@@ -1,5 +1,7 @@
 # Daniel Powell
 
+[Read the archive summary](SUMMARY.md) · [Complete index](INDEX.md)
+
 I work across construction, architectural drafting, software development, and technical research. This archive brings together the work itself and the thinking behind it: the problems encountered, the decisions made, and the methods developed along the way.
 
 Much of my software and automation grows out of running a construction and drafting business. A recurring drawing requirement becomes a feature in an application. Information captured on a site visit becomes the basis for estimates, project records, and follow-up. Experience from one assignment becomes something useful on the next.

@@ -12,3 +12,9 @@ The archive groups articles by their main subject. Each article has one canonica
 The catalog includes earlier public paths for moved records. Those paths document the migration; they are not redirects. Use each record's `path` for its current location.
 
 [About Daniel Powell](ABOUT.md) · [Complete index](INDEX.md)
+
+## Discovery summaries
+
+[SUMMARY.md](SUMMARY.md) provides a short overview of every canonical content document, grouped by subject. The catalog stores summaries, search tags, optional role and period information, word counts, and content hashes. Use this overview to select relevant articles, then read their full text for detailed claims.
+
+Summaries are maintained with article revisions and generated from the catalog. See [summary maintenance](scripts/ARCHIVE_SUMMARIES.md) for the format and validation commands.

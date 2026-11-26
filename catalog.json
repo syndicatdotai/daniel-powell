@@ -53,7 +53,17 @@
       "path": "construction/PUB-0001-residential-design-adaptation.md",
       "legacyPaths": [
         "projects/PUB-0001-middlesex-county-residential-design/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell adapted an existing residential design through layout, elevation, foundation, and municipal-review revisions. He coordinated the drawing package, incorporated technical corrections, and issued revised drawings with follow-up field clarification. The work connects design adaptation, CAD drafting, and permit-response coordination as owner requirements and construction approaches changed.",
+      "tags": [
+        "drafting",
+        "construction-drawings",
+        "field-documentation",
+        "foundation-coordination"
+      ],
+      "wordCount": 693,
+      "contentSha256": "b2e0e081a8cd19c67304174ed55491b179c0ae2a9309f07832b50e0fcf466d96",
+      "role": "Residential drafting and design coordination"
     },
     {
       "id": "PUB-0005",
@@ -62,7 +72,19 @@
       "path": "workflows/PUB-0005-voice-enabled-field-software.md",
       "legacyPaths": [
         "projects/PUB-0005-voice-enabled-field-access-to-advanced-construction-software/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell develops and tests voice-enabled access to construction project systems for field operators. Natural-language requests connect observations with project lookup, notes, research, and document preparation. The operating and training concept links field input with detailed office review, drawing on his construction, drafting, and software experience.",
+      "tags": [
+        "drafting",
+        "voice-input",
+        "construction-drawings",
+        "research",
+        "field-documentation",
+        "software-development",
+        "training"
+      ],
+      "wordCount": 1825,
+      "contentSha256": "ec97927c67c73bc882d04e720388979b90c3dbba4772584ad8eb47ad1b54d48d"
     },
     {
       "id": "PUB-0006",
@@ -71,7 +93,16 @@
       "path": "workflows/PUB-0006-railing-feature-development-decisions.md",
       "legacyPaths": [
         "projects/PUB-0006-build-the-feature-or-draw-it-manually-a-railing-automation-decision-fram/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell evaluates when a railing condition should be drawn manually or added to his shop-drawing application. The decision weighs likely reuse, interface complexity, production requirements, and regression risk. His approach combines responsibility for actual drawing output with incremental software development and continued AutoCAD refinement.",
+      "tags": [
+        "railing-drawings",
+        "autocad",
+        "construction-drawings",
+        "software-development"
+      ],
+      "wordCount": 1903,
+      "contentSha256": "8c1ba421b18344568ff3bbc36d8f1a39b7c8d83a8a8f68c9cce9cbfdb0cc2d40"
     },
     {
       "id": "PUB-0007",
@@ -80,7 +111,17 @@
       "path": "construction/PUB-0007-shopping-center-life-safety.md",
       "legacyPaths": [
         "projects/PUB-0007-southern-connecticut-shopping-center-life-safety-coordination/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell led an initial tenant-space life-safety upgrade through completion and investigated additional spaces for later planning. His responsibilities covered existing-condition investigation, scope development, subcontractor buyout, and coordination of framing, drywall, sprinklers, alarms, and smoke detection. The project connected concealed field conditions with executable trade scopes.",
+      "tags": [
+        "drywall",
+        "subcontractor-management",
+        "site-safety",
+        "field-documentation"
+      ],
+      "wordCount": 1287,
+      "contentSha256": "063f8f3bbc73791f7ac2a0cf1e050cba9f9649eaa5d3f082051440e796eae4ea",
+      "role": "Project lead and field coordinator"
     },
     {
       "id": "PUB-0008",
@@ -89,7 +130,16 @@
       "path": "workflows/PUB-0008-obsidian-business-automation.md",
       "legacyPaths": [
         "projects/PUB-0008-obsidian-skills-and-automation-systems-for-a-solo-operator/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell develops an Obsidian-centered operating system connecting field observations, correspondence, jobs, tasks, schedules, drawings, documents, and publishing. Reusable Codex skills and scripts preserve project context across remote and office work. The system supports a solo practice through structured records, defined workflow responsibilities, and controlled automation.",
+      "tags": [
+        "construction-drawings",
+        "scheduling",
+        "field-documentation",
+        "knowledge-management"
+      ],
+      "wordCount": 1134,
+      "contentSha256": "6e302303e2fbb37d29ac9fd1ec4b1afd1ffc40d11e473272c5d6c511a9934613"
     },
     {
       "id": "PUB-0009",
@@ -98,7 +148,16 @@
       "path": "workflows/PUB-0009-manufacturing-knowledge-in-software.md",
       "legacyPaths": [
         "projects/PUB-0009-turning-manufacturing-knowledge-into-shop-drawing-software/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell developed a custom shop-drawing application for a local manufacturer after first performing the underlying drawing work manually in AutoCAD. That sequence mattered. By the time development began, he already understood the manufacturing process, the physical requirements represented by the drawings, the recurring drafting patterns, and the small exceptions that affect whether an output is useful in production.",
+      "tags": [
+        "autocad",
+        "drafting",
+        "construction-drawings",
+        "software-development"
+      ],
+      "wordCount": 1756,
+      "contentSha256": "74169132e82e8a69481264506f97a5ed68f54746e5872afd5dd2d372fad71e87"
     },
     {
       "id": "PUB-0010",
@@ -107,7 +166,15 @@
       "path": "background/PUB-0010-wildlife-control-community-service.md",
       "legacyPaths": [
         "projects/PUB-0010-connecticut-nuisance-wildlife-control-as-a-community-service/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell provides licensed nuisance-wildlife services in Connecticut, combining animal investigation with practical assistance to property owners. The work includes understanding activity around buildings, communicating with residents, and addressing wildlife access. It remains a community-service component of his broader construction and field practice.",
+      "tags": [
+        "wildlife-control",
+        "field-documentation",
+        "career-background"
+      ],
+      "wordCount": 1913,
+      "contentSha256": "95b56f4ab16c5e82afa2f69202b95203381fadb8a633cd79ad9f280777c8fe5e"
     },
     {
       "id": "PUB-0011",
@@ -116,7 +183,16 @@
       "path": "construction/PUB-0011-on-site-commercial-drafting.md",
       "legacyPaths": [
         "projects/PUB-0011-on-site-drafting-for-existing-commercial-interiors/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell began developing existing-condition drawings while measuring commercial interiors on site. The drawing became a way to test spatial relationships and identify missing information while the physical conditions were still accessible. The approach produces a verified field base for later office drafting and reduces dependence on recollection.",
+      "tags": [
+        "drafting",
+        "construction-drawings",
+        "field-documentation"
+      ],
+      "wordCount": 2060,
+      "contentSha256": "a6869f981ee5ecefb2a162a1102eb93c54e47a704bba64abcbfa700c1a7f4fbd",
+      "role": "Field measurer and drafter"
     },
     {
       "id": "PUB-0012",
@@ -125,7 +201,15 @@
       "path": "background/PUB-0012-notary-appointment.md",
       "legacyPaths": [
         "projects/PUB-0012-a-memorable-notary-appointment-and-situational-awareness/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell completed an affidavit notarization during an unusual off-site appointment. He assessed the unfamiliar setting, brought a companion, and maintained professional communication through the assignment. The account illustrates situational awareness and practical judgment in providing mobile notarial services.",
+      "tags": [
+        "notarial-services",
+        "career-background",
+        "professional-experience"
+      ],
+      "wordCount": 1568,
+      "contentSha256": "a69696578363696cec54d886f8b0376adfb7a3cbeb593fe0666cc6710994834c"
     },
     {
       "id": "PUB-0014",
@@ -134,7 +218,15 @@
       "path": "workflows/PUB-0014-remote-customer-intake.md",
       "legacyPaths": [
         "projects/PUB-0014-remote-ai-intake-from-phone-call-to-project-record/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell uses a local-first, AI-assisted workflow to turn information received during a customer phone call or text exchange into organized business records while he is still in the field. A plain-language instruction sent through a remote Codex connection can initiate customer resolution, project setup, contact organization, scheduling, and calendar coordination without requiring immediate access to a laptop.",
+      "tags": [
+        "field-documentation",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 1565,
+      "contentSha256": "ccb89fceb00f8428ff4fe2bb761ef3300bea32404f037dd7fb0cef9028a2e84e"
     },
     {
       "id": "PUB-0015",
@@ -143,7 +235,15 @@
       "path": "workflows/PUB-0015-voice-directed-asset-tracking.md",
       "legacyPaths": [
         "projects/PUB-0015-voice-assisted-ai-asset-tracking-for-field-operations/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell uses Codex to maintain a local asset tracker for vehicles, trailers, tools, and field equipment. The system records where an asset was last reported, whether it is associated with a job, its current operating state, repair or maintenance needs, vehicle mileage when supplied, and open follow-up work.",
+      "tags": [
+        "voice-input",
+        "field-documentation",
+        "workflow-design"
+      ],
+      "wordCount": 1271,
+      "contentSha256": "963578c3334e4a5ecef2c7154ee660c1cded9ce413ff219b3448e28dee66a684"
     },
     {
       "id": "PUB-0016",
@@ -152,7 +252,15 @@
       "path": "design-and-prototyping/PUB-0016-wildlife-control-tool.md",
       "legacyPaths": [
         "projects/PUB-0016-operator-led-3d-printed-tool-for-licensed-wildlife-control/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell developed and tested a custom 3D-printed tool for a narrow requirement in his licensed wildlife-control work. The project combined field experience, physical prototyping, and controlled professional use. It illustrates how an operator translated a recurring practical problem into a purpose-built physical design.",
+      "tags": [
+        "wildlife-control",
+        "field-documentation",
+        "prototyping"
+      ],
+      "wordCount": 1386,
+      "contentSha256": "a2ca013b7df9640c8f43852cafd06e2b60dc863e24448e579c3ed415ddfcf4d2"
     },
     {
       "id": "PUB-0017",
@@ -161,7 +269,15 @@
       "path": "workflows/PUB-0017-wildlife-and-building-investigations.md",
       "legacyPaths": [
         "projects/PUB-0017-combining-wildlife-and-building-condition-investigations/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell combines nuisance-wildlife investigation with construction-informed building assessment when animal activity is reported inside a structure. Identifying the animal is only one part of the assignment. A durable solution also requires understanding how the building is allowing access and whether moisture, deterioration, unfinished work, or other construction conditions are contributing to the problem.",
+      "tags": [
+        "wildlife-control",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 1453,
+      "contentSha256": "eee0f7757eb40eb7bfbf648c6edb02ca1f174cec0d7975c7e4ac06e95260bd08"
     },
     {
       "id": "PUB-0019",
@@ -170,7 +286,15 @@
       "path": "workflows/PUB-0019-ai-as-delegated-capacity.md",
       "legacyPaths": [
         "projects/PUB-0019-asymmetrical-workflows-ai-as-delegated-capacity/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell organizes selected digital work into parallel, remote, scheduled, and review-gated workflows. He defines objectives, authoritative inputs, expected outputs, and review boundaries so research and administration can progress alongside field work. The approach applies construction-style delegation to AI-assisted operations for a solo business.",
+      "tags": [
+        "research",
+        "scheduling",
+        "field-documentation"
+      ],
+      "wordCount": 2072,
+      "contentSha256": "3519ef2ac658563c29e0a59ab011e306b15b06a52fc267716c3af0966db9515c"
     },
     {
       "id": "PUB-0020",
@@ -179,7 +303,16 @@
       "path": "workflows/PUB-0020-pdf-tools-for-autocad.md",
       "legacyPaths": [
         "projects/PUB-0020-open-source-pdf-tools-in-an-autocad-workflow/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell uses Codex and open-source PDF libraries to assemble and revise drawing packages around an AutoCAD workflow. Codex performs requested page and file operations, selects supporting tools, and checks the result. AutoCAD remains the drawing-production environment while the surrounding document preparation becomes a reusable workflow.",
+      "tags": [
+        "autocad",
+        "construction-drawings",
+        "pdf-documents",
+        "source-verification"
+      ],
+      "wordCount": 1269,
+      "contentSha256": "081bab3db88c86859adbe8f9ac57ae3b86174b2c076e75de58a1cd8cf289bb89"
     },
     {
       "id": "PUB-0021",
@@ -188,7 +321,15 @@
       "path": "workflows/PUB-0021-post-visit-voice-documentation.md",
       "legacyPaths": [
         "projects/PUB-0021-voice-assisted-post-visit-construction-documentation/README.md"
-      ]
+      ],
+      "summary": "This workflow closes the gap between completing a construction site visit and organizing the information gathered there. Instead of waiting until the end of the day to reconstruct the visit from scattered notes, photographs, and memory, Daniel can begin documenting the project through a hands-free voice connection to Codex while traveling between appointments.",
+      "tags": [
+        "voice-input",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 1282,
+      "contentSha256": "cb9f7d7b326a6ae4ab6c6bdbe79e949cc1d1fcedd907e8a30a18da0638d6a0c3"
     },
     {
       "id": "PUB-0023",
@@ -197,7 +338,15 @@
       "path": "workflows/PUB-0023-jobtread-document-upload.md",
       "legacyPaths": [
         "projects/PUB-0023-using-codex-to-upload-project-documentation-into-jobtread/README.md"
-      ]
+      ],
+      "summary": "A practical construction-technology workflow in which Codex and computer use assist with uploading blueprint files and notes into a client's JobTread job. JobTread is a project management software platform for construction. The workflow can be initiated from a mobile device while Daniel is away from his computer, using Codex Remote to handle the controlled operation through browser control in the front end without waiting for a return to the office.",
+      "tags": [
+        "software-development",
+        "client-communication",
+        "workflow-design"
+      ],
+      "wordCount": 755,
+      "contentSha256": "829e604ebfc6c10157e975126997ff8b4cdfbcab4a230ba9e81694c1ef9c030f"
     },
     {
       "id": "PUB-0024",
@@ -206,7 +355,15 @@
       "path": "workflows/PUB-0024-remote-document-signing.md",
       "legacyPaths": [
         "projects/PUB-0024-using-codex-to-sign-documents-remotely/README.md"
-      ]
+      ],
+      "summary": "A supervised document workflow in which Codex helps Daniel prepare a signed copy while he is away from his desk. The source may not be a native electronic-signature form. It may instead be a raw picture or scan of a physical document that has already been signed.",
+      "tags": [
+        "source-verification",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 940,
+      "contentSha256": "14a09b727585a3677724a7c1c1f4e88b681e6f31f437a11565f18e36df71168d"
     },
     {
       "id": "PUB-0025",
@@ -215,7 +372,15 @@
       "path": "workflows/PUB-0025-real-time-audio-notes.md",
       "legacyPaths": [
         "projects/PUB-0025-real-time-audio-field-context/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell uses real-time audio conversations with Codex to capture project observations, decisions, and follow-up work while context is fresh. The interactive exchange allows clarification during capture and organizes information for established project records. The workflow connects field experience with subsequent administrative and documentation work.",
+      "tags": [
+        "field-documentation",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 825,
+      "contentSha256": "d816d4bd6f8007d83e084999dae78534ae30839a66191fa2a04ac5154015cf3a"
     },
     {
       "id": "PUB-0026",
@@ -224,7 +389,15 @@
       "path": "workflows/PUB-0026-remote-business-administration.md",
       "legacyPaths": [
         "projects/PUB-0026-reducing-office-dependence-ai-assisted-administration/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell combines remote AI-assisted workflows to keep routine construction and drafting administration moving away from the office. Voice-directed tasks connect project context with research, records, and document preparation. The article examines the cumulative operating effect of these systems on a solo practice rather than a single isolated automation.",
+      "tags": [
+        "drafting",
+        "voice-input",
+        "research"
+      ],
+      "wordCount": 906,
+      "contentSha256": "e181061a9d7301a07aa35d2b06edd58b96648c0b625413fbd3fc63d99629c3c7"
     },
     {
       "id": "PUB-0027",
@@ -233,7 +406,15 @@
       "path": "workflows/PUB-0027-phone-to-gaussian-splat.md",
       "legacyPaths": [
         "projects/PUB-0027-automated-gaussian-splat-phone-to-production/README.md"
-      ]
+      ],
+      "summary": "A repeatable, agent-orchestrated workflow that turns a suitable phone video into a validated Gaussian splat and a production browser viewer. Daniel records a high-resolution source video, transfers it to his computer through Dropbox, schedules the processing work, and gives Codex the source.",
+      "tags": [
+        "scheduling",
+        "source-verification",
+        "workflow-design"
+      ],
+      "wordCount": 1213,
+      "contentSha256": "c70b48dbcfb10f8bead3b3fe21e77c84695ea26956a54f89b347762fc511c7ce"
     },
     {
       "id": "PUB-0028",
@@ -242,7 +423,15 @@
       "path": "workflows/PUB-0028-site-context-at-project-kickoff.md",
       "legacyPaths": [
         "projects/PUB-0028-automating-connecticut-site-context-at-project-kickoff/README.md"
-      ]
+      ],
+      "summary": "A project-kickoff workflow for Connecticut construction and property research. When a new project has an address and enough working context to identify the site, Codex can coordinate the location-imagery steps and prepare visual references for the project record. The Connecticut source combines a clean map reference, publicly available CT ECO 2023 aerial imagery, and an optional topographic reference derived from 2023 LiDAR elevation data.",
+      "tags": [
+        "research",
+        "source-verification",
+        "lidar"
+      ],
+      "wordCount": 1047,
+      "contentSha256": "4b24d348d9aa54917bf48255bba9442043155f00b64951b0b709582baaad7fd5"
     },
     {
       "id": "PUB-0029",
@@ -251,7 +440,15 @@
       "path": "workflows/PUB-0029-building-code-source-verification.md",
       "legacyPaths": [
         "projects/PUB-0029-using-ai-to-find-building-codes-and-verify-the-source/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell uses AI to locate relevant building-code and regulatory passages and trace answers to primary sources. The workflow organizes the jurisdiction, question, likely provisions, and supporting references for review. It supports source verification and technical research before project decisions are made.",
+      "tags": [
+        "research",
+        "source-verification",
+        "workflow-design"
+      ],
+      "wordCount": 1047,
+      "contentSha256": "0cd07326df8b8064e2d8b1fafca3898ad2c8a83c3caad86e9548ad483de609c4"
     },
     {
       "id": "PUB-0030",
@@ -260,7 +457,15 @@
       "path": "workflows/PUB-0030-contract-revision-context.md",
       "legacyPaths": [
         "projects/PUB-0030-using-a-fresh-context-for-contract-revisions/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell starts a fresh AI context when repeated contract revisions have accumulated competing instructions or versions. The workflow restores a clear working basis for the next revision while preserving his intended wording and decisions. It addresses document consistency in contracts prepared through remote voice-directed administration.",
+      "tags": [
+        "voice-input",
+        "contract-administration",
+        "workflow-design"
+      ],
+      "wordCount": 1195,
+      "contentSha256": "af4447d4f2e83100a7ae03957caae51d30e644ed17f0f0e0f5b3e4c49751d117"
     },
     {
       "id": "PUB-0031",
@@ -269,7 +474,15 @@
       "path": "workflows/PUB-0031-construction-administration-between-appointments.md",
       "legacyPaths": [
         "projects/PUB-0031-using-travel-time-to-keep-construction-administration-current/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell uses hands-free voice input between projects to capture current conversations, decisions, and follow-up work. Codex organizes the supplied context into project updates and administrative preparation on his connected computer. Daniel identifies the relevant job, corrects misunderstandings, and reviews what becomes part of the durable record.",
+      "tags": [
+        "voice-input",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 1207,
+      "contentSha256": "c4127215c045b4074d66d230deff6a2fc0f946fb37e13e8a8a0910c814d0181e"
     },
     {
       "id": "PUB-0032",
@@ -278,7 +491,15 @@
       "path": "workflows/PUB-0032-regulatory-research-before-design.md",
       "legacyPaths": [
         "projects/PUB-0032-using-ai-to-connect-regulatory-research-to-the-first-residential-design-/README.md"
-      ]
+      ],
+      "summary": "This workflow uses AI before, during, and after the initial client meeting for a new house or residential addition. The first step is regulatory research. Before discussing design options in detail, Codex can help identify the relevant jurisdiction, zoning authority, authority having jurisdiction, applicable code sources, known site constraints, and questions that need confirmation.",
+      "tags": [
+        "research",
+        "client-communication",
+        "source-verification"
+      ],
+      "wordCount": 1535,
+      "contentSha256": "0c268e03fe26817280f241448287925930e7ed0d4bafdce6a42772dff43777ab"
     },
     {
       "id": "PUB-0033",
@@ -287,7 +508,15 @@
       "path": "workflows/PUB-0033-material-sourcing-research.md",
       "legacyPaths": [
         "projects/PUB-0033-using-ai-for-a-material-sourcing-research-loop/README.md"
-      ]
+      ],
+      "summary": "This workflow uses Codex as a research and comparison layer for construction-material sourcing. It is intended for projects where the client is cost-conscious, the requested product is specialty-oriented, or the usual retail supply channel may not provide the best option. The search may include manufacturers, regional suppliers, specialty distributors, marketplaces, clearance sources, overstock listings, reclaimed-material channels, and custom-product businesses.",
+      "tags": [
+        "research",
+        "client-communication",
+        "source-verification"
+      ],
+      "wordCount": 1300,
+      "contentSha256": "69295387d7c331ef86c0a95eb97be798ec2d61439e57815c761c58be41383f80"
     },
     {
       "id": "PUB-0034",
@@ -296,7 +525,15 @@
       "path": "workflows/PUB-0034-client-specific-brochures.md",
       "legacyPaths": [
         "projects/PUB-0034-using-codex-to-build-client-specific-marketing-brochures/README.md"
-      ]
+      ],
+      "summary": "This workflow uses Codex to turn recent work records into a focused brochure for a particular client or audience. The source set can include daily notes, job records, active-project folders, prior deliverables, written project summaries, and attached images. The target client's needs determine what matters.",
+      "tags": [
+        "client-communication",
+        "source-verification",
+        "workflow-design"
+      ],
+      "wordCount": 1304,
+      "contentSha256": "210186be98317df81a4edcd472f91d631b12b1a4ca9071bd26bddfe03fafa9cf"
     },
     {
       "id": "PUB-0035",
@@ -305,7 +542,15 @@
       "path": "workflows/PUB-0035-learning-construction-assemblies.md",
       "legacyPaths": [
         "projects/PUB-0035-using-codex-to-learn-unfamiliar-construction-assembly-methods/README.md"
-      ]
+      ],
+      "summary": "A construction research workflow for learning an unfamiliar assembly or construction method before relying on it in a project. The workflow is intentionally broader than a simple web search. It connects method terminology, code research, technical references, visual documentation, and informed follow-up conversations.",
+      "tags": [
+        "research",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 842,
+      "contentSha256": "0212371c196f4cc067fcabb81cf1adaec5537d24c3f9247380a2ee897cd99d1c"
     },
     {
       "id": "PUB-0036",
@@ -314,7 +559,15 @@
       "path": "workflows/PUB-0036-alternative-construction-research.md",
       "legacyPaths": [
         "projects/PUB-0036-using-codex-to-explore-alternative-construction-approaches-under-local-c/README.md"
-      ]
+      ],
+      "summary": "A construction and regulatory research workflow for situations where the obvious solution is difficult because of a local rule, site condition, or other constraint. Codex helps turn that constraint into a structured comparison of alternative construction approaches and the code or ordinance sources that apply to each one.",
+      "tags": [
+        "research",
+        "source-verification",
+        "workflow-design"
+      ],
+      "wordCount": 877,
+      "contentSha256": "1767ff4e99785d5e5668b0530b30b96b878d0a82a77f49893ff03f25b8c6c2b8"
     },
     {
       "id": "PUB-0037",
@@ -323,7 +576,15 @@
       "path": "workflows/PUB-0037-remote-design-notes.md",
       "legacyPaths": [
         "projects/PUB-0037-using-codex-remote-to-capture-design-thinking-away-from-the-office/README.md"
-      ]
+      ],
+      "summary": "A mobile design-documentation workflow for the time between formal work sessions. Design intent, program ideas, concepts to test, and open questions can be captured through Codex Remote while Daniel is away from the office. Codex can organize those notes and perform light, focused research alongside them so the material is ready to use later.",
+      "tags": [
+        "research",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 846,
+      "contentSha256": "347aad866505ae9edec490016a004ccb12e925835a2e8b44efcf8cf9891f346d"
     },
     {
       "id": "PUB-0038",
@@ -332,7 +593,15 @@
       "path": "workflows/PUB-0038-ai-delegation-and-review.md",
       "legacyPaths": [
         "projects/PUB-0038-finding-the-trust-threshold-for-ai-delegation/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell adjusts how much work he delegates to AI according to the consequences of a decision and the review it requires. The article describes his evolving use of automation for routine tasks and the point at which scrutiny can outweigh the benefit. It connects practical delegation with judgment about stakes and effort.",
+      "tags": [
+        "workflow-design",
+        "ai-assistance",
+        "project-documentation"
+      ],
+      "wordCount": 866,
+      "contentSha256": "450dc00150dd50d9ae34f3da7f625d3a64daf547830e64cd66707fa303fc489d"
     },
     {
       "id": "PUB-0039",
@@ -341,7 +610,15 @@
       "path": "workflows/PUB-0039-weekend-administration-recap.md",
       "legacyPaths": [
         "projects/PUB-0039-using-codex-remote-to-clear-the-weekend-admin-backlog/README.md"
-      ]
+      ],
+      "summary": "A voice-assisted construction-administration workflow that uses the Monday drive to a project as a focused reset and recap of weekend activity. Codex Remote can capture and organize the conversation so the next office session starts with a usable record and a practical administrative backlog instead of scattered recollections.",
+      "tags": [
+        "voice-input",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 728,
+      "contentSha256": "f27683c891c30dd046c4589cc715443360d0fb1f163eeb851efed95c83966ddf"
     },
     {
       "id": "PUB-0040",
@@ -350,7 +627,15 @@
       "path": "workflows/PUB-0040-blueprint-callouts.md",
       "legacyPaths": [
         "projects/PUB-0040-refining-blueprint-callouts-with-codex/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell uses Codex to develop concise blueprint callouts and leader notes from design intent and drawing context. He compares alternative wording against the assembly or detail and selects the text that communicates the requirement. The workflow emphasizes technical meaning, controlled variation, and consistency across drawing annotations.",
+      "tags": [
+        "construction-drawings",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 868,
+      "contentSha256": "ac6b4bdde548ab3657041b5c913b347d2b9fc4f154b027d3072b033eb3ee2362"
     },
     {
       "id": "PUB-0041",
@@ -359,7 +644,15 @@
       "path": "workflows/PUB-0041-parallel-ai-work.md",
       "legacyPaths": [
         "projects/PUB-0041-juggling-parallel-ai-work-from-the-road/README.md"
-      ]
+      ],
+      "summary": "A specific use of the asymmetrical AI workflow: running several bounded tasks at the same time while Daniel is traveling between projects or handling work away from the office. The work may be distributed across different projects or across separate threads within one project.",
+      "tags": [
+        "workflow-design",
+        "ai-assistance",
+        "project-documentation"
+      ],
+      "wordCount": 1135,
+      "contentSha256": "41e89f05e070ca3296d413dc6f93ac770ca9e44d1df50de9695e775f15c926e4"
     },
     {
       "id": "PUB-0042",
@@ -368,7 +661,15 @@
       "path": "workflows/PUB-0042-field-note-capture.md",
       "legacyPaths": [
         "projects/PUB-0042-near-instant-field-notes-with-codex-remote/README.md"
-      ]
+      ],
+      "summary": "A near instant note capture workflow for informal site meetings and field conversations. Daniel still prefers handwritten notes while work is being discussed with engineers, contractors, manufacturers, or other project participants. When the conversation pauses or the topic changes, he can step aside and send Codex Remote a short voice note covering the updates, changes, scope items, or decisions that were just discussed.",
+      "tags": [
+        "voice-input",
+        "field-documentation",
+        "project-coordination"
+      ],
+      "wordCount": 1021,
+      "contentSha256": "6f453d80666ff505fbd0ba2ec28abb195b4065e07e671eae1fc927c996077cd3"
     },
     {
       "id": "PUB-0043",
@@ -377,7 +678,15 @@
       "path": "workflows/PUB-0043-email-to-job-document-routing.md",
       "legacyPaths": [
         "projects/PUB-0043-routing-project-pdfs-from-email-into-the-right-job-with-codex-remote/README.md"
-      ]
+      ],
+      "summary": "A supervised document intake workflow for construction project information received by email. After Daniel reviews a PDF on his phone, he can use Codex Remote to direct the document into the correct job record instead of leaving it in the inbox until he returns to the office.",
+      "tags": [
+        "pdf-documents",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 1021,
+      "contentSha256": "3beaee81368da2398bae2382fddc1594a91902846858e815547fb9b999d87d6a"
     },
     {
       "id": "PUB-0044",
@@ -386,7 +695,15 @@
       "path": "workflows/PUB-0044-daily-ai-use.md",
       "legacyPaths": [
         "projects/PUB-0044-how-my-daily-ai-use-varies/README.md"
-      ]
+      ],
+      "summary": "How Daniel's direct use of AI changes from one workday to another. Some days involve only a few minutes of direct interaction. Other days may include approximately four or five hours spread across research, drafting, document handling, project records, and several separate Codex tasks.",
+      "tags": [
+        "drafting",
+        "research",
+        "workflow-design"
+      ],
+      "wordCount": 772,
+      "contentSha256": "1739457e0167186c5d5aa5ccff5c579a273d77bfd2811dcec9682a45a267ec8a"
     },
     {
       "id": "PUB-0045",
@@ -395,7 +712,15 @@
       "path": "workflows/PUB-0045-autocad-drawing-set-review.md",
       "legacyPaths": [
         "projects/PUB-0045-remote-autocad-drawing-set-maintenance-and-quality-control/README.md"
-      ]
+      ],
+      "summary": "This workflow uses Codex and remote computer control to perform routine drawing set maintenance in AutoCAD. The work focuses on documentation that is repetitive, distributed across multiple layouts, and easy to overlook when a set has been revised over time. The review is organized around the drawing set rather than one isolated edit.",
+      "tags": [
+        "autocad",
+        "construction-drawings",
+        "workflow-design"
+      ],
+      "wordCount": 987,
+      "contentSha256": "3edb7e296216b57b2656e1e8b5162fa675c04593a2e4c5a73cafb7e14b75fa15"
     },
     {
       "id": "PUB-0046",
@@ -404,7 +729,15 @@
       "path": "workflows/PUB-0046-drawing-revision-records.md",
       "legacyPaths": [
         "projects/PUB-0046-keeping-track-of-blueprint-revisions-with-ai/README.md"
-      ]
+      ],
+      "summary": "I use AI to create a revision document after changes have been made to blueprints and architectural drawing sets. It accompanies the updated drawings and records what changed, who was involved in the decision, and how that decision came about. I think of it as a receipt for the changes.",
+      "tags": [
+        "construction-drawings",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 633,
+      "contentSha256": "dd657ddb120983f0b4e8e6f53d1be54f0de5ed74e486016f5957a4a64754be7e"
     },
     {
       "id": "PUB-0047",
@@ -413,7 +746,15 @@
       "path": "workflows/PUB-0047-field-photos-and-job-context.md",
       "legacyPaths": [
         "projects/PUB-0047-adding-field-photos-and-context-to-job-records-with-codex-remote/README.md"
-      ]
+      ],
+      "summary": "When I'm working in the field, I can send a photo into Codex Remote with an explanation of what I'm looking at. I identify the job and describe what I want recorded. Codex files the image with that job and adds the context to the job record.",
+      "tags": [
+        "field-documentation",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 535,
+      "contentSha256": "a7e7f1b672b78b4948c10f31df88cd392619a76c0524add437e1f00ea2a5c5de"
     },
     {
       "id": "PUB-0048",
@@ -422,7 +763,15 @@
       "path": "workflows/PUB-0048-spoken-translation.md",
       "legacyPaths": [
         "projects/PUB-0048-using-chatgpt-to-speak-translated-instructions-on-the-job/README.md"
-      ]
+      ],
+      "summary": "I use ChatGPT to translate English instructions and questions for contractors, subcontractors, and other people on the job who speak another language. I can then play the translated response aloud for the person I'm talking to.",
+      "tags": [
+        "subcontractor-management",
+        "workflow-design",
+        "project-coordination"
+      ],
+      "wordCount": 412,
+      "contentSha256": "7a688bbbd1374a2fc3caf9f011ad6ad903f9ecf9df4686bfce6b0ba73581e9eb"
     },
     {
       "id": "PUB-0049",
@@ -431,7 +780,15 @@
       "path": "workflows/PUB-0049-local-schedule-and-calendar.md",
       "legacyPaths": [
         "projects/PUB-0049-updating-my-schedule-remotely-with-a-local-calendar-record/README.md"
-      ]
+      ],
+      "summary": "I use Codex Remote from my mobile device to update my schedule while I'm away from my computer. The schedule is stored locally, presented in readable Markdown, and mirrored into Google Calendar. Keeping the local record gives Codex access to the schedule even when the Google Calendar connection is unavailable.",
+      "tags": [
+        "scheduling",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 538,
+      "contentSha256": "d9b967b43e0144008f20940019442e8f727d05d7482ab62901eb7d827c8a3b19"
     },
     {
       "id": "PUB-0050",
@@ -440,7 +797,15 @@
       "path": "workflows/PUB-0050-voice-documentation-and-memory.md",
       "legacyPaths": [
         "projects/PUB-0050-remembering-more-and-carrying-less-through-voice-documentation/README.md"
-      ]
+      ],
+      "summary": "I dictate notes about business events, decisions, and schedule changes, and use AI to organize the written record. Along with producing a written record, I've noticed two effects on how I carry that information through the day: I remember more of the details, and I feel less pressure to keep them all in my head.",
+      "tags": [
+        "voice-input",
+        "scheduling",
+        "workflow-design"
+      ],
+      "wordCount": 561,
+      "contentSha256": "6ff453b794397f9715269466f7c3b6d2bd668afd06400717d4ee3865f77d424b"
     },
     {
       "id": "PUB-0051",
@@ -449,7 +814,15 @@
       "path": "workflows/PUB-0051-hands-free-remote-work.md",
       "legacyPaths": [
         "projects/PUB-0051-directing-work-through-codex-remote-during-driving-time/README.md"
-      ]
+      ],
+      "summary": "I previously used driving time mainly for phone calls to move work forward. With hands free voice input and Codex Remote, I can now direct a wider range of administrative and project work from my mobile device. The AI works on my computer using the instructions and context I provide by voice.",
+      "tags": [
+        "voice-input",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 529,
+      "contentSha256": "1442a4f96b4d937a79382e81341e7c8db74d5263e7d284923a2494044bffcf02"
     },
     {
       "id": "PUB-0052",
@@ -458,7 +831,15 @@
       "path": "workflows/PUB-0052-project-manual-research.md",
       "legacyPaths": [
         "projects/PUB-0052-asking-questions-about-project-manuals/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell describes organizing equipment manuals, specifications, installation instructions, and bulletins into a project reference notebook. Questions can be narrowed to selected documents, with citations leading back to supporting passages. The proposed workflow helps locate technical information while keeping equipment identity, document version, and source context visible.",
+      "tags": [
+        "source-verification",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 506,
+      "contentSha256": "9157dc4fae84ab955b7c31949f6d423338e0b6b24832b700ff6b200ac987d08b"
     },
     {
       "id": "PUB-0053",
@@ -467,7 +848,15 @@
       "path": "workflows/PUB-0053-elevation-concept-images.md",
       "legacyPaths": [
         "projects/PUB-0053-using-autocad-elevations-for-customer-concept-images/README.md"
-      ]
+      ],
+      "summary": "I use an exterior elevation from my AutoCAD design as the starting point for a generated concept image. A screenshot is enough to supply the visual reference for this workflow. I paste that capture into Codex and use OpenAI's image generation to develop a believable view of the exterior.",
+      "tags": [
+        "autocad",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 510,
+      "contentSha256": "106f48430b75ab0912eec6097bf77d41505bc31b3935dd7878d8b6eead67ece6"
     },
     {
       "id": "PUB-0054",
@@ -476,7 +865,15 @@
       "path": "workflows/PUB-0054-model-selection.md",
       "legacyPaths": [
         "projects/PUB-0054-choosing-the-model-for-each-part-of-the-work/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell considers model routing as a way to manage AI usage during intensive projects. Tasks may need different models for deciding an approach and carrying out an established process. The article connects model selection with the practical limits of available credits and the requirements of the work.",
+      "tags": [
+        "workflow-design",
+        "ai-assistance",
+        "project-documentation"
+      ],
+      "wordCount": 585,
+      "contentSha256": "c3489ba2de92fc9b83cd054adeffde566843da21b942908992a8529cabcd5e52"
     },
     {
       "id": "PUB-0055",
@@ -485,7 +882,15 @@
       "path": "workflows/PUB-0055-chatgpt-brainstorming-and-saved-context.md",
       "legacyPaths": [
         "projects/PUB-0055-moving-everyday-ai-work-into-chatgpt-with-saved-context/README.md"
-      ]
+      ],
+      "summary": "I'm moving more everyday note taking and related AI work into the standard ChatGPT app. The reason is practical: I want to keep using AI throughout the day without consuming my Codex allowance so quickly. That means accepting a less direct process for saving the work and bringing the relevant context into another session.",
+      "tags": [
+        "workflow-design",
+        "ai-assistance",
+        "project-documentation"
+      ],
+      "wordCount": 594,
+      "contentSha256": "2995a4e45be72141a4c6e798386dc1eac4fca5e6af44c117f0f1191d4d96b132"
     },
     {
       "id": "PUB-0056",
@@ -494,7 +899,15 @@
       "path": "workflows/PUB-0056-batch-browser-research.md",
       "legacyPaths": [
         "projects/PUB-0056-turning-open-chrome-tabs-into-a-batch-research-task/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell copies groups of open browser-tab links from his phone and passes them into an AI-assisted research workflow. Batch intake replaces repeated individual link transfers and gives the research task a shared source set. The approach connects mobile browsing with later knowledge capture and organization.",
+      "tags": [
+        "research",
+        "source-verification",
+        "workflow-design"
+      ],
+      "wordCount": 612,
+      "contentSha256": "a1f56b7c459ff6114845df6d8dccef5d5e7e700f9bf3f25202c1959099c7bd6e"
     },
     {
       "id": "PUB-0057",
@@ -503,7 +916,15 @@
       "path": "workflows/PUB-0057-documentation-during-busy-periods.md",
       "legacyPaths": [
         "projects/PUB-0057-using-ai-during-crunch-times/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell uses AI to assist with documentation when several construction projects require attention at once. The work includes organizing incoming contracts and estimates, preparing quotes, and updating drawing wording. The workflow brings project administration into periods when field commitments and document demands overlap.",
+      "tags": [
+        "construction-drawings",
+        "contract-administration",
+        "field-documentation"
+      ],
+      "wordCount": 577,
+      "contentSha256": "c74462d62f89e4c560e7175b3052c117dbe21765fac16276b4c5b678a9c5611d"
     },
     {
       "id": "PUB-0059",
@@ -512,7 +933,15 @@
       "path": "workflows/PUB-0059-engineering-document-comparison.md",
       "legacyPaths": [
         "projects/PUB-0059-comparing-foundation-and-metal-building-engineering-documents-with-codex/README.md"
-      ]
+      ],
+      "summary": "I used Codex to compare two related sets of engineering documents: the concrete foundation documents and the metal building manufacturer's documents. The comparison identified discrepancies between the sets. The benefit was the speed of the cross check. I could use Codex to work through the documents and bring the differences together for review.",
+      "tags": [
+        "foundation-coordination",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 383,
+      "contentSha256": "b46c67fcf999ef6363a6e62e0b4a5e43eee545b2fc4c447e7f4c78eade94b0e4"
     },
     {
       "id": "PUB-0060",
@@ -521,7 +950,15 @@
       "path": "workflows/PUB-0060-parallel-project-administration.md",
       "legacyPaths": [
         "projects/PUB-0060-exceptionally-productive-days-with-remote-ai-workflows/README.md"
-      ]
+      ],
+      "summary": "I've been using Codex remotely to move several projects forward during the same stretch of the day. The work spans incoming information, estimates, documents, scripts, and drawing updates. Some days that means comfortably handling four or five projects alongside each other. Those days have changed my sense of how much I can get done away from the laptop.",
+      "tags": [
+        "construction-drawings",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 532,
+      "contentSha256": "19394ce015db54315d00bb49a8483959394271227df8d22916613b6b9a488962"
     },
     {
       "id": "PUB-0061",
@@ -530,7 +967,15 @@
       "path": "workflows/PUB-0061-voice-directed-business-documents.md",
       "legacyPaths": [
         "projects/PUB-0061-creating-and-sending-invoices-through-voice-instructions/README.md"
-      ]
+      ],
+      "summary": "I've set up a workflow where I can dictate a request to Codex and have it create and email an invoice or estimate. The document uses my established template and formatting settings. The request can cover both preparing the document and sending it to the client.",
+      "tags": [
+        "voice-input",
+        "client-communication",
+        "workflow-design"
+      ],
+      "wordCount": 432,
+      "contentSha256": "2f6c5cdde6f173c8de37b424877ab12de27e31ddcd0901ec7f7419da62daa6c5"
     },
     {
       "id": "PUB-0062",
@@ -539,7 +984,15 @@
       "path": "workflows/PUB-0062-resale-research-and-routing.md",
       "legacyPaths": [
         "projects/PUB-0062-helping-a-resale-business-organize-tag-sale-visits-with-ai/README.md"
-      ]
+      ],
+      "summary": "I helped a small business that sources items from tag sales for resale use ChatGPT and Codex to organize its search and plan visits. The work connected finding publicly advertised sales with deciding the order in which to visit them. The aim was to make more of the available time by organizing the stops into a practical route.",
+      "tags": [
+        "source-verification",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 451,
+      "contentSha256": "f548c6ea11391a76615f19ee5106c4f7239c0ae3dc613129fa33b6605afe174e"
     },
     {
       "id": "PUB-0063",
@@ -548,7 +1001,15 @@
       "path": "workflows/PUB-0063-project-intake.md",
       "legacyPaths": [
         "projects/PUB-0063-how-i-use-ai-when-starting-a-new-project/README.md"
-      ]
+      ],
+      "summary": "My intake process starts with the first conversation about a project. I capture the details in my daily note, use automation to establish the job record, and begin preliminary research before the first site visit. After the visit, I add a dictated recap so the information from the conversation and the property can become part of the same record.",
+      "tags": [
+        "research",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 788,
+      "contentSha256": "237ce6a3d895ee7589738c1faf77b5f0a58f611e43ded1938b4a6ca4e3c8dead"
     },
     {
       "id": "PUB-0064",
@@ -557,7 +1018,15 @@
       "path": "workflows/PUB-0064-ai-for-field-work.md",
       "legacyPaths": [
         "projects/PUB-0064-designing-ai-workflows-for-construction-work-in-the-field/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell develops AI workflows around the conditions of construction field work, where screen access and time at a desk are limited. The article explains why practical field use should shape workflow design. Voice interaction and access to project context connect the work site with administrative tools.",
+      "tags": [
+        "voice-input",
+        "field-documentation",
+        "workflow-design"
+      ],
+      "wordCount": 619,
+      "contentSha256": "c61d0ddd8b6cea83cf5e03a0d90339a4d86262082a4e7e246fa3c30b28bf0879"
     },
     {
       "id": "PUB-0065",
@@ -566,7 +1035,15 @@
       "path": "workflows/PUB-0065-testing-ai-capabilities.md",
       "legacyPaths": [
         "projects/PUB-0065-experimenting-with-new-ai-capabilities-in-the-field/README.md"
-      ]
+      ],
+      "summary": "New AI models and features give me opportunities to experiment with how I work in the field. I'm interested in where a new capability might fit into an actual task, including uses I haven't tried before. Construction work provides the context for those questions. The task in front of me is a starting point for thinking about what to try.",
+      "tags": [
+        "field-documentation",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 436,
+      "contentSha256": "8947de0bfb5731deffe919f4b0702e61f1d89e4195ea819f707e6cc57124d74c"
     },
     {
       "id": "PUB-0066",
@@ -575,7 +1052,15 @@
       "path": "workflows/PUB-0066-live-site-documentation.md",
       "legacyPaths": [
         "projects/PUB-0066-turning-spoken-site-observations-into-working-documents/README.md"
-      ]
+      ],
+      "summary": "I'm experimenting with real-time AI to begin documenting a construction site visit as I make observations. I speak as I look at the work, describing measurements, conditions, and items that need attention. The documentation starts with the information being captured on site. Those spoken notes become the basis for punch lists, estimates, and other documents.",
+      "tags": [
+        "field-measurement",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 466,
+      "contentSha256": "e16e029249cdf4ca174199ac5450b2f47064ba07c4c9fe95b70e83623aee69d8"
     },
     {
       "id": "PUB-0067",
@@ -584,7 +1069,15 @@
       "path": "workflows/PUB-0067-voice-at-the-desk-and-in-the-field.md",
       "legacyPaths": [
         "projects/PUB-0067-using-voice-dictation-in-the-field-and-at-my-desktop/README.md"
-      ]
+      ],
+      "summary": "Voice dictation has changed my workflow both on site and at my desktop computer. In the field, I use it to capture information and direct work. At the desk, I use it to give instructions, develop documents, and move several tasks forward at the same time.",
+      "tags": [
+        "voice-input",
+        "field-documentation",
+        "workflow-design"
+      ],
+      "wordCount": 531,
+      "contentSha256": "81d234f8db47b2e58f62053da4e9aec693d9f7ea27ae1708dd6ee8c112f7ffda"
     },
     {
       "id": "PUB-0069",
@@ -593,7 +1086,15 @@
       "path": "research/PUB-0069-wearable-field-interfaces.md",
       "legacyPaths": [
         "projects/PUB-0069-watching-wearables-and-ai-in-construction/README.md"
-      ]
+      ],
+      "summary": "My interest in wearables is coming from the work I've already been doing with real time AI assistants in the field. I've been experimenting with speaking measurements and observations aloud and having AI keep track of that information. That gives me specific things to look for as wearable hardware and AI applications develop.",
+      "tags": [
+        "field-documentation",
+        "field-measurement",
+        "research"
+      ],
+      "wordCount": 619,
+      "contentSha256": "08489a23381df4c92e37a1012a5b3d7cb20b3469392379bea251ce0e69e0c022"
     },
     {
       "id": "PUB-0071",
@@ -602,7 +1103,15 @@
       "path": "workflows/PUB-0071-markdown-tasks-and-punch-lists.md",
       "legacyPaths": [
         "projects/PUB-0071-a-lightweight-task-manager-and-punch-lists-in-markdown/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell maintains a lightweight task manager using Markdown records and Codex skills. Tasks can be captured during ordinary notes and updates, then organized into actionable work or detailed punch lists. The system connects task tracking with the same project context used for daily documentation.",
+      "tags": [
+        "workflow-design",
+        "ai-assistance",
+        "project-documentation"
+      ],
+      "wordCount": 560,
+      "contentSha256": "6011909477a1468004f7e9c81ca48675076ef6dc7786b46885b270c47c6876ff"
     },
     {
       "id": "PUB-0072",
@@ -611,7 +1120,15 @@
       "path": "workflows/PUB-0072-multi-job-voice-updates.md",
       "legacyPaths": [
         "projects/PUB-0072-routing-one-voice-update-across-jobs-and-projects/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell uses a single voice update to capture information concerning multiple jobs and projects. Codex follows his skills to separate the subjects and route each update to the appropriate record. This lets a natural spoken recap supply several project histories without manually entering each one.",
+      "tags": [
+        "voice-input",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 383,
+      "contentSha256": "6dbaed5b0eaffc0e783fb049150871545db60342cf330ea3a64c75f16166d1b3"
     },
     {
       "id": "PUB-0073",
@@ -620,7 +1137,15 @@
       "path": "research/PUB-0073-construction-wearables.md",
       "legacyPaths": [
         "projects/PUB-0073-ai-wearables-and-everyday-construction-workflows/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell examines the growing practicality of AI wearables for construction field work. His interest connects improvements in hardware and software with everyday access to assistance on site. The article is a perspective on emerging field interfaces, grounded in his experience using AI during construction work.",
+      "tags": [
+        "field-documentation",
+        "software-development",
+        "research"
+      ],
+      "wordCount": 509,
+      "contentSha256": "c5c87e54a41c28427fb4778987153167e468bc42a21ea11ff2825bfe671b7a8a"
     },
     {
       "id": "PUB-0074",
@@ -629,7 +1154,17 @@
       "path": "workflows/PUB-0074-incremental-railing-development.md",
       "legacyPaths": [
         "projects/PUB-0074-building-railing-software-one-needed-feature-at-a-time/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell develops his railing application incrementally as active projects reveal new requirements. Each addition grows out of a real drawing condition or production need. The approach connects software functionality with repeated use in field measurement and shop-drawing work, rather than designing every possible feature at the outset.",
+      "tags": [
+        "railing-drawings",
+        "construction-drawings",
+        "field-documentation",
+        "software-development",
+        "field-measurement"
+      ],
+      "wordCount": 535,
+      "contentSha256": "1f68349dd960bec737171a688f119cae161f93fe0e09b211b898d9d09a7369fa"
     },
     {
       "id": "PUB-0075",
@@ -638,7 +1173,15 @@
       "path": "workflows/PUB-0075-voice-first-ai-interaction.md",
       "legacyPaths": [
         "projects/PUB-0075-using-voice-for-almost-all-of-my-ai-instructions/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell uses voice-to-text for almost all of his AI instructions, including at his desktop. Dictation has become a routine interface for describing work and directing the assistant. The article records how spoken interaction has extended from mobile use into his everyday computer workflow.",
+      "tags": [
+        "voice-input",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 338,
+      "contentSha256": "6e6287088a0f200e3f8ef2a3f5726d8b87b14bae2860177985531908a9fd03b9"
     },
     {
       "id": "PUB-0076",
@@ -647,7 +1190,15 @@
       "path": "workflows/PUB-0076-building-review-responses.md",
       "legacyPaths": [
         "projects/PUB-0076-using-codex-to-prepare-a-building-review-response/README.md"
-      ]
+      ],
+      "summary": "A request for information followed the submission of drawings for a residential addition. The questions concerned assembly methods, product selections, and supporting technical information. Episode 6 of Reasoning on Site describes how Daniel uses Codex to help research those details and prepare response documentation. The starting point is the building official's request.",
+      "tags": [
+        "construction-drawings",
+        "research",
+        "workflow-design"
+      ],
+      "wordCount": 976,
+      "contentSha256": "c05c5fabd325b888d20c550fe6f66e523a20899505a88ccce051c6ae00ad8b31"
     },
     {
       "id": "PUB-0077",
@@ -656,7 +1207,15 @@
       "path": "workflows/PUB-0077-podcast-production.md",
       "legacyPaths": [
         "projects/PUB-0077-how-i-automate-reasoning-on-site/README.md"
-      ]
+      ],
+      "summary": "I built the Reasoning on Site production workflow across the first eight episodes. The first pass is manual. Once I figure out what needs to be done, then I automate the rest. I usually record one continuous file, including alternate takes and notes to myself.",
+      "tags": [
+        "workflow-design",
+        "ai-assistance",
+        "project-documentation"
+      ],
+      "wordCount": 1882,
+      "contentSha256": "147d508167d277e1d7eca62de6dc2074493464faf08ea0b434b20811310778ef"
     },
     {
       "id": "PUB-0078",
@@ -665,7 +1224,15 @@
       "path": "workflows/PUB-0078-remote-autocad-notes.md",
       "legacyPaths": [
         "projects/PUB-0078-reviewing-and-updating-autocad-drawing-notes-remotely/README.md"
-      ]
+      ],
+      "summary": "I use AI to review the text on my AutoCAD drawings and make edits remotely through Codex. This includes checking existing notes, researching materials and product selections, and bringing the relevant manufacturer information into the drawing documents. The written information is a substantial part of the drawing set.",
+      "tags": [
+        "autocad",
+        "construction-drawings",
+        "research"
+      ],
+      "wordCount": 761,
+      "contentSha256": "8e095d8aa406872e1f727677f2b5c82ee25d57f6305098041e99883dc0f29307"
     },
     {
       "id": "PUB-0079",
@@ -674,7 +1241,15 @@
       "path": "workflows/PUB-0079-obsidian-github-and-dropbox.md",
       "legacyPaths": [
         "projects/PUB-0079-using-obsidian-github-and-dropbox-for-notes-and-project-files/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell combines Obsidian for notes and project information, GitHub for version control, and Dropbox for synchronization and backup. Each tool has a distinct role in maintaining accessible working records. The arrangement connects daily knowledge management with file history and availability across devices.",
+      "tags": [
+        "version-control",
+        "knowledge-management",
+        "workflow-design"
+      ],
+      "wordCount": 672,
+      "contentSha256": "4ca9eb21ce54961fe00ac03116a5cf84c53aba1c4c4e8253c9e61869ae370c60"
     },
     {
       "id": "PUB-0080",
@@ -683,7 +1258,20 @@
       "path": "applications/railing-generator/overview.md",
       "legacyPaths": [
         "applications/railing-generator.md"
-      ]
+      ],
+      "summary": "Daniel Powell developed Railing Generator from his field-measurement and shop-drafting work for a manufacturer. The application converts measured stair and landing geometry into editable railing elevations with post and spindle relationships. He combines fabrication knowledge, voice-directed field input, drawing logic, and AutoCAD refinement in a tool he uses for production work.",
+      "tags": [
+        "railing-drawings",
+        "autocad",
+        "drafting",
+        "voice-input",
+        "construction-drawings",
+        "field-documentation",
+        "field-measurement"
+      ],
+      "wordCount": 1748,
+      "contentSha256": "18e6b084766d09f298d45dc4faf85d34ab30887fad674de1bda8826b6aa4817f",
+      "role": "Field measurer, shop drafter, and application developer"
     },
     {
       "id": "PUB-0081",
@@ -692,7 +1280,16 @@
       "path": "workflows/PUB-0081-wildlife-reporting.md",
       "legacyPaths": [
         "projects/PUB-0081-from-field-voice-notes-to-annual-wildlife-reports/README.md"
-      ]
+      ],
+      "summary": "I use AI to organize my nuisance wildlife control job records and prepare my annual activity reports for the Connecticut Department of Energy and Environmental Protection (DEEP). The process begins with the information I capture during the year. Voice notes, photographs, and job updates become the source records used to prepare the reporting forms.",
+      "tags": [
+        "voice-input",
+        "wildlife-control",
+        "field-documentation",
+        "source-verification"
+      ],
+      "wordCount": 704,
+      "contentSha256": "58a6d2e1361be61ef62de5bdd6d51f97d9632b102c46a884f0ed298c648aaf48"
     },
     {
       "id": "PUB-0083",
@@ -701,7 +1298,16 @@
       "path": "background/PUB-0083-drafting-from-handwork-to-ai.md",
       "legacyPaths": [
         "projects/PUB-0083-hand-drafting-autocad-and-ai/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell connects his early training in hand drafting and AutoCAD with his current drawing practice. Hand sketches remain useful for quick communication, while AutoCAD supports developed drawings and AI assists with documentation consistency. The account traces how familiar drafting methods continue to serve practical work alongside newer tools.",
+      "tags": [
+        "autocad",
+        "drafting",
+        "construction-drawings",
+        "training"
+      ],
+      "wordCount": 565,
+      "contentSha256": "bb6bb787c05c450ee49e0ba875e1d46e28cdfbdca94447809d834ab97bd5f3e0"
     },
     {
       "id": "PUB-0084",
@@ -710,7 +1316,15 @@
       "path": "workflows/PUB-0084-adversarial-testing-of-internal-tools.md",
       "legacyPaths": [
         "projects/PUB-0084-ai-adversarial-testing-internal-tools/README.md"
-      ]
+      ],
+      "summary": "While developing internal software to help me record and organize notes, I designed an adversarial testing method using AI. I wanted it to interact with the application, exercise the workflows, and intentionally look for ways to break the software. The testing instructions also covered what to do when an issue was found: fix it and push the correction to production.",
+      "tags": [
+        "software-development",
+        "software-testing",
+        "workflow-design"
+      ],
+      "wordCount": 586,
+      "contentSha256": "26fb39634deb08ee1dce9575fe34192951f7aee62a934f5d19b16c9ceb000b19"
     },
     {
       "id": "PUB-0085",
@@ -719,7 +1333,15 @@
       "path": "workflows/PUB-0085-lidar-site-research.md",
       "legacyPaths": [
         "projects/PUB-0085-lidar-terrain-maps-before-site-visits/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell compares public LiDAR terrain mapping with aerial imagery before construction site visits. He uses changes in slope, possible access routes, and traces of earlier land use to prepare questions for field inspection. The mapping provides preliminary context that he then checks against conditions on the ground.",
+      "tags": [
+        "field-documentation",
+        "inspection-coordination",
+        "lidar"
+      ],
+      "wordCount": 617,
+      "contentSha256": "1cd8759978c4ec9f335856c288bd642c95b561d53d44fe56a9c889972eb12836"
     },
     {
       "id": "PUB-0086",
@@ -728,7 +1350,15 @@
       "path": "workflows/PUB-0086-knowledge-vault-research.md",
       "legacyPaths": [
         "projects/PUB-0086-nightly-research-knowledge-vault-gaps/README.md"
-      ]
+      ],
+      "summary": "I use a research agent that runs nightly to review my daily notes and existing knowledge vault for missing context. It looks for references that would benefit from additional research, checks what is already documented, and adds relevant information with connections to the existing notes.",
+      "tags": [
+        "research",
+        "workflow-design",
+        "ai-assistance"
+      ],
+      "wordCount": 612,
+      "contentSha256": "8329195baf5c11f4e86a667e85fc34a25d2f88ef27aa2bffb1155db07948cb3d"
     },
     {
       "id": "PUB-0087",
@@ -737,7 +1367,15 @@
       "path": "design-and-prototyping/PUB-0087-cad-linework-browser-game.md",
       "legacyPaths": [
         "projects/PUB-0087-autocad-linework-browser-game/README.md"
-      ]
+      ],
+      "summary": "I did a simple project with AutoCAD, Codex, and Three.js to test using exported CAD linework as the geometry for a browser game with two-dimensional physics. I drew the layout in AutoCAD, exported it, and used Codex to help build the interactive environment. It was a straightforward experiment in taking work from a drafting tool and using it in a different setting.",
+      "tags": [
+        "autocad",
+        "drafting",
+        "game-development"
+      ],
+      "wordCount": 522,
+      "contentSha256": "f94f46046b6d723ef2c75b44be0a0c6a6300bb2fe561f7614cd3c2e7cc2ed45b"
     },
     {
       "id": "PUB-0088",
@@ -746,7 +1384,17 @@
       "path": "construction/PUB-0088-occupied-retirement-community.md",
       "legacyPaths": [
         "projects/PUB-0088-occupied-retirement-community/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell coordinated an office-to-apartment conversion inside an occupied retirement community. His responsibilities included subcontractor buyout, scheduling, client meetings, field sketches, signage, site walks, and containment-barrier review. He also managed fire watch and coordinated sprinkler and HVAC shutdowns while accounting for resident circulation and building operations.",
+      "tags": [
+        "subcontractor-management",
+        "field-documentation",
+        "client-communication"
+      ],
+      "wordCount": 382,
+      "contentSha256": "cfb218fe379fd7ed328ac9a814e8f6d7880c3059900756d748061b9ea3468ad1",
+      "role": "On-site project coordination and safety oversight",
+      "period": "Approximately 2019–2020"
     },
     {
       "id": "PUB-0089",
@@ -755,7 +1403,17 @@
       "path": "construction/PUB-0089-conference-room-renovation.md",
       "legacyPaths": [
         "projects/PUB-0089-office-conference-room-renovation/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell managed an office-to-conference-room renovation through completion, coordinating subcontractors, schedules, client communication, and sketches. His hands-on construction experience supported direct guidance to contractors on correct material installation. The assignment also involved door-hardware and fire-alarm planning, alongside smaller projects on the same campus.",
+      "tags": [
+        "subcontractor-management",
+        "scheduling",
+        "client-communication",
+        "renovation"
+      ],
+      "wordCount": 299,
+      "contentSha256": "33e14171c4efdb59ca435d70159fc20ba860377416a044779ed5e612837a2ac8",
+      "role": "Project management and installation guidance"
     },
     {
       "id": "PUB-0090",
@@ -764,7 +1422,16 @@
       "path": "construction/PUB-0090-office-renovation-handoff.md",
       "legacyPaths": [
         "projects/PUB-0090-office-renovation-handoff/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell prepared an office renovation involving demolition, flooring, framing, and furnishings, then handed it to a new project lead. He coordinated with design, established the schedule, bought out subcontractors, and helped onboard the incoming lead. Preparation included existing building-service conditions and the boundaries of each trade scope.",
+      "tags": [
+        "subcontractor-management",
+        "scheduling",
+        "renovation"
+      ],
+      "wordCount": 282,
+      "contentSha256": "50913ca0c2ef1498b044c0499208f9dc6318e84b13171d8ef429ad37c26df697",
+      "role": "Project preparation and lead handoff"
     },
     {
       "id": "PUB-0091",
@@ -773,7 +1440,16 @@
       "path": "construction/PUB-0091-commercial-interior-fitout.md",
       "legacyPaths": [
         "projects/PUB-0091-commercial-interior-fitout/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell organized subcontractor buyout, scheduling, and on-site management for a commercial interior fit-out. The work connected partitions, glazing, doors, ceilings, lighting, and sprinkler coordination. Acoustic separation, wall heights, retained glazing, and new openings shaped how the trade packages related to the existing space.",
+      "tags": [
+        "subcontractor-management",
+        "acoustics",
+        "glazing"
+      ],
+      "wordCount": 281,
+      "contentSha256": "67d99cdccba46827d0ddd24978f210c5f0af424f6907a49de63e9c7d451d75c1",
+      "role": "On-site project management"
     },
     {
       "id": "PUB-0092",
@@ -782,7 +1458,15 @@
       "path": "construction/PUB-0092-coordinating-an-industrial-building-drawing-package.md",
       "legacyPaths": [
         "construction/PUB-0092-coordinating-an-industrial-building-drawing-package/README.md"
-      ]
+      ],
+      "summary": "An industrial building addition required architectural coordination between an engineered foundation, a prefabricated metal structure, and an existing building. The general contractor brought me in to develop the architectural package and resolve the requirements connecting those separate scopes. The work covered internal layouts, shelving arrangements, electrical and HVAC locations, occupancy, fire safety, and access.",
+      "tags": [
+        "site-safety",
+        "construction-drawings",
+        "foundation-coordination"
+      ],
+      "wordCount": 292,
+      "contentSha256": "e6f8d970ae4b9c36c7c0bc8114d9b8217ecf4ba1284ff61c96eca170cf2915ca"
     },
     {
       "id": "PUB-0093",
@@ -791,7 +1475,15 @@
       "path": "construction/PUB-0093-designing-an-in-law-addition-around-an-existing-home.md",
       "legacyPaths": [
         "construction/PUB-0093-designing-an-in-law-addition-around-an-existing-home/README.md"
-      ]
+      ],
+      "summary": "An in-law addition to an existing Connecticut home brought together budget constraints, zoning requirements, and accessibility considerations. Engaged directly by the homeowner, I developed the concept around the intended occupants and the existing property. The design considered how an older couple would use the space, how the addition would connect to the house, and which elements could be accommodated within the available budget.",
+      "tags": [
+        "construction",
+        "project-coordination",
+        "field-work"
+      ],
+      "wordCount": 229,
+      "contentSha256": "4cbf01fe6ee452097da4ade2a19d9329aaad411e211b3c88cf884195c7720f46"
     },
     {
       "id": "PUB-0094",
@@ -800,7 +1492,15 @@
       "path": "construction/PUB-0094-testing-the-feasibility-of-a-childcare-addition.md",
       "legacyPaths": [
         "construction/PUB-0094-testing-the-feasibility-of-a-childcare-addition/README.md"
-      ]
+      ],
+      "summary": "A general contractor commissioned a feasibility study for an addition to an existing childcare facility. The starting information was the client's intended use, a requested building size, and the contractor's general direction. Checking the proposed footprint against zoning and childcare space requirements revealed that the requested size would not support the intended program.",
+      "tags": [
+        "client-communication",
+        "software-testing",
+        "project-coordination"
+      ],
+      "wordCount": 212,
+      "contentSha256": "0e29717fe913f83ae079bb6e71aae3da20b8af8c723d97f4c2dcd29c678ab6b7"
     },
     {
       "id": "PUB-0095",
@@ -809,7 +1509,15 @@
       "path": "construction/PUB-0095-developing-a-garage-project-through-design-and-pricing.md",
       "legacyPaths": [
         "construction/PUB-0095-developing-a-garage-project-through-design-and-pricing/README.md"
-      ]
+      ],
+      "summary": "A homeowner engaged me to develop blueprints and a construction and installation package for a garage. The proposal moved through three main design phases as pricing clarified the relationship between building size and construction method. The first approach was a large prefabricated metal building. A smaller conventionally constructed garage close to the existing house was then considered, but its price was roughly comparable to the larger metal building.",
+      "tags": [
+        "construction",
+        "project-coordination",
+        "field-work"
+      ],
+      "wordCount": 250,
+      "contentSha256": "68cf62f0038581668f2ff825494dcaf4b301c8c1c31fe456a2569014821d1336"
     },
     {
       "id": "PUB-0096",
@@ -818,7 +1526,15 @@
       "path": "construction/PUB-0096-drawing-and-building-a-basement-workout-room.md",
       "legacyPaths": [
         "construction/PUB-0096-drawing-and-building-a-basement-workout-room/README.md"
-      ]
+      ],
+      "summary": "A basement workout room required drawings and construction within an existing home. The homeowner selected its size and location, and the general contractor engaged me to develop the construction details and carry out the work. The drawings followed the assembly methods intended for installation. That connected the review package directly to the framing, insulation, and finishing sequence used on site.",
+      "tags": [
+        "construction-drawings",
+        "construction",
+        "project-coordination"
+      ],
+      "wordCount": 203,
+      "contentSha256": "c3a8cadf30cf6318ae214aaa1db13795ca311fc5077c17ba2c207a22ae784f08"
     },
     {
       "id": "PUB-0097",
@@ -827,7 +1543,15 @@
       "path": "construction/PUB-0097-redesigning-a-garage-for-masonry-construction.md",
       "legacyPaths": [
         "construction/PUB-0097-redesigning-a-garage-for-masonry-construction/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell reworked a garage drawing package from conventional wood framing to masonry construction after a change in material availability. He researched authoritative masonry guidance and applied it to the revised documentation. The project connected construction-method learning, drawing development, and coordination of a changed building approach.",
+      "tags": [
+        "construction-drawings",
+        "research",
+        "masonry"
+      ],
+      "wordCount": 185,
+      "contentSha256": "e3079982791965ec60fabd4e932b8bf6ca29f57b779586850f97a7e9e64d4032"
     },
     {
       "id": "PUB-0098",
@@ -836,7 +1560,15 @@
       "path": "construction/PUB-0098-developing-an-open-plan-home-renovation.md",
       "legacyPaths": [
         "construction/PUB-0098-developing-an-open-plan-home-renovation/README.md"
-      ]
+      ],
+      "summary": "A homeowner referral led to a residential renovation design covering a new roof, siding, doors, a window, a kitchen, and an open floor plan supported by engineered beam assemblies. The scope also addressed incorrect framing in the original construction. The design and drawings developed through several rounds of homeowner review over a period of months.",
+      "tags": [
+        "construction-drawings",
+        "renovation",
+        "construction"
+      ],
+      "wordCount": 205,
+      "contentSha256": "057fa4435049c6902e67025592caab308543f942909970a0f6829f5a32a1a612"
     },
     {
       "id": "PUB-0099",
@@ -845,7 +1577,15 @@
       "path": "construction/PUB-0099-preparing-a-site-planning-exhibit-with-ai-and-qgis.md",
       "legacyPaths": [
         "construction/PUB-0099-preparing-a-site-planning-exhibit-with-ai-and-qgis/README.md"
-      ]
+      ],
+      "summary": "A homeowner needed a basic site plan for a proposed new house. For this particular submission, the town requested an approximate indication of structure locations and explicitly confirmed that preparation did not require a licensed surveyor. The assignment began with that request alone. I located the original subdivision survey on the town's website and used the historical drawing as the reference for a new planning exhibit.",
+      "tags": [
+        "construction-drawings",
+        "construction",
+        "project-coordination"
+      ],
+      "wordCount": 213,
+      "contentSha256": "b6c690e6fca95dc5772eb74a91949f6ea2dfca979b15b2cbe133efc43dd49155"
     },
     {
       "id": "PUB-0100",
@@ -854,7 +1594,15 @@
       "path": "construction/PUB-0100-using-ai-renderings-to-explore-exterior-materials.md",
       "legacyPaths": [
         "construction/PUB-0100-using-ai-renderings-to-explore-exterior-materials/README.md"
-      ]
+      ],
+      "summary": "A general contractor needed exterior renderings for a building designed by another architect. The architectural package supplied the building's form and arrangement. The rendering assignment explored siding, roofing, and color selections using that design as the reference. Material treatments were developed through an AI image-generation workflow.",
+      "tags": [
+        "architectural-visualization",
+        "exterior-materials",
+        "ai-image-generation"
+      ],
+      "wordCount": 199,
+      "contentSha256": "a0837fe02e260c71229ed3082e0d5dd2cb30b8ed0e9f3054689038093473b2f9"
     },
     {
       "id": "PUB-0101",
@@ -863,7 +1611,15 @@
       "path": "construction/PUB-0101-reconstructing-curved-drywall-after-a-rejected-installation.md",
       "legacyPaths": [
         "construction/PUB-0101-reconstructing-curved-drywall-after-a-rejected-installation/README.md"
-      ]
+      ],
+      "summary": "A drywall company that periodically calls on me for specialty carpentry brought me in to repair curved walls after an installation was rejected. The assignment involved diagnosing the surface problems and reconstructing three curved sections. Removing the drywall exposed inadequate backing along the radius. Too few studs supported the sheets as they bent, producing visible angles where a continuous curve was intended.",
+      "tags": [
+        "drywall",
+        "construction",
+        "project-coordination"
+      ],
+      "wordCount": 238,
+      "contentSha256": "ce4e916e3e6fb54ba4d2dbf220f6c8c2d615da822bfe590adf81b14f73c6d0c8"
     },
     {
       "id": "PUB-0102",
@@ -872,7 +1628,15 @@
       "path": "construction/PUB-0102-repairing-a-pergola-and-finding-the-cedar-to-match.md",
       "legacyPaths": [
         "construction/PUB-0102-repairing-a-pergola-and-finding-the-cedar-to-match/README.md"
-      ]
+      ],
+      "summary": "Rot in an exterior cedar pergola required selective replacement while retaining the surrounding assembly. An architect engaged me to carry out the repairs at his home. The extent of the work developed as demolition exposed the wood. Additional deterioration expanded the scope, requiring decisions about which members could remain and which needed replacement.",
+      "tags": [
+        "construction",
+        "project-coordination",
+        "field-work"
+      ],
+      "wordCount": 209,
+      "contentSha256": "8b020a1b91f5c58eea95137fad42e075f9eb3cb3fafd24a1f994148d384bdd98"
     },
     {
       "id": "PUB-0103",
@@ -881,7 +1645,15 @@
       "path": "construction/PUB-0103-installing-bathroom-assemblies-in-a-new-industrial-building.md",
       "legacyPaths": [
         "construction/PUB-0103-installing-bathroom-assemblies-in-a-new-industrial-building/README.md"
-      ]
+      ],
+      "summary": "Two bathrooms in a new industrial building required heavy-gauge metal framing, truss installation, fire-rated plywood, and drywall. The general contractor engaged me to carry out that installation scope from an engineer-designed framing package. The work used familiar assembly methods, with equipment and sequencing adapted to the heavier materials and available access.",
+      "tags": [
+        "drywall",
+        "construction",
+        "project-coordination"
+      ],
+      "wordCount": 180,
+      "contentSha256": "9c3ec53d7fa566edda2723614328c62ffab34a29a39e11d8689230dc31f83ac1"
     },
     {
       "id": "PUB-0104",
@@ -890,7 +1662,16 @@
       "path": "construction/PUB-0104-extending-railing-generator-for-intermediate-and-sloped-landings.md",
       "legacyPaths": [
         "construction/PUB-0104-extending-railing-generator-for-intermediate-and-sloped-landings/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell extended Railing Generator to support intermediate and sloped landings encountered on a shop-drawing assignment. Field measurements established the irregular stair conditions, and development added the geometry needed to represent them. The project turned a specific production requirement into reusable application capability.",
+      "tags": [
+        "railing-drawings",
+        "construction-drawings",
+        "field-documentation",
+        "field-measurement"
+      ],
+      "wordCount": 226,
+      "contentSha256": "0ac1eeffb0b341ef4f2db1c9bdd4633d0383c44cfe69fa5e9000ab0a51ca0204"
     },
     {
       "id": "PUB-0105",
@@ -899,7 +1680,15 @@
       "path": "construction/PUB-0105-coordinating-a-field-assembly-change-with-the-architect-of-record.md",
       "legacyPaths": [
         "construction/PUB-0105-coordinating-a-field-assembly-change-with-the-architect-of-record/README.md"
-      ]
+      ],
+      "summary": "Construction of a new telecommunications room required heavy-gauge framing, insulation, fire-rated plywood and drywall, priming, painting, doors, and hardware. A contractor serving the provider engaged me for that scope. The architectural drawings had been prepared without a site visit. Reviewing the location identified an assembly approach better suited to the existing conditions.",
+      "tags": [
+        "drywall",
+        "construction-drawings",
+        "field-documentation"
+      ],
+      "wordCount": 181,
+      "contentSha256": "9cb6d4e2b28e668ae9c7803c7670bdd1879b5db20f0364066f08f45537c5cf37"
     },
     {
       "id": "PUB-0106",
@@ -908,7 +1697,15 @@
       "path": "construction/PUB-0106-developing-a-residential-drawing-package-for-a-general-contractor.md",
       "legacyPaths": [
         "construction/PUB-0106-developing-a-residential-drawing-package-for-a-general-contractor/README.md"
-      ]
+      ],
+      "summary": "A general contractor commissioned drawings for a single-family ranch with an attached garage. The work coordinated the floor layout, exterior elevations, and construction information through successive requested revisions. Changes included adjusting the garage dimensions to lower its roofline, developing the front entry with columns, and documenting the rear entrance, landing, steps, and railings.",
+      "tags": [
+        "railing-drawings",
+        "construction-drawings",
+        "project-coordination"
+      ],
+      "wordCount": 166,
+      "contentSha256": "9460975b5a8bb7fd359d77673c716c2ec8e2204f16c64e00ede948ac31161031"
     },
     {
       "id": "PUB-0107",
@@ -917,7 +1714,15 @@
       "path": "construction/PUB-0107-restoring-a-space-after-a-5g-hub-decommissioning.md",
       "legacyPaths": [
         "construction/PUB-0107-restoring-a-space-after-a-5g-hub-decommissioning/README.md"
-      ]
+      ],
+      "summary": "Restoration associated with decommissioning a 5G hub required returning walls and flooring to their original condition. A contractor serving the telecommunications provider engaged me for the building-repair scope. The work included miscellaneous framing and drywall repairs. Extended travel, late working hours, and rapid turnaround requirements shaped how the work was organized.",
+      "tags": [
+        "drywall",
+        "construction",
+        "project-coordination"
+      ],
+      "wordCount": 137,
+      "contentSha256": "b4ef1bc8969e51ce4ad73fc2128e1c2bd88d857003129b70596d953cd99f04e8"
     },
     {
       "id": "PUB-0108",
@@ -926,7 +1731,16 @@
       "path": "applications/client-intake/overview.md",
       "legacyPaths": [
         "projects/PUB-0108-architectural-client-intake-application/README.md"
-      ]
+      ],
+      "summary": "I built an architectural client intake application to collect the information that shapes a design program: what the client wants to build, which spaces they need, how they intend to use them, and the conditions the project needs to work within. The application brings a detailed questionnaire, saved client records, written summaries, and concept visualization into the same workflow.",
+      "tags": [
+        "client-communication",
+        "application-development",
+        "software-design"
+      ],
+      "wordCount": 1229,
+      "contentSha256": "121e1b36940260575c894230b5141913e277f928ab78e1f1c283034d0202143c",
+      "role": "Application developer"
     },
     {
       "id": "PUB-0109",
@@ -935,7 +1749,16 @@
       "path": "applications/blackout/overview.md",
       "legacyPaths": [
         "applications/blackout/README.md"
-      ]
+      ],
+      "summary": "I developed Blackout as a browser game built around asymmetric cooperation. Two people played on separate devices with different views of the same level. The player moving through the maze had limited visibility, while the guide had a map view and gave verbal directions. The project grew from that interaction into a larger development effort involving movement, hazards, enemies, level creation, visual effects, and multiplayer session handling.",
+      "tags": [
+        "game-development",
+        "application-development",
+        "software-design"
+      ],
+      "wordCount": 1975,
+      "contentSha256": "c92df170ff590670dfda36fcaac604c469b1a7d26898eae801e6bd2fbb137f7f",
+      "role": "Game developer"
     },
     {
       "id": "PUB-0110",
@@ -944,7 +1767,15 @@
       "path": "construction/PUB-0110-developing-a-faster-drywall-repair-process.md",
       "legacyPaths": [
         "construction/PUB-0110-developing-a-faster-drywall-repair-process/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell developed a physical prototype and researched material behavior to explore a faster drywall-repair process. His aim was to shorten the repair cycle and reduce repeat visits on small jobs. The development combined hands-on repair experience with AI-assisted research and experimental approaches to the full finishing sequence.",
+      "tags": [
+        "drywall",
+        "research",
+        "prototyping"
+      ],
+      "wordCount": 403,
+      "contentSha256": "4f65dfed07c44c7f01b0aca82877eafd096db8ccfe59eadfde71b32ddc4c9a53"
     },
     {
       "id": "PUB-0111",
@@ -953,7 +1784,16 @@
       "path": "workflows/PUB-0111-remote-drawing-export-and-printing.md",
       "legacyPaths": [
         "construction/PUB-0111-remote-autocad-pdf-exports-and-document-printing/README.md"
-      ]
+      ],
+      "summary": "Remote document work extends from preparation through to a file or printed package. Two reusable workflows provide that connection on my office computer: background AutoCAD PDF exports and local document printing. An urgent meeting provided a practical use for remote printing. Hands-free voice instructions through Codex Remote kept document preparation moving during the return journey.",
+      "tags": [
+        "autocad",
+        "voice-input",
+        "construction-drawings",
+        "pdf-documents"
+      ],
+      "wordCount": 781,
+      "contentSha256": "c7624e2e4f331ccb30cd519a780fb99ebba860a83253a5354433f46975c43b73"
     },
     {
       "id": "PUB-0112",
@@ -962,7 +1802,16 @@
       "path": "applications/exfiltrate/overview.md",
       "legacyPaths": [
         "applications/exfiltrate/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell is developing Exfiltrate, a game about remote drone operation, salvage, and interacting station systems. He directs the mechanics and interface and uses AI-assisted implementation, testing, and architecture work. Development includes movement, physical cargo handling, equipment, and environmental systems that shape exploration and extraction decisions.",
+      "tags": [
+        "game-development",
+        "software-testing",
+        "drones"
+      ],
+      "wordCount": 1630,
+      "contentSha256": "9bab4a0ac1a7c5573b951cb38fcfee92475a9f64f33e03a886f94487a8be9d38",
+      "role": "Game designer and developer"
     },
     {
       "id": "PUB-0113",
@@ -971,7 +1820,16 @@
       "path": "research/PUB-0113-developing-a-counter-uas-research-catalog.md",
       "legacyPaths": [
         "research/PUB-0113-developing-a-counter-uas-research-catalog/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell develops a counter-UAS research catalog and browsing application linking technology, suppliers, incidents, and legal material to sources. Typed records organize findings with stable identifiers and structured attributes. AI supports research and comparison while source evaluation and clear distinctions between claims and established outcomes guide publication.",
+      "tags": [
+        "research",
+        "source-verification",
+        "counter-uas"
+      ],
+      "wordCount": 1109,
+      "contentSha256": "1d276649b2f5a373bfe85b0a9968dd38c642e6ccb5c64fafd2ce887877026605",
+      "role": "Researcher and catalog developer"
     },
     {
       "id": "PUB-0115",
@@ -980,7 +1838,16 @@
       "path": "research/PUB-0115-ai-assisted-research-dashboard-for-a-private-investigator.md",
       "legacyPaths": [
         "research/PUB-0115-ai-assisted-research-dashboard-for-a-private-investigator/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell provided public-source research and technical support to a private investigator. He gathered and organized relevant material and developed a custom dashboard to make the research usable. The assignment combined information collection, structured presentation, and a practical demonstration of AI-assisted investigative workflows.",
+      "tags": [
+        "research",
+        "source-verification",
+        "source-evaluation"
+      ],
+      "wordCount": 574,
+      "contentSha256": "4f7926ebfa003b80d51c55d457da21498170342c5939a076568bb007819dbc3e",
+      "role": "Research and technical support"
     },
     {
       "id": "PUB-0116",
@@ -989,7 +1856,16 @@
       "path": "research/PUB-0116-haddam-research-group.md",
       "legacyPaths": [
         "research/PUB-0116-haddam-research-group/README.md"
-      ]
+      ],
+      "summary": "Daniel Powell founded Haddam Research Group and developed its website, service direction, and AI research workflows. The offering connects workflow design, training, research support, and private infrastructure. Source-linked analysis and structured records guide how information moves from collection through review and presentation.",
+      "tags": [
+        "research",
+        "training",
+        "source-verification"
+      ],
+      "wordCount": 879,
+      "contentSha256": "135a0e70f1d93ca8d26435cbc4fa53fb32f1607e9ffa36aa31116932a65c7273",
+      "role": "Founder and workflow developer"
     },
     {
       "id": "PUB-0117",
@@ -998,7 +1874,15 @@
       "path": "workflows/PUB-0117-job-conditions-and-notes.md",
       "legacyPaths": [
         "projects/PUB-0117-keeping-job-conditions-and-notes-in-obsidian/README.md"
-      ]
+      ],
+      "summary": "I use Obsidian as an ongoing record of my construction jobs. Each job has its own Markdown file, with related photos, drawings, and supporting documents stored alongside it. The notes develop as the work progresses. An initial scope might come from an email or a phone call.",
+      "tags": [
+        "construction-drawings",
+        "knowledge-management",
+        "workflow-design"
+      ],
+      "wordCount": 952,
+      "contentSha256": "f86fd6258fe313fc253a36285aaf36d7dceba7ef9a17a2721049f75998807e38"
     },
     {
       "id": "background:career",
@@ -1007,7 +1891,17 @@
       "path": "background/career.md",
       "legacyPaths": [
         "CAREER.md"
-      ]
+      ],
+      "summary": "Daniel Powell’s career inventory connects construction, drafting, project management, software development, automation, research, and creative work. It details personally performed trade work, coordination responsibilities, applications, field documentation, business operations, and training. Linked project accounts provide deeper context for the techniques, industries, deliverables, and capabilities described across his professional history.",
+      "tags": [
+        "drafting",
+        "research",
+        "field-documentation",
+        "software-development",
+        "training"
+      ],
+      "wordCount": 5494,
+      "contentSha256": "a79179e6e23c65f474a323baa3b3d51e1b1a3d7b55bfc41d49440a09cb86d013"
     },
     {
       "id": "background:education-and-credentials",
@@ -1016,35 +1910,97 @@
       "path": "background/education-and-credentials.md",
       "legacyPaths": [
         "EDUCATION-AND-CREDENTIALS.md"
-      ]
+      ],
+      "summary": "Daniel Powell’s education and training span architectural drafting, AutoCAD, construction safety, notarial services, licensed wildlife control, and drone security. The article connects these qualifications with field operations, documentation, public-facing services, and technical research. It includes historical context and links to relevant credential and project information.",
+      "tags": [
+        "autocad",
+        "drafting",
+        "wildlife-control",
+        "site-safety",
+        "research",
+        "field-documentation",
+        "training",
+        "notarial-services"
+      ],
+      "wordCount": 879,
+      "contentSha256": "5af4e1b0e14098bc1b752a4af4c65726fe7fb51bcf8f6b72ab65f87f7793330e"
     },
     {
       "id": "background:moving-a-skunk-away-from-a-crowded-shoreline-park",
       "title": "Moving a Skunk Away From a Crowded Shoreline Park",
       "section": "background",
       "path": "background/moving-a-skunk-away-from-a-crowded-shoreline-park.md",
-      "legacyPaths": []
+      "legacyPaths": [],
+      "summary": "Daniel Powell used his wildlife-control experience to guide a skunk away from visitors at a crowded shoreline park. He identified himself, asked people to create space, and directed the animal toward woodland without physical handling. He subsequently reported the encounter to police and included it in his annual wildlife activity report.",
+      "tags": [
+        "wildlife-control",
+        "career-background",
+        "professional-experience"
+      ],
+      "wordCount": 271,
+      "contentSha256": "e08a2545e6164707b9ab105047d8cef590a28aeb3c5be34918760dee1326d339"
     },
     {
       "id": "background:music",
       "title": "Musical Background and Production",
       "section": "background",
       "path": "background/music.md",
-      "legacyPaths": []
+      "legacyPaths": [],
+      "summary": "Daniel Powell’s musical background includes several instruments, approximately 150 songs written during an intensive period, and pro bono digital production work. He used Cubase and Native Instruments tools to develop arrangements and continues regular performance practice. The account connects instrumental learning, composition, and the technical process of music production.",
+      "tags": [
+        "music-production",
+        "career-background",
+        "professional-experience"
+      ],
+      "wordCount": 395,
+      "contentSha256": "dffeaaa3194a6b5473cff15dab0fe9320907622a49ddf7dc9a35a51dcd1d68e1"
     },
     {
       "id": "background:responding-to-a-dangerous-wildlife-incident",
       "title": "Responding to a Rabid Coyote on a Connecticut Farm",
       "section": "background",
       "path": "background/responding-to-a-dangerous-wildlife-incident.md",
-      "legacyPaths": []
+      "legacyPaths": [],
+      "summary": "Daniel Powell responded to a dangerous coyote attacking people and animals on a Connecticut farm. He located and dispatched the animal, then reported the incident and transferred it to authorities for testing, which confirmed rabies. The account describes his field response and subsequent coordination with public agencies.",
+      "tags": [
+        "field-documentation",
+        "software-testing",
+        "career-background"
+      ],
+      "wordCount": 310,
+      "contentSha256": "0f8ed694d7ded73e8691a7574a679bc6ea5fae1292dcc6d6b56d7a3648db4ad5"
     },
     {
       "id": "workshop:compact-lally-column-wrap",
       "title": "Wrapping a Lally Column Without Building a Wall Around It",
       "section": "workshop",
       "path": "workshop/compact-lally-column-wrap.md",
-      "legacyPaths": []
+      "legacyPaths": [],
+      "summary": "Daniel Powell developed a compact finish around an exposed support column using folded drywall, low-pressure foam, and metal corner bead. The assembly combines enclosure, attachment, alignment, and finishing without a separate stud framework. The method addresses a recurring customer preference for a neatly concealed column with a small footprint.",
+      "tags": [
+        "drywall",
+        "construction-techniques",
+        "installation"
+      ],
+      "wordCount": 940,
+      "contentSha256": "790c1550c3f0c253defc7faf78e5d772ad45c04116a9e1226c72d5d7f72aa6f5"
+    },
+    {
+      "id": "background:about",
+      "title": "About Daniel Powell",
+      "path": "ABOUT.md",
+      "section": "background",
+      "legacyPaths": [],
+      "summary": "Daniel Powell runs a construction and drafting business and develops software to support his work as a solo operator. His practice connects field execution, design communication, estimating, coordination, and client decisions. The overview introduces how practical business needs shape his approach to automation and the work collected in this archive.",
+      "tags": [
+        "drafting",
+        "field-documentation",
+        "software-development",
+        "client-communication"
+      ],
+      "wordCount": 703,
+      "contentSha256": "ba19f91f0fe9e57ccdb95e0c12faa8120887cb8fa0a17ffbc38b26542533d764"
     }
-  ]
+  ],
+  "summaryVersion": 1
 }

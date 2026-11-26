@@ -10,5 +10,6 @@ Personal history, career, education, credentials, and field accounts.
 - [Moving a Skunk Away From a Crowded Shoreline Park](moving-a-skunk-away-from-a-crowded-shoreline-park.md)
 - [Musical Background and Production](music.md)
 - [Responding to a Rabid Coyote on a Connecticut Farm](responding-to-a-dangerous-wildlife-incident.md)
+- [About Daniel Powell](../ABOUT.md)
 
 [Complete index](../INDEX.md) · [About Daniel Powell](../ABOUT.md)

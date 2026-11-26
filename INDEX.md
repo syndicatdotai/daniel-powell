@@ -2,7 +2,7 @@
 
 Browse by subject. PUB identifiers remain stable across titles and locations.
 
-[About Daniel Powell](ABOUT.md) · [Archive structure](STRUCTURE.md)
+[About Daniel Powell](ABOUT.md) · [Archive summary](SUMMARY.md) · [Archive structure](STRUCTURE.md)
 
 ## Background
 
@@ -18,6 +18,7 @@ Personal history, career, education, credentials, and field accounts.
 | Background | [Moving a Skunk Away From a Crowded Shoreline Park](background/moving-a-skunk-away-from-a-crowded-shoreline-park.md) |
 | Background | [Musical Background and Production](background/music.md) |
 | Background | [Responding to a Rabid Coyote on a Connecticut Farm](background/responding-to-a-dangerous-wildlife-incident.md) |
+| Background | [About Daniel Powell](ABOUT.md) |
 
 ## Workflows
 
