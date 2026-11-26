@@ -363,6 +363,13 @@ Light hands-on experience includes:
 - Evaluate material drying and finishing sequences when developing a faster repair process.
 - Turn field problems into physical prototypes and repeatable work methods.
 
+### Property records and boundary research
+
+- Research property lines and boundaries through deeds, land records, and historical property documents.
+- Cross-reference deeds and related records at town hall to trace property descriptions and boundary references.
+- Review legal documents associated with properties and compare information across historical records.
+- Perform informal property-boundary investigation using documentary research.
+
 ### Drafting, planning, and technical communication
 
 - Capture existing dimensions and conditions for design development.
@@ -521,6 +528,11 @@ Light hands-on experience includes:
 - Design the business website.
 - Develop marketing materials for the service.
 - Maintain ongoing client communication and relationships.
+
+### Chainsaw operation and light tree work
+
+- Operate chainsaws for light tree felling and cutting firewood.
+- Cut felled wood into manageable lengths for handling and firewood preparation.
 
 ### Wildlife, remediation, community service, and event operations
 
