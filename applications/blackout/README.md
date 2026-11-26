@@ -1,5 +1,21 @@
 # Building Blackout: A Cooperative Game with Two Different Views
 
+## Play Blackout
+
+[Open the live browser game](https://blackout-ten.vercel.app/)
+
+The deployed game offers solo play and asymmetric multiplayer. In multiplayer, one person navigates while the other guides from a separate screen.
+
+### Screenshots from the live game
+
+![Blackout mode and sector selection, with solo play and Sector Echo selected.](media/blackout-menu.jpg)
+
+*Mode and sector selection in the live browser game.*
+
+![Blackout solo sensor view after a ping, showing the grid, battery status, command log, and movement controls.](media/blackout-gameplay.jpg)
+
+*Sector Echo in solo mode after a sensor ping.*
+
 ## Project Summary
 
 I developed a game called Blackout, with AI helping me work on the code and visual design.
@@ -173,4 +189,4 @@ The implementation used separate modules for gameplay systems, entity definition
 
 This article is a retrospective on the development work, based on the retained source, GitHub repository, commit history, and project notes. The records reviewed do not establish a commercial release.
 
-The local workspace contains additional level and editor changes beyond the checked-in version. Live multiplayer, performance, and reconnect behavior were not retested for this article.
+The public Vercel deployment was checked on November 26, 2026. The mode and sector selection screen loaded, Sector Echo opened in solo mode, and a sensor ping updated the action count, battery status, and command log. The screenshots above were captured from that deployment. Two-device multiplayer, performance under load, and reconnect behavior were not retested in this check.
