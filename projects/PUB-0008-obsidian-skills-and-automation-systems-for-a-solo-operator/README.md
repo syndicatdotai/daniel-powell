@@ -1,5 +1,9 @@
 # Obsidian Skills and Automation Systems for a Solo Operator
 
+*Last modified November 26, 2026.*
+
+The LinkedIn summary records the system as described in August 2026. The expanded article below has been updated for November 26, 2026.
+
 ## LinkedIn Summary
 
 I recently took inventory of the operating system I have been building around Obsidian and Codex. It now includes 25 purpose-built skills and 23 documented automation systems.
@@ -18,131 +22,75 @@ AI has expanded what I can manage as one person, reduced the administrative back
 
 ## Overview
 
-Daniel Powell has developed a vault-based operating system that combines Obsidian, Codex, purpose-built workflow skills, and documented automation systems. As of August 2026, the live inventory contains 25 vault-local skills and 23 documented automation systems.
+Daniel Powell develops and operates a business system built around Obsidian, Codex, reusable workflow skills, and supporting scripts. The system connects field observations and correspondence with job records, tasks, schedules, drawings, business documents, and publishing.
 
-The purpose is not to automate every decision. The system captures repeatable procedures, establishes authoritative records, reduces duplicate administrative work, and makes the same operating context available when Daniel is working from a computer or connecting remotely from a phone.
-
-| Record field | Public information |
-|---|---|
-| Public record ID | PUB-0008 |
-| Approximate period | 2026 |
-| System type | Obsidian-based construction and business operating system |
-| Live skill inventory | 25 purpose-built skills |
-| Automation inventory | 23 documented systems |
-| Primary role | System design, workflow development, testing, operation, and review |
-| Current status | Active and under continued development |
-| Evidence basis | Live skill inventory, canonical automation index, system notes, and direct operator confirmation |
+The November 26, 2026 inventory contains 39 vault-local skills with a SKILL.md entry point and 26 system notes linked from the automation index. The system notes include implemented workflows, documented concepts, and historical systems. The local Codex automation configuration contains 28 scheduled definitions, with seven configured active and 21 paused. These figures describe the inspected workspace on that date.
 
 ## Role
 
-Daniel is the designer and primary operator of the system. The work involves identifying repetitive administrative and construction-management processes, defining the authoritative source records, writing reusable skill instructions, building supporting scripts and automations, testing the results, and revising workflows when production use exposes an edge condition.
+Daniel defines the business procedures, develops the skills and supporting tools, and directs their use across active work. Development follows the requirements of actual jobs and recurring administration.
 
-Because the system supports Daniel's own active work, development and operation remain connected. A workflow is judged by whether it produces accurate, reviewable output and whether it reduces administrative friction without weakening accountability.
+The skills capture how to find the relevant records, perform a task, check its output, and place the result where it belongs. Their scope has expanded into document printing, drawing tools, reporting, public publishing, and management of generated assets.
 
-## Scope Of Work
+## Records And Workflow Ownership
 
-The operating layer spans recurring construction and business administration. The skills define how Codex should resolve context, select the correct records, perform a task, validate the result, and route updates. The automation systems handle recurring or structured processes that benefit from consistent execution.
+Obsidian provides the readable working history. Jobs, people, companies, decisions, and related records are connected through Markdown links. Structured records support tasks, schedules, estimates, and invoices where stable identifiers, calculations, and consistent updates matter.
 
-Covered areas include daily capture, job intake, project history, tasks, schedules, email intake, contact and company records, estimates, invoices, contracts, document rendering, research, graphics, location imagery, problem tracking, publishing, backups, and system audits.
+A mixed voice update can contain observations from one job, a decision on another, and a follow-up commitment. Reusable instructions route that information to its established records. Explicit requests and clear obligations become tasks, with links back to the work they concern.
 
-## Skill Inventory
+Project decisions stay associated with their context. That history is available when preparing a revision, researching a question, responding to correspondence, or returning to work after time away.
 
-The live vault contains 25 purpose-built skills. A skill is more than a saved prompt. It is a local operating procedure that can define prerequisites, canonical records, write order, validation requirements, privacy limits, stop conditions, and handoffs to another workflow.
+## Skills And Scheduled Automations
 
-This structure allows an instruction given in natural language to enter an established process. Codex does not need to reconstruct the complete procedure on every request, and Daniel does not need to restate the same operational rules each time.
+The 39-skill count covers the vault-local operating layer. The broader workstation also has personal and application-specific skills, which sit outside that count.
 
-An earlier consolidation reduced overlapping skills and assigned clear ownership for shared behavior. The current inventory is one skill higher than that consolidation record because an additional deployment workflow was added afterward.
+The 26 indexed system notes document how particular workflows were developed and organized. Their statuses vary. Some describe repeatable production procedures, some retain completed experiments, and others record designs for future work.
 
-## Automation Inventory
-
-The canonical index documents 23 automation systems. This figure includes active systems as well as paused, completed, or archived workflows that remain documented for reference and possible reuse. It should not be interpreted as 23 unattended processes running at the same time.
-
-The systems range from daily-note creation and email intake to task management, scheduling, business-document generation, research loops, public publishing, prompt memory, and specialized production tools. Each canonical note records the workflow problem, intended solution, status, inputs, outputs, validation requirements, and future improvements where relevant.
-
-## Key Actions
-
-- Identified recurring administrative and construction workflows that could be standardized.
-- Converted established procedures into reusable local skills.
-- Consolidated overlapping instructions and assigned authoritative policy ownership.
-- Created canonical notes for documented automation systems.
-- Connected readable Markdown records with structured data and scripts where needed.
-- Added review gates for estimates, invoices, contracts, public content, and other consequential output.
-- Developed remote workflows that can be instructed and reviewed from a phone.
-- Added audits and validation so automation failures are surfaced rather than silently accepted.
-- Maintained human control over project decisions and final client-facing documents.
-
-## Remote Administration
-
-Remote Codex access changes when administrative work can happen. Tasks that once waited until Daniel returned to the main computer can be started while he is in the field or between appointments. A phone instruction can capture project information, retrieve existing context, update the appropriate record, organize follow-up, or prepare work for review.
-
-The value is continuity. Field observations can enter the operating record closer to when they occur, reducing the need to reconstruct context later. Administrative work can move forward without requiring every interaction to happen through a desktop interface.
-
-This does not mean the phone contains the complete business system or that every task is performed without supervision. The primary workspace retains the records and tools, while the remote connection provides a practical way to instruct Codex and review results.
+The seven active local schedule definitions cover daily-note creation, inbox intake, daily-note synchronization, financial intake, LinkedIn publishing, log rollover, and task scanning. Configured status records which schedules are enabled. Run results and output checks establish whether an individual execution succeeded.
 
 ## Business Documents
 
-The document workflows support estimates, invoices, and contracts through structured source records. Existing job and client information can be retrieved, required fields checked, document content prepared, totals validated where applicable, and client-facing files rendered for review.
+Estimates, invoices, and contracts use existing project information and structured source records. Templates and rendering tools carry the content into consistently formatted documents, with field and total checks where applicable.
 
-Daniel remains responsible for scope, terms, accuracy, and approval. AI reduces the repetitive assembly and formatting work while preserving a review point before a document is treated as final.
+The shared document resources also support RFIs, change orders, scopes, brochures, and reports. Reusing styles, fonts, validation patterns, and render helpers keeps document production connected across these different deliverables.
 
-## Important Features
+Daniel directs scope, pricing, terms, and final content. Voice instructions can start or revise the work while the source records and production tools remain on the office computer.
 
-- Twenty-five purpose-built local skills.
-- Twenty-three documented automation systems.
-- Obsidian Markdown as a readable source of truth.
-- Canonical records for jobs, projects, entities, tasks, schedules, and documents.
-- Natural-language instructions routed into established workflows.
-- Remote phone access through Codex.
-- Structured estimate, invoice, and contract preparation.
-- Validation, audit, privacy, and approval gates.
-- Explicit handling of paused, archived, and active automation states.
-- Continued human review for consequential work.
+## Drawing Production And Physical Printing
 
-## Constraints And Decisions
+The operating system now reaches into technical drawing and physical document delivery.
 
-The system is designed to expand individual capacity without disguising uncertainty or removing judgment. Automation is used where procedures are repeatable and outputs can be checked. Ambiguous identities, missing project information, conflicting records, and consequential decisions are routed to review rather than guessed.
+Railing Generator can be directed through voice instructions that become structured drawing inputs. Background AutoCAD exports prepare PDFs from saved drawings and selected layouts. The local printing skill sends prepared files to a physical printer and checks Windows queue status.
 
-Obsidian remains the human-readable operating record. Structured data and scripts are added only where they improve consistency, validation, rendering, or repeatability. This keeps the system inspectable while still allowing more advanced workflows.
+Daniel has used remote preparation and printing to have meeting papers ready to collect on returning to the office. That connects project records, document preparation, and the final paper package through the same remote interaction.
 
-Counts are maintained as point-in-time facts. Skills may be consolidated or added, and documented automation systems may move between active, paused, completed, and archived states.
+[Remote drawing exports and printing](../../construction/PUB-0111-remote-autocad-pdf-exports-and-document-printing/README.md)
 
-## Deliverables
+## Reporting And Publishing
 
-- A maintained inventory of 25 vault-local skills.
-- A canonical index of 23 automation systems.
-- Reusable procedures for construction and administrative work.
-- Remote workflows for phone-based instruction and review.
-- Structured estimate, invoice, and contract systems.
-- Task, schedule, email, research, publishing, and documentation workflows.
-- Validation and audit tools supporting consistent operation.
-- Readable records that preserve the reasoning and history behind work.
+The same approach supports work beyond individual client documents. Field notes can supply structured reporting, and approved commentary can move through a paired LinkedIn and public-archive workflow.
 
-## Outcome
+Publication uses persistent records for drafts, reserved identifiers, approvals, and verified destinations. LinkedIn posts enter a scheduled queue. Expanded GitHub records receive their own review and publication checks.
 
-The operating system has increased the amount of administrative and technical work Daniel can manage as a solo operator. Routine work can be initiated closer to the field, existing context can be reused instead of rebuilt, and business documents can move through a consistent preparation and review process without requiring Daniel to remain at the primary computer.
+These procedures preserve the connection between the reviewed wording, the published file, and its public location.
 
-The broader outcome is time and attention returned to higher-value work. AI supports construction, drafting, software development, project coordination, and client service by reducing the administrative backlog around them.
 
-The system does not replace Daniel's judgment. It gives that judgment a more consistent operational structure and makes established procedures available through natural-language interaction from more than one location or interface.
+## Remote Operation
 
-## Tools And Methods
+Codex Remote provides access to the office environment through a phone. Hands-free dictation supplies instructions and context while the computer carries out the associated file, research, document, or software work.
 
-- Obsidian
-- Codex
-- Markdown operating records
-- Vault-local skills
-- Structured data records
-- Local scripts and validation tools
-- Remote phone connection
-- Workflow audits
-- Human review gates
-- Document rendering pipelines
-- Scheduled and manually triggered automations
+That access allows several jobs to move forward during the same day. Site observations can be recorded while details are fresh, correspondence can be brought into the project history, and documents can be prepared between appointments.
 
-## Evidence And Limitations
+The remote interface draws on procedures and records already established in the system. Saved context makes it possible to continue a job without explaining its history again for each request.
 
-This record is based on the live vault-local skill inventory, the canonical automation-system index, supporting system notes, and Daniel's direct description of remote operation. The published counts are accurate as of August 7, 2026 and may change as the system evolves.
+## Development And Validation
 
-The 23-system count includes active, paused, completed, and archived automation records. The record does not claim that every system runs continuously or without supervision. It also avoids quantified total time-savings claims because the benefit varies by workflow and project.
+The system evolves through use. New workflows are added when recurring work justifies them, and overlapping instructions are consolidated so shared rules have clear owners.
 
-Private client data, project records, commercial values, dimensions, credentials, environment variables, local paths, and device or connection configuration are excluded.
+Validation includes record checks, workflow audits, document checks, and targeted tests of supporting tools. Generated outputs are reviewed in the context of the task that produced them. A task, drawing, or document update carries its own completion meaning within the wider job.
+
+## Inventory Basis
+
+This revision was checked against the vault-local skill entry points, canonical automation index, local schedule configurations, current document resources, and implemented workflows described in the linked records.
+
+The original LinkedIn summary is preserved above as an August 2026 snapshot. The dated inventory and expanded commentary reflect the November 26 review.
