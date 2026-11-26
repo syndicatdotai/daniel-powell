@@ -117,6 +117,7 @@ Explore the [Construction portfolio](construction/README.md) for project managem
 
 | Public ID | Project | Work areas | Public status |
 |---|---|---|---|
+| PUB-0108 | [Building an Architectural Client Intake Application](projects/PUB-0108-architectural-client-intake-application/README.md) | Architectural programming and client intake | Published |
 | PUB-0087 | [Turning AutoCAD Linework into a Browser Game](projects/PUB-0087-autocad-linework-browser-game/README.md) | CAD geometry and browser game experimentation | Published |
 | PUB-0086 | [Nightly Research That Fills Gaps in My Knowledge Vault](projects/PUB-0086-nightly-research-knowledge-vault-gaps/README.md) | Automated research and connected knowledge management | Published |
 | PUB-0085 | [Using LiDAR Terrain Maps Before the First Site Visit](projects/PUB-0085-lidar-terrain-maps-before-site-visits/README.md) | Terrain research and preliminary construction planning | Published |
