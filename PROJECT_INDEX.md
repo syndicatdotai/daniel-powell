@@ -10,6 +10,7 @@ Explore the [Construction portfolio](construction/README.md) for project managem
 
 - [Musical Background and Production](background/music.md)
 - [Responding to a Rabid Coyote on a Connecticut Farm](background/responding-to-a-dangerous-wildlife-incident.md)
+- [Moving a Skunk Away From a Crowded Shoreline Park](background/moving-a-skunk-away-from-a-crowded-shoreline-park.md)
 
 ## Research
 
