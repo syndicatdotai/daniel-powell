@@ -8,6 +8,7 @@ Explore the [Construction portfolio](construction/README.md) for project managem
 
 | Public ID | Article | Work area |
 |---|---|---|
+| PUB-0110 | [Developing a Faster Drywall Repair Process](construction/PUB-0110-developing-a-faster-drywall-repair-process/README.md) | Construction Technology |
 | PUB-0092 | [Coordinating an Industrial Building Drawing Package](construction/PUB-0092-coordinating-an-industrial-building-drawing-package/README.md) | Drafting & Existing Conditions |
 | PUB-0093 | [Designing an In-Law Addition Around an Existing Home](construction/PUB-0093-designing-an-in-law-addition-around-an-existing-home/README.md) | Drafting & Existing Conditions |
 | PUB-0094 | [Testing the Feasibility of a Childcare Addition](construction/PUB-0094-testing-the-feasibility-of-a-childcare-addition/README.md) | Drafting & Existing Conditions |
