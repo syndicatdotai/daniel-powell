@@ -440,7 +440,7 @@ I developed Blackout as a browser game built around asymmetric cooperation. Two 
 
 ### PUB-0112 — [Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems](applications/exfiltrate/overview.md)
 
-Daniel Powell is developing Exfiltrate, a game about remote drone operation, salvage, and interacting station systems. He directs the mechanics and interface and uses AI-assisted implementation, testing, and architecture work. Development includes movement, physical cargo handling, equipment, and environmental systems that shape exploration and extraction decisions.
+Daniel Powell is developing Exfiltrate, a browser-based drone salvage game with a public Vercel build. He directs its mechanics and interface and uses AI-assisted development for implementation, testing, architecture, and authoring tools. The project combines physical cargo handling, Host storage and fabrication, interacting station systems, and sensing that separates world state from player knowledge.
 
 ## Research
 

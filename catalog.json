@@ -1803,14 +1803,17 @@
       "legacyPaths": [
         "applications/exfiltrate/README.md"
       ],
-      "summary": "Daniel Powell is developing Exfiltrate, a game about remote drone operation, salvage, and interacting station systems. He directs the mechanics and interface and uses AI-assisted implementation, testing, and architecture work. Development includes movement, physical cargo handling, equipment, and environmental systems that shape exploration and extraction decisions.",
+      "summary": "Daniel Powell is developing Exfiltrate, a browser-based drone salvage game with a public Vercel build. He directs its mechanics and interface and uses AI-assisted development for implementation, testing, architecture, and authoring tools. The project combines physical cargo handling, Host storage and fabrication, interacting station systems, and sensing that separates world state from player knowledge.",
       "tags": [
         "game-development",
-        "software-testing",
-        "drones"
+        "drone-salvage",
+        "browser-game",
+        "ai-assisted-development",
+        "software-architecture",
+        "software-testing"
       ],
-      "wordCount": 1630,
-      "contentSha256": "9bab4a0ac1a7c5573b951cb38fcfee92475a9f64f33e03a886f94487a8be9d38",
+      "wordCount": 1400,
+      "contentSha256": "4855adf914c8970f67e6a19323f3a2ff80f9a97e2b58f0e70c61a4690239fdbf",
       "role": "Game designer and developer"
     },
     {

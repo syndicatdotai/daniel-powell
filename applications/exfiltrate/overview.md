@@ -1,172 +1,103 @@
 # Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems
 
+*Updated November 26, 2026.*
+
+## Play Exfiltrate
+
+[Open the live browser game](https://exfiltrate-ashen.vercel.app/)
+
+Exfiltrate is a browser-based game in active development, with a public production build hosted on Vercel. The interface is designed around mobile play, with touch controls for movement, aiming, tools, and instrument views.
+
 ## Project Summary
 
-I'm developing Exfiltrate, a game about remotely operating a drone inside dangerous derelict installations, recovering salvage, and getting it back to a support station.
+I'm developing Exfiltrate, a game about remotely operating a drone inside dangerous derelict installations, recovering salvage, and returning it to a support station called the Host.
 
-The original idea was closer to entering a maze and retrieving an important object. As I worked on it, the game became more about exploring an unfamiliar place, finding useful equipment and materials, and deciding how much risk to take before returning.
+The original idea was closer to entering a maze and retrieving an important object. It developed into a broader exploration and recovery game: discovering an unfamiliar station, assessing what is worth recovering, and deciding how much risk to accept before returning.
 
-The drone's equipment, the information available to the operator, and the condition of the station all became parts of that decision. Development expanded into towing, storage, fabrication, power distribution, communications, sensing, and environmental effects.
+<a href="https://github.com/syndicatdotai/daniel-powell/releases/download/exfiltrate-screenshots-2026-11-26/exfiltrate-overview.jpg"><img src="https://github.com/syndicatdotai/daniel-powell/releases/download/exfiltrate-screenshots-2026-11-26/exfiltrate-overview.jpg" alt="Four Exfiltrate screenshots showing the drone camera, Host fabrication, Host operations, and a tethered power cell." width="480"></a>
 
-I've also spent considerable effort on the tools and architecture used to develop the game with AI. The project now has a documented map of its systems, authoring tools, diagnostics, and a development history that records how the design changed.
+*Four views from the live build: drone camera, Host fabrication, Host operations, and power cell recovery. Select the image to view it full size.*
 
-## Overview
+The project combines physical cargo handling, equipment, fabrication, power, communications, and sensing. Its central design problem is making those systems work together so that a recovery expedition involves more than following a route to an objective.
 
-The player operates machinery from a distance. That creates a different relationship with the environment than directly controlling a person walking through a station.
+Development also includes the architecture, authoring tools, diagnostics, and documentation needed to keep expanding the game with AI-assisted implementation.
 
-The operator depends on the drone's observations and connection. Equipment can be damaged, cargo can affect movement, and the information on the screen does not have to reveal everything that exists in the world.
+## Operating Through a Drone
 
-The game is being developed with mobile play in mind. The playable work runs in the browser, while the longer-term design includes possibilities for multiplayer expeditions and a shared persistent world.
+The player experiences the station through machinery. A camera, map, operation console, battery display, and equipment controls form the working interface between the operator and the environment.
 
-## Role
+Movement and observation have separate controls. The live interface provides a movement pad and a look pad, allowing the camera and light to be aimed independently of travel. Light, scanning, clamping, and contextual interaction are available alongside the instrument display. Keyboard movement is also supported.
 
-I have been developing the game concept, directing the mechanics and interface, and using AI-assisted development to work through implementation, architecture, and iteration.
+The controls expose practical tradeoffs. Turbo provides faster movement at greater movement-power cost. Quiet drive reduces speed and emitted sound. A scan gathers information, while battery use makes continued operation a resource decision.
 
-The work has included deciding which systems belong in the game, how those systems should interact, and what information the player should receive. It has also involved developing the tools needed to inspect, tune, and author those systems.
+This remote perspective shapes the game. The operator has to act on the information the drone acquires, manage its equipment, and account for the station's condition. The interface is part of that experience: it presents observations and operating feedback rather than an unrestricted view of everything in the simulation.
 
-## Scope Of Work
+## Salvage as a Physical Problem
 
-Exfiltrate has grown across several connected areas:
+Recovering equipment requires a model for how objects occupy and move through the station.
 
-- Drone movement, equipment, physical interaction, and towing.
-- Salvage recovery, storage, fabrication, and support-station services.
-- Power, communications, sensors, and environmental behavior.
-- Player observations, remembered information, and visual presentation.
-- World and content authoring, developer controls, diagnostics, and validation.
-- Save behavior, runtime performance, and mobile presentation.
+The towing implementation accounts for the relationship between load mass, towing force, and the mover's mass. Objects have physical footprints, and clearance through a doorway depends on their actual shape. Contact, resistance, and rotation matter when moving cargo through constrained spaces.
 
-The implementation and research have progressed at different rates. The current article focuses on the documented playable and development systems, with broader shared-world plans identified separately.
+That work turns salvage into a handling problem as well as a collection system. A useful object can change how the drone moves and which route is practical. The decision to recover something therefore connects exploration, equipment, geometry, and the return journey.
 
-## Key Actions
+The same object also needs a consistent identity as it changes location. A physical item in the world, an item in Host storage, and an installed module are different states of an item. Transfers check the destination before committing the change, with rules that prevent an item from existing in multiple places at once.
 
-- Developed the remote-drone extraction concept into a salvage-oriented gameplay loop.
-- Added physical cargo handling and systems for storing recovered items.
-- Connected recovered resources to fabrication and equipment workflows.
-- Developed station services and environmental systems with shared architectural rules.
-- Separated the world's internal state from what the player could observe.
-- Built developer tools for inspecting behavior and adjusting configuration.
-- Established documentation that guides AI coding sessions to the relevant systems and tests.
-- Recorded development milestones, performance experiments, and replaced approaches.
+## The Host: Storage, Fabrication, and Preparation
 
-## Important Features
+The Host provides a support point for the expedition. Its player interface includes fabrication, inventory, and maintenance sections, with resource and storage information visible together.
 
-### Salvage creates a reason to decide when to leave
+Fabrication connects resources to usable equipment. A blueprint identifies the output, Scrap cost, and production time. Storage reservations account for the space the completed item will need, so fabrication and inventory capacity remain connected.
 
-Moving beyond a single mandatory objective changed the structure of an expedition.
+The live production review included a complete Basic Power Cell fabrication cycle. Starting fabrication deducted two Scrap; the completed cell then appeared in Host inventory and increased the stored-item count. Inventory offered actions to eject the cell into the world or intentionally scrap it.
 
-A station could contain useful machinery, components, equipment, and materials. Finding something worthwhile created a decision about continuing deeper or returning with what had already been recovered.
+This provides a concrete connection between the game's economy and its physical environment. Equipment can be produced, stored, and returned to the world as cargo, rather than remaining only an abstract menu entry.
 
-That direction shaped the development of cargo handling, storage, and fabrication. Recovering an object became part of a larger loop involving what the player could carry, preserve, use, or bring back into the world.
+Host development also includes a separate upgrade backend. Its implemented foundation handles capability definitions, prerequisites, resource transactions, and mission-save state. The player-facing upgrade interface and account or campaign progression remain future work; they are separate from the fabrication and inventory screens available in the public build.
 
-### Cargo and equipment have physical consequences
+## A Station Built From Interacting Systems
 
-Towing became more than attaching a visual object behind the drone. The development work addressed mass, resistance, body footprints, collisions, and rotation from off-center contact.
+Exfiltrate's environment extends beyond walls and obstacles. Development includes electrical distribution, breakers, generators, lighting, communications, sound, smoke, and thermal behavior.
 
-The same attention extended to item ownership. An object in the world, an item in storage, and installed equipment needed clearly defined transitions. The inventory implementation includes checks intended to prevent the same item from occupying multiple locations at once.
+These systems share the station's geometry while retaining their own rules. A wall can matter to movement, an observation path, and an environmental process without those concerns becoming the same calculation.
 
-These rules support the practical behavior of salvage: recovering something, moving it, storing it, and using it again.
+Equipment is assembled from reusable capabilities. An object can participate in physical handling, charging, control, or other systems according to its definition. New combinations of existing capabilities can then be authored as content; adding a genuinely new behavior requires implementation in the system that owns it.
 
-### The support station became part of play
+That distinction is central to the project's direction. Expanding the equipment and station vocabulary should not require a growing collection of exceptions for every named object and tool pairing.
 
-The Host, the game's support station, developed beyond a launch point into a place for handling cargo, charging, storage, and fabrication.
+## Information, Detection, and Player Knowledge
 
-The fabrication system tracks resources and reserves storage capacity for the resulting equipment. That connects the act of collecting salvage with preparing for further activity.
+The simulation distinguishes what exists from what an observer has detected and what the player remembers.
 
-Some progression work remains separate from the player-facing experience. For example, the retained Host upgrade documentation distinguishes implemented backend capability handling from deferred player interfaces and account progression.
+A hidden object can exist without appearing on the map. Information must pass through an appropriate sensing system before it becomes available to the operator. Remembered observations remain separate from current sensing, so a display does not automatically receive the live position of an object simply because it was seen earlier.
 
-### The station's systems interact
+The game also separates visual, acoustic, thermal, and electromagnetic detection signatures. Those channels describe different characteristics and use their own propagation and acquisition rules. A signature value alone does not establish that an observer has detected the drone.
 
-The environment developed beyond a static arrangement of walls and obstacles.
+Screen readability is another distinct concern. Adjusting the interface so a person can see the controlled drone should not silently change the drone's detectability or reveal hidden information. This separation keeps presentation decisions from changing the simulation's rules.
 
-The development record describes work on electrical distribution, breakers, local generators, lighting, communications, sound, smoke, and thermal behavior. These systems needed to share the station's geometry and state without being reduced to one generic effect.
+## Developing the Application With AI
 
-The architectural direction was to define reusable behavior and let authored objects participate in it. A portable object might have several capabilities, such as being towable, chargeable, or controllable, without every combination requiring a separate hard-coded exception.
+My role includes the game concept, mechanics, interface direction, and decisions about how the systems should interact. AI-assisted development supports implementation, testing, refactoring, documentation, and investigation of runtime behavior.
 
-### What exists and what the player knows are different
+As the application grew, effective AI work required more than describing the next feature. The project needed a reliable way to identify the relevant system, understand its responsibilities, and find the tests and dependencies affected by a change.
 
-One of the project's standing rules separates world state from player knowledge.
+The repository therefore includes a context entry point, development thesis, project atlas, subsystem documentation, and source and test maps. These give a new coding session a bounded starting point. Inventory work follows ownership and persistence rules; sensing work follows acquisition, memory, and presentation boundaries.
 
-A hidden object can exist in the simulation without appearing in the player's interface. Information has to reach the operator through the appropriate observation system, and remembered observations remain distinct from current sensing.
+The architecture separates authored definitions, derived geometry and indexes, runtime state, player knowledge, and presentation. Moving an object during play must not rewrite its original placement definition. Developer inspection must not leak hidden world information into ordinary player displays.
 
-The project also separates visual, acoustic, thermal, and electromagnetic signals. Those channels are not treated as interchangeable versions of one stealth number.
+The project also includes a world editor, content-authoring tools, a workbench, runtime inspection, and developer controls. JSON diagnostic snapshots provide concrete configuration and session information for an implementation discussion. Retained development records preserve decisions, experiments, and replaced approaches so later work can build on what has already been learned.
 
-Screen readability is another separate concern. Making the interface easier for a person to read should not accidentally grant the drone information it has not acquired.
+## Browser Performance and Release Discipline
 
-## Development Cycle and AI
+The application uses JavaScript, HTML, and CSS, with Canvas 2D, WebGL, and Web Audio supporting its presentation and effects. Mobile use influences both the interface and the amount of work performed by the simulation and renderer.
 
-### Giving a new coding session a useful starting point
+Performance development has addressed moving lights, repeated world queries, environmental updates, scheduling, and diagnostic overhead. A recurring approach is to retain derived results and update them when their inputs change, allowing multiple systems to reuse them.
 
-As the game grew, the development process needed a way for a fresh AI session to understand the relevant part of the application.
+Pause and resume behavior also matters. A browser game must account for interruptions and returning to the page alongside continuous play.
 
-The repository includes a context entry point, a development thesis, a project atlas, subsystem documentation, and maps to source files and tests. A task starts with its target system and then follows the direct dependencies that could be affected.
+Development integration is separated from production release. The public Vercel deployment runs a released main-branch build, while ongoing implementation can continue independently. The article's production descriptions and screenshots were checked against that deployed version rather than assuming the newest development work was already public.
 
-That structure gives AI-assisted work a bounded starting point. Work on inventory should account for item ownership and persistence; work on sensing should account for acquisition and presentation.
+## Current Direction
 
-### Defining shared rules before adding more exceptions
+Exfiltrate has grown from a retrieval concept into a systemic drone-salvage game, with a playable public build and a substantial supporting development environment.
 
-The development thesis distinguishes implementing a new capability from authoring a new combination of existing capabilities.
-
-It also separates authored definitions, derived data, runtime state, player knowledge, and presentation. Those distinctions give coding work a consistent set of boundaries as features accumulate.
-
-For example, moving an object during play should not silently rewrite the original level definition. A developer inspection tool should not expose hidden information through the normal player view.
-
-### Building tools for iteration
-
-The project includes a world editor, content-authoring tools, a workbench, runtime inspection, and developer controls.
-
-Developer snapshots can capture configuration and diagnostic information as JSON for use in a development discussion. This provides a more specific reference than describing a visual effect or movement setting from memory.
-
-The tools support work on the application itself: creating content, changing settings, inspecting behavior, and comparing the result with the intended design.
-
-### Keeping the development history
-
-The project retains a series of development snapshots covering changes in the game concept, architecture, and playable systems.
-
-Those records include approaches that were replaced. They help preserve why a system took its current form and which assumptions had already been tested.
-
-That history is useful when returning to a complex area of the game or giving an AI session context for the next change.
-
-## Performance and Mobile Development
-
-Mobile performance has influenced both the renderer and the simulation work.
-
-The development history records several attempts to reduce the cost of moving lights before a broader change to the camera rendering path. It also separates rendering cost from other causes of interruptions, including repeated world queries, environment updates, scheduling, and diagnostic overhead.
-
-A recurring approach was to retain useful computed results and update them when their inputs changed. Different systems could then read those results instead of repeatedly reconstructing the same information.
-
-The work also addressed pause and resume behavior. Returning to a browser game after an interruption is part of its runtime behavior, alongside what happens during uninterrupted play.
-
-## Constraints And Decisions
-
-I have kept the playable local work separate from the larger shared-world ambition. Multiplayer and persistent expeditions influence the design, but the retained records do not establish a finished shared-universe service.
-
-The project also distinguishes development experiments from release behavior. Its workflow separates ordinary integration from deliberate releases, while the documentation identifies current architecture, historical snapshots, and future plans.
-
-The mobile focus requires continual attention to how much simulation and presentation work the device can reasonably perform.
-
-## Deliverables
-
-- A playable browser-based drone extraction and salvage prototype.
-- Movement, towing, cargo, inventory, and fabrication systems.
-- Support-station and environmental-system implementations.
-- Observation and presentation rules that distinguish player knowledge from world state.
-- World and content authoring tools, developer controls, and diagnostics.
-- Architecture documentation, source and test maps, and a development chronicle.
-
-## Outcome
-
-Exfiltrate has developed from a relatively direct retrieval concept into a broader salvage game with interacting systems.
-
-The work has produced both the game prototype and the tools used to keep developing it. The current direction combines physical recovery, equipment decisions, incomplete information, and station behavior that can affect an expedition.
-
-## Tools And Methods
-
-JavaScript, HTML, CSS, Canvas 2D, WebGL, Web Audio, JSON definitions and snapshots, Git version history, automated tests, browser inspection, and AI-assisted development.
-
-The project uses documented system ownership, reusable capabilities, explicit state boundaries, and separate development and release workflows.
-
-## Evidence And Limitations
-
-This article describes work in progress. It is grounded in the retained application source, architecture documentation, development history, and project notes.
-
-Historical snapshots describe the state of particular development periods; they are not treated as proof that every planned feature is finished. A full gameplay test, current mobile benchmark, and live deployment review were not performed for this article.
+The work centers on physical recovery, equipment preparation, incomplete information, and station systems that affect an expedition. Multiplayer and a shared persistent world remain longer-term design possibilities. The public build presents the current browser-based experience, while development continues to expand the systems and tools behind it.
