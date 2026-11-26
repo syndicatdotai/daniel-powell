@@ -2041,6 +2041,25 @@
       "period": "Around 2012",
       "wordCount": 446,
       "contentSha256": "93f3baa3ecd0224ac7c585905b30ad7b860d09c33a38c7a7b5d3cdb7707b8fbb"
+    },
+    {
+      "id": "PUB-0120",
+      "title": "Rebuilding a House While Living Through the Renovation",
+      "section": "construction",
+      "path": "construction/PUB-0120-personal-house-renovation.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell purchased and extensively renovated an early-1900s house, performing most construction and finishing work over approximately three to four years. The project combined structural alterations, renewed services, restored floors, custom interiors, porch conversions, and coordination with licensed trades. He lived in the property during the renovation and later sold it for twice its original purchase price.",
+      "tags": [
+        "residential-renovation",
+        "owner-renovation",
+        "structural-alterations",
+        "drywall-finishing",
+        "trade-coordination",
+        "project-delivery"
+      ],
+      "wordCount": 972,
+      "contentSha256": "12f7d65fbd2fd02a432e08f90a8e2e7130bbc75e5048b87db3666111feac4378",
+      "role": "Owner, renovator, and trade coordinator"
     }
   ],
   "summaryVersion": 1

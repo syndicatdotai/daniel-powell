@@ -28,5 +28,6 @@ Construction assignments, drafting, coordination, and project delivery.
 - [PUB-0110 — Developing a Faster Drywall Repair Process](PUB-0110-developing-a-faster-drywall-repair-process.md)
 - [PUB-0118 — Reconfiguring a Commercial Office and Building Eight Custom Workstations](PUB-0118-commercial-office-remodel-custom-workstations.md)
 - [PUB-0119 — Goodspeed Opera House: Assembly Selection and Installation for a Warehouse Fire Separation](PUB-0119-goodspeed-opera-house-warehouse-fire-separation.md)
+- [PUB-0120 — Rebuilding a House While Living Through the Renovation](PUB-0120-personal-house-renovation.md)
 
 [Complete index](../INDEX.md) · [About Daniel Powell](../ABOUT.md)

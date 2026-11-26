@@ -410,6 +410,10 @@ Daniel Powell subdivided existing commercial rooms into additional offices, comp
 
 Around 2012, Daniel Powell guided a general contractor through assembly selection and installed a warehouse fire separation for Goodspeed Opera House. The work involved staged shaft-wall framing, core panels, layered gypsum board, and man-lift operation. The separation served offices beside a planned multilevel costume-storage structure with racks, catwalks, and stairs.
 
+### PUB-0120 — [Rebuilding a House While Living Through the Renovation](construction/PUB-0120-personal-house-renovation.md)
+
+Daniel Powell purchased and extensively renovated an early-1900s house, performing most construction and finishing work over approximately three to four years. The project combined structural alterations, renewed services, restored floors, custom interiors, porch conversions, and coordination with licensed trades. He lived in the property during the renovation and later sold it for twice its original purchase price.
+
 ## Research
 
 Research projects and technical investigations.
