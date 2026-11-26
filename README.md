@@ -13,6 +13,7 @@ The archive is written in plain Markdown so the material remains useful in the s
 - [Moving a Skunk Away From a Crowded Shoreline Park](background/moving-a-skunk-away-from-a-crowded-shoreline-park.md)
 - [Project Index](PROJECT_INDEX.md)
 - [Construction Portfolio](construction/README.md)
+- [Workshop](workshop/README.md)
 - [Research](research/README.md)
   - [PUB-0116 - Building Haddam Research Group Around Practical AI Research Workflows](research/PUB-0116-haddam-research-group/README.md)
 

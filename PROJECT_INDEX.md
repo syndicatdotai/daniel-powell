@@ -6,6 +6,10 @@ For background and qualifications, see [About Daniel Powell](ABOUT.md) and [Educ
 
 Explore the [Construction portfolio](construction/README.md) for project management, drafting, renovation, and construction technology.
 
+## Workshop
+
+- [Wrapping a Lally Column Without Building a Wall Around It](workshop/compact-lally-column-wrap.md)
+
 ## Background
 
 - [Musical Background and Production](background/music.md)
