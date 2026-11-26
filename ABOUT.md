@@ -22,6 +22,10 @@ Daniel hosts *Reasoning on Site*, where he develops his commentary in his own vo
 
 The show also gives that commentary a longer life. An episode can reach someone as a podcast, become a searchable reference on the website, or introduce a topic through an illustrated short. Building those formats around the same body of work lets Daniel publish for different audiences while retaining responsibility for what he says and how it is presented. [How Daniel produces Reasoning on Site](projects/PUB-0077-how-i-automate-reasoning-on-site/README.md)
 
+## Contact
+
+LinkedIn direct messages are the best way to get in touch with Daniel. [Send a message on LinkedIn](https://www.linkedin.com/in/daniel-powell-c-uas-systems).
+
 ## Links
 
 - [Project index](PROJECT_INDEX.md)
