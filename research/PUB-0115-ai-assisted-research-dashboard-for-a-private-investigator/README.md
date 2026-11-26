@@ -45,3 +45,5 @@ The experience connected research services with practical tool development. Publ
 The project's deliverable was research organized for a professional investigator's review. The consultancy grew from demonstrating those capabilities within an actual assignment and identifying opportunities to apply them in other professional workflows.
 
 [Visit The Haddam Research Group](https://haddamresearchgroup.com/)
+
+[Read about developing Haddam Research Group](../PUB-0116-haddam-research-group/README.md)

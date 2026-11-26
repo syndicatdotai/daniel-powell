@@ -8,6 +8,7 @@ Explore the [Construction portfolio](construction/README.md) for project managem
 
 | Public ID | Article | Work area |
 |---|---|---|
+| PUB-0116 | [Building Haddam Research Group Around Practical AI Research Workflows](research/PUB-0116-haddam-research-group/README.md) | AI research workflows, training, and technical consulting |
 | PUB-0115 | [AI-Assisted Research and a Custom Dashboard for a Private Investigator](research/PUB-0115-ai-assisted-research-dashboard-for-a-private-investigator/README.md) | Public-source research and research software |
 | PUB-0113 | [Developing a Counter-UAS Research Catalog](research/PUB-0113-developing-a-counter-uas-research-catalog/README.md) | Counter-UAS research and information architecture |
 
