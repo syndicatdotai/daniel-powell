@@ -14,6 +14,7 @@ How I organize a business around connected project records, voice input, reusabl
 
 - **[Obsidian and business automation](workflows/PUB-0008-obsidian-business-automation.md)** — The operating system behind project information, business documents, and work between the office and the field.
 - **[Voice-enabled field workflows](workflows/PUB-0005-voice-enabled-field-software.md)** — Connecting spoken requests with project information, documentation, and construction software.
+- **[Business development and outreach](business-automation/PUB-0133-ai-assisted-business-development-and-outreach.md)** — AI-assisted prospect research, audience-specific communication, and supporting software experiments.
 - **[Browse the workflow articles](workflows/index.md)** — Estimating, correspondence, drawing reviews, research, and other recurring business processes.
 
 ## Applications and Software Development
@@ -65,6 +66,7 @@ The [complete index](INDEX.md) lists every article by subject. The [archive summ
 | Section | What you will find |
 |---|---|
 | [Workflows](workflows/index.md) | Business operations, automation, documentation, and media production. |
+| [Business Automation](business-automation/index.md) | AI implementation, business operations, and purpose-built workflow tools. |
 | [Applications](applications/index.md) | Software applications and their development. |
 | [Construction](construction/index.md) | Construction assignments, drafting, coordination, and project delivery. |
 | [Research](research/index.md) | Research projects and technical investigations. |

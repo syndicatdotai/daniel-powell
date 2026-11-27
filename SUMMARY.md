@@ -290,6 +290,14 @@ Daniel Powell uses AI to write reusable JavaScript for extracting website conten
 
 Daniel Powell develops a flexible document-production system for construction estimates, invoices, and contracts. Structured records, HTML/CSS layouts, JavaScript browser export, and Python PDF rendering connect reusable templates with AI skills. The workflow supports tailored documents, validation, visual review, job-linked storage, payment tracking, and preservation of issued versions.
 
+## Business Automation
+
+Practical accounts of using AI, software, and structured workflows to support business operations, including historical experiments and purpose-built tools.
+
+### PUB-0133 — [Using AI to Build a Business Development and Outreach Workflow](business-automation/PUB-0133-ai-assisted-business-development-and-outreach.md)
+
+Daniel Powell used AI to organize prospect research, audience-specific outreach, communication preparation, and working records for his business. Related ChatGPT and Cursor experiments developed Python and JavaScript tools for browser automation, data processing, validation, and summarization. This retrospective connects AI implementation with business operations, process improvement, and workflow automation across separate research and outreach projects.
+
 ## Applications
 
 Software applications and their development.

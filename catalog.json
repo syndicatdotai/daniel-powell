@@ -9,6 +9,12 @@
       "index": "workflows/index.md"
     },
     {
+      "key": "business-automation",
+      "title": "Business Automation",
+      "description": "Practical accounts of using AI, software, and structured workflows to support business operations, including historical experiments and purpose-built tools.",
+      "index": "business-automation/index.md"
+    },
+    {
       "key": "applications",
       "title": "Applications",
       "description": "Software applications and their development.",
@@ -2342,6 +2348,25 @@
       ],
       "wordCount": 1016,
       "contentSha256": "bcfcb6584bfe92b8632ee0eec10081397d0a10a5a131e0ef3792390bab062098"
+    },
+    {
+      "id": "PUB-0133",
+      "title": "Using AI to Build a Business Development and Outreach Workflow",
+      "section": "business-automation",
+      "path": "business-automation/PUB-0133-ai-assisted-business-development-and-outreach.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell used AI to organize prospect research, audience-specific outreach, communication preparation, and working records for his business. Related ChatGPT and Cursor experiments developed Python and JavaScript tools for browser automation, data processing, validation, and summarization. This retrospective connects AI implementation with business operations, process improvement, and workflow automation across separate research and outreach projects.",
+      "tags": [
+        "business-operations",
+        "business-development",
+        "workflow-automation",
+        "ai-implementation",
+        "process-improvement",
+        "ai-assisted-development",
+        "business-research"
+      ],
+      "wordCount": 1221,
+      "contentSha256": "b6dce78d6e068bfd3a91b55ebc632a798ed2c89c4f569fd968ee470325977429"
     }
   ],
   "summaryVersion": 1
