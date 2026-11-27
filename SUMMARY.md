@@ -286,6 +286,10 @@ I use Obsidian as an ongoing record of my construction jobs. Each job has its ow
 
 Daniel Powell uses AI to write reusable JavaScript for extracting website content through Chrome DevTools. He specifies the information and desired output format, including CSV and Markdown, and saves useful scripts for later. The workflow offers a focused alternative to browser navigation through a chat interface for defined extraction tasks.
 
+### PUB-0128 — [Designing Business Documents with Code: A Flexible System for Estimates, Invoices, and Contracts](workflows/PUB-0128-code-driven-business-documents.md)
+
+Daniel Powell develops a flexible document-production system for construction estimates, invoices, and contracts. Structured records, HTML/CSS layouts, JavaScript browser export, and Python PDF rendering connect reusable templates with AI skills. The workflow supports tailored documents, validation, visual review, job-linked storage, payment tracking, and preservation of issued versions.
+
 ## Applications
 
 Software applications and their development.

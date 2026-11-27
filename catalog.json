@@ -2251,6 +2251,25 @@
       ],
       "wordCount": 896,
       "contentSha256": "e6147b61d6770c359db16178f66af0fe5966c23648aeccf91c1e6bbdecdd0709"
+    },
+    {
+      "id": "PUB-0128",
+      "title": "Designing Business Documents with Code: A Flexible System for Estimates, Invoices, and Contracts",
+      "section": "workflows",
+      "path": "workflows/PUB-0128-code-driven-business-documents.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell develops a flexible document-production system for construction estimates, invoices, and contracts. Structured records, HTML/CSS layouts, JavaScript browser export, and Python PDF rendering connect reusable templates with AI skills. The workflow supports tailored documents, validation, visual review, job-linked storage, payment tracking, and preservation of issued versions.",
+      "tags": [
+        "document-generation",
+        "business-automation",
+        "html-to-pdf",
+        "structured-records",
+        "estimates-and-invoices",
+        "construction-contracts",
+        "reusable-skills"
+      ],
+      "wordCount": 1284,
+      "contentSha256": "2720f34b380088ef53a3866299804b3c9fdbe3e0bbe30c04749efa9a35bf0714"
     }
   ],
   "summaryVersion": 1

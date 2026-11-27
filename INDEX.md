@@ -79,6 +79,7 @@ Business operations, automation, documentation, and media production.
 | PUB-0111 | [Preparing Drawing PDFs and Printed Documents Through Codex Remote](workflows/PUB-0111-remote-drawing-export-and-printing.md) |
 | PUB-0117 | [Keeping Job Conditions and Notes in Obsidian](workflows/PUB-0117-job-conditions-and-notes.md) |
 | PUB-0123 | [Using AI to Write Reusable Website Extraction Scripts](workflows/PUB-0123-reusable-website-extraction-scripts.md) |
+| PUB-0128 | [Designing Business Documents with Code: A Flexible System for Estimates, Invoices, and Contracts](workflows/PUB-0128-code-driven-business-documents.md) |
 
 ## Applications
 
