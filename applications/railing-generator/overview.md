@@ -14,6 +14,19 @@ On a straightforward railing, I can finish measuring, send the voice memo, and h
 
 I still get jobs with details the application doesn’t cover. A bracket at the end of a railing is a good example. I could spend the next hour drawing it in AutoCAD. If I think I’ll see it again, I’d rather spend that hour building in the bracket, deciding which dimensions can change and how to locate it against the post. The next time I measure one, I can give it the new dimensions by voice. If it’s a detail I only expect to draw once, I’ll do it in AutoCAD.
 
+## Try the Application
+
+[Open Railing Generator](https://railing-generator.vercel.app/)
+
+Railing Generator is a specialist drawing application in ongoing development. Start with a practice project to understand how its measurements, configuration choices, and exports relate.
+
+- [Introduction to the application](introduction.md)
+- [Getting started](getting-started.md)
+- [From field measurements to delivery](field-to-drawing-workflow.md)
+- [A worked example](example-project.md)
+
+The public application is the drawing tool. My voice-directed Codex workflow, production project records, and manufacturer CRM handoff are described separately in these guides.
+
 ## Overview
 
 A railing manufacturer in Connecticut hired me to take field measurements and prepare shop drawings. I see the job twice in a sense. On site, I’m looking at the stair, the landing, and where the railing needs to go. At the drafting stage, I have to turn what I measured into an elevation the shop can use. Doing both parts of the work has shaped how I built Railing Generator. I can describe a railing in the order I measure it and see how those measurements come together on the sheet.

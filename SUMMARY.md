@@ -306,6 +306,22 @@ Daniel Powell is developing Exfiltrate, a browser-based drone salvage game with 
 
 Daniel Powell developed Mech Division as an early experiment in scheduled AI game development. A recurring instruction loop selected tasks, implemented features, ran checks, and recorded the next step. The result included five campaign missions, progression, abilities, enemies, and editing tools. He considers the experiment partially successful: playable output, but insufficient overall quality and direction for a finished game.
 
+### application:railing-generator:introduction — [Railing Generator: From Field Measurements to Shop Drawings](applications/railing-generator/introduction.md)
+
+Railing Generator converts measured stair and landing conditions into editable layouts, drawing sheets, CAD geometry, and component information. This guide explains projects, drawings, exports, and Daniel Powell's separate voice-directed Codex workflow, with emphasis on defaults, review, and the application's continuing development.
+
+### application:railing-generator:getting-started — [Getting Started With Railing Generator](applications/railing-generator/getting-started.md)
+
+A browser guide to creating a traditional railing drawing, entering stair and landing measurements, reviewing posts and infill, adding commentary, saving editable project JSON, and exporting files. It explains pitched-landing inputs, project-level metadata, browser recovery, compatible saved files, and the distinction between complete projects and individual drawing exports.
+
+### application:railing-generator:field-workflow — [From Field Measurements to a Reviewed Drawing](applications/railing-generator/field-to-drawing-workflow.md)
+
+Daniel Powell explains how field measurements and dictated instructions become an editable railing project, a calculated drawing, and reviewed deliverables. The workflow separates Codex interpretation from application geometry, tracks the saved revision used for output, and distinguishes drawing generation from AutoCAD continuation, PDF preparation, and authorized CRM delivery.
+
+### application:railing-generator:worked-example — [Worked Example: A Stair Flight With an Upper Landing](applications/railing-generator/example-project.md)
+
+A fictional practice exercise follows a stair-and-landing layout through an initial drawing, a landing-length revision, and a pitched-landing variation. It explains comparing generated geometry, saving editable project revisions, and reviewing CAD and component outputs. It is a written exercise; no downloadable sample or tested demonstration file is advertised.
+
 ## Construction
 
 Construction assignments, drafting, coordination, and project delivery.

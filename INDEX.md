@@ -86,6 +86,10 @@ Software applications and their development.
 | Reference | Article |
 |---|---|
 | PUB-0080 | [Railing Generator](applications/railing-generator/overview.md) |
+| Railing guide | [Railing Generator: From Field Measurements to Shop Drawings](applications/railing-generator/introduction.md) |
+| Railing guide | [Getting Started With Railing Generator](applications/railing-generator/getting-started.md) |
+| Railing guide | [From Field Measurements to a Reviewed Drawing](applications/railing-generator/field-to-drawing-workflow.md) |
+| Railing guide | [Worked Example: A Stair Flight With an Upper Landing](applications/railing-generator/example-project.md) |
 | PUB-0108 | [Building an Architectural Client Intake Application](applications/client-intake/overview.md) |
 | PUB-0109 | [Building Blackout: A Cooperative Game with Two Different Views](applications/blackout/overview.md) |
 | PUB-0112 | [Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems](applications/exfiltrate/overview.md) |

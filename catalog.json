@@ -1269,8 +1269,8 @@
         "field-documentation",
         "field-measurement"
       ],
-      "wordCount": 1748,
-      "contentSha256": "18e6b084766d09f298d45dc4faf85d34ab30887fad674de1bda8826b6aa4817f",
+      "wordCount": 1817,
+      "contentSha256": "b6911177d2d546dc6db837daf7d15fe2d14a7d44e2897b97731d6679ab953494",
       "role": "Field measurer, shop drafter, and application developer"
     },
     {
@@ -2097,6 +2097,69 @@
       ],
       "wordCount": 1268,
       "contentSha256": "fe2ea515103bbcb10b197bb3c8e79399e13e03c94fdcb09e86ffd0a382a4fd24"
+    },
+    {
+      "id": "application:railing-generator:introduction",
+      "title": "Railing Generator: From Field Measurements to Shop Drawings",
+      "section": "applications",
+      "path": "applications/railing-generator/introduction.md",
+      "legacyPaths": [],
+      "summary": "Railing Generator converts measured stair and landing conditions into editable layouts, drawing sheets, CAD geometry, and component information. This guide explains projects, drawings, exports, and Daniel Powell's separate voice-directed Codex workflow, with emphasis on defaults, review, and the application's continuing development.",
+      "tags": [
+        "railing-generator",
+        "shop-drawings",
+        "drawing-automation"
+      ],
+      "wordCount": 569,
+      "contentSha256": "13d7fe03d83be9322bd7bd32f9a9620e18386be55ed1ab2704dafb58a573b9dc"
+    },
+    {
+      "id": "application:railing-generator:getting-started",
+      "title": "Getting Started With Railing Generator",
+      "section": "applications",
+      "path": "applications/railing-generator/getting-started.md",
+      "legacyPaths": [],
+      "summary": "A browser guide to creating a traditional railing drawing, entering stair and landing measurements, reviewing posts and infill, adding commentary, saving editable project JSON, and exporting files. It explains pitched-landing inputs, project-level metadata, browser recovery, compatible saved files, and the distinction between complete projects and individual drawing exports.",
+      "tags": [
+        "railing-generator",
+        "user-guide",
+        "project-files",
+        "cad-exports"
+      ],
+      "wordCount": 771,
+      "contentSha256": "9cfb1e22cd6274e3770052b07864ca1c62801d454b1f8214ddd4286c385e5ad3"
+    },
+    {
+      "id": "application:railing-generator:field-workflow",
+      "title": "From Field Measurements to a Reviewed Drawing",
+      "section": "applications",
+      "path": "applications/railing-generator/field-to-drawing-workflow.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell explains how field measurements and dictated instructions become an editable railing project, a calculated drawing, and reviewed deliverables. The workflow separates Codex interpretation from application geometry, tracks the saved revision used for output, and distinguishes drawing generation from AutoCAD continuation, PDF preparation, and authorized CRM delivery.",
+      "tags": [
+        "railing-generator",
+        "voice-workflows",
+        "drawing-review",
+        "field-documentation"
+      ],
+      "wordCount": 624,
+      "contentSha256": "2664796968a98a7f03fa34747ff3e5cce81b25d6b84fdaa8e0cfe5c977f95364"
+    },
+    {
+      "id": "application:railing-generator:worked-example",
+      "title": "Worked Example: A Stair Flight With an Upper Landing",
+      "section": "applications",
+      "path": "applications/railing-generator/example-project.md",
+      "legacyPaths": [],
+      "summary": "A fictional practice exercise follows a stair-and-landing layout through an initial drawing, a landing-length revision, and a pitched-landing variation. It explains comparing generated geometry, saving editable project revisions, and reviewing CAD and component outputs. It is a written exercise; no downloadable sample or tested demonstration file is advertised.",
+      "tags": [
+        "railing-generator",
+        "worked-example",
+        "project-revisions",
+        "shop-drawings"
+      ],
+      "wordCount": 411,
+      "contentSha256": "82c3645035a341466e06d31f7c80d3c9cd8e1756da452fb7a40644d760f1849e"
     }
   ],
   "summaryVersion": 1
