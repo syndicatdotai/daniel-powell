@@ -2367,6 +2367,25 @@
       ],
       "wordCount": 1221,
       "contentSha256": "b6dce78d6e068bfd3a91b55ebc632a798ed2c89c4f569fd968ee470325977429"
+    },
+    {
+      "id": "PUB-0134",
+      "title": "Developing Browser Automation with AI for Business Research",
+      "section": "business-automation",
+      "path": "business-automation/PUB-0134-browser-automation-for-business-research.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell used ChatGPT and Cursor to develop custom browser automation for collecting and organizing public business information. JavaScript console scripts and a Python/Playwright collector produced structured JSON records. The account examines requirements definition, browser interaction, configuration, logging, and data processing as practical experience in business research, AI implementation, and workflow automation.",
+      "tags": [
+        "browser-automation",
+        "business-research",
+        "ai-assisted-development",
+        "workflow-automation",
+        "structured-data",
+        "python",
+        "playwright"
+      ],
+      "wordCount": 1126,
+      "contentSha256": "894e380d651498af90fb576f69b9697c94d78caed6b5d4e7dcdabb4fc8be0900"
     }
   ],
   "summaryVersion": 1
