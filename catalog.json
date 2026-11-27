@@ -1961,14 +1961,14 @@
       "section": "background",
       "path": "background/music.md",
       "legacyPaths": [],
-      "summary": "Daniel Powell’s musical background includes several instruments, approximately 150 songs written during an intensive period, and pro bono digital production work. He used Cubase and Native Instruments tools to develop arrangements and continues regular performance practice. The account connects instrumental learning, composition, and the technical process of music production.",
+      "summary": "Daniel Powell’s musical background spans several instruments, approximately 150 songs written between 2005 and 2010, and a progression from physical multitrack recording toward Cubase and Native Instruments software production. His tools included Cubase 5 and 7 over time. He also performed pro bono production work around 2016–2018 and continues to play twice a week.",
       "tags": [
         "music-production",
         "career-background",
         "professional-experience"
       ],
-      "wordCount": 395,
-      "contentSha256": "dffeaaa3194a6b5473cff15dab0fe9320907622a49ddf7dc9a35a51dcd1d68e1"
+      "wordCount": 484,
+      "contentSha256": "8eef610eb56a8e056f9be08e228dd26ed02672a4a2d56e1c3eb1ea98e5b106b8"
     },
     {
       "id": "background:responding-to-a-dangerous-wildlife-incident",
@@ -2013,8 +2013,8 @@
         "software-development",
         "client-communication"
       ],
-      "wordCount": 699,
-      "contentSha256": "d6cc1d6cb10d4cfc43612e4820b902109572cbabdb950e70c18e2eb9944689c6"
+      "wordCount": 745,
+      "contentSha256": "e3cc370ef62d50f16f258f36eadbb7fec9dbb83034d639095882982e314fb26c"
     },
     {
       "id": "PUB-0118",
@@ -2468,6 +2468,26 @@
       ],
       "wordCount": 560,
       "contentSha256": "f981270adb8be46b2b99ef52b2cede105ef64de74803cc0a63c4e1c19ba8e6c2"
+    },
+    {
+      "id": "background:technical-stack",
+      "title": "My Technical Stack: From Early Web Development to AI-Assisted Systems",
+      "section": "background",
+      "path": "background/technical-stack.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell traces his technical toolkit from current AI-assisted automation and software projects back to early web development around 2005. The overview connects languages, Python libraries, application frameworks, hosting, Discord integrations, CAD, and media tools with their uses, then covers earlier web editors, graphics software, game development, and music production, with links to supporting project records.",
+      "tags": [
+        "technical-stack",
+        "software-development",
+        "business-automation",
+        "python",
+        "typescript",
+        "hosting",
+        "creative-production",
+        "technical-history"
+      ],
+      "wordCount": 2484,
+      "contentSha256": "8148e599efd433da22180b42d0ab744db6192598fdc18c1de93c6d0b2eadffa3"
     }
   ],
   "summaryVersion": 1

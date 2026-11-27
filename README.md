@@ -6,7 +6,11 @@ I run a construction and drafting business and develop software to expand what I
 
 This archive documents that work through project accounts and development commentary. Each article explains the problem, my contribution, the decisions made, and how the approach developed.
 
-[About me](ABOUT.md) · [Career and capabilities](background/career.md) · [Complete article index](INDEX.md)
+[About me](ABOUT.md) · [Technical stack and history](background/technical-stack.md) · [Career and capabilities](background/career.md) · [Complete article index](INDEX.md)
+
+## Technical Stack and Development History
+
+[Explore my technical stack](background/technical-stack.md): languages, libraries, development tools, hosting, Discord integrations, CAD, and media production, from current AI-assisted workflows back to web and game development around 2005. The overview links to the project records behind the technologies.
 
 ## Business Operations and Automation
 
@@ -78,7 +82,7 @@ The [complete index](INDEX.md) lists every article by subject. The [archive summ
 
 You're welcome to point an AI assistant at this archive to explore my work, compare projects, or follow a particular topic. The articles are written in plain Markdown so they can be read directly by people as well as search tools and language models.
 
-The [complete index](INDEX.md) provides a browsable overview. The machine-readable [catalog](catalog.json) connects publication IDs with their current article paths.
+The [complete index](INDEX.md) provides a browsable overview. The machine-readable [catalog](catalog.json) connects publication IDs with their current article paths. For languages, software, libraries, hosting, and periods of use, start with the [technical stack and development history](background/technical-stack.md), then follow its links to the relevant project accounts.
 
 Public contents may be read, indexed, summarized, cited, and analyzed. This permission applies to published material and does not authorize reconstructing private identities or omitted records.
 

@@ -4,6 +4,10 @@ Daniel Powell runs a construction and drafting business and develops software to
 
 Daniel began in commercial and residential carpentry in 2005. His work grew to include project leadership, preconstruction planning, and architectural drafting. In the four years through 2026, he worked on approximately 30 drafting projects. His AutoCAD practice spans existing-condition documentation, residential renovations and additions, and permit coordination. Having worked on both sides of a drawing set, he understands how an early design decision affects what a client can price, what a reviewer needs to see, and what a contractor can build.
 
+## Technical background
+
+Daniel’s technical work spans early web and game development around 2005 through current AI-assisted software, research, and business automation. His [technical stack and development history](background/technical-stack.md) connects languages, libraries, hosting environments, graphics, CAD, audio, and video tools with the projects in which he used them.
+
 ## Business operations and automation
 
 Daniel designed an operating system for his business around Obsidian and Codex. It gives him a working history of each project that he can draw on across planning, scheduling, correspondence, and financial administration. That continuity matters in a small practice. Several jobs may need attention on the same day, and a client calling about a change has every reason to expect the last conversation to carry forward.

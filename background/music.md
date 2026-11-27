@@ -16,11 +16,17 @@ Between 2005 and 2010, Daniel wrote approximately 150 songs. Writing at that vol
 
 Songwriting connected his instrumental interests with a broader creative process. A melody, chord progression, or rhythmic idea could become the starting point for a piece, with composition providing the structure that brought those elements together.
 
+## Recording Tools and the Move into Software Production
+
+Daniel’s recording setup developed from a physical multitrack recording device into a more software-based environment. Cubase was part of that progression, with Cubase 5 and Cubase 7 among the versions he used over time.
+
+Cubase and Native Instruments sound libraries and production packages were central tools in his songwriting and digital-production background. They connected instrumental performance with arranging and developing the recorded result, expanding the available sounds and instrumentation as his recording workflow became more electronic.
+
 ## Music Production, Approximately 2016–2018
 
 From approximately 2016 to 2018, Daniel served in a pro bono music-production role for a local organization. The work extended his musical background into a digital production environment, combining creative decisions with the technical process of assembling and refining music.
 
-His tools included Cubase 6 and Cubase 7, alongside Native Instruments sound libraries and production packages. Cubase provided the central environment for organizing the work, while the Native Instruments collection expanded the available sounds and instrumentation.
+His tools included Cubase 5 and Cubase 7, alongside Native Instruments sound libraries and production packages. Cubase provided the central environment for organizing the work, while the Native Instruments collection expanded the available sounds and instrumentation.
 
 Working with these tools added another dimension to his musical practice: thinking about how individual parts fit together, how an arrangement develops, and how production choices shape the finished listening experience.
 
@@ -32,4 +38,4 @@ His musical background brings together the immediacy of playing an instrument, t
 
 ---
 
-[About Daniel Powell](../ABOUT.md) · [Public archive](../README.md)
+[Technical stack and development history](technical-stack.md) · [About Daniel Powell](../ABOUT.md) · [Public archive](../README.md)

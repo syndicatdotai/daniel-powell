@@ -564,7 +564,7 @@ Daniel Powell used his wildlife-control experience to guide a skunk away from vi
 
 ### background:music — [Musical Background and Production](background/music.md)
 
-Daniel Powell’s musical background includes several instruments, approximately 150 songs written during an intensive period, and pro bono digital production work. He used Cubase and Native Instruments tools to develop arrangements and continues regular performance practice. The account connects instrumental learning, composition, and the technical process of music production.
+Daniel Powell’s musical background spans several instruments, approximately 150 songs written between 2005 and 2010, and a progression from physical multitrack recording toward Cubase and Native Instruments software production. His tools included Cubase 5 and 7 over time. He also performed pro bono production work around 2016–2018 and continues to play twice a week.
 
 ### background:responding-to-a-dangerous-wildlife-incident — [Responding to a Rabid Coyote on a Connecticut Farm](background/responding-to-a-dangerous-wildlife-incident.md)
 
@@ -577,6 +577,10 @@ Daniel Powell runs a construction and drafting business and develops software to
 ### PUB-0121 — [My Trading Experience: From Robinhood to On-Chain Markets](background/PUB-0121-trading-experience-robinhood-to-on-chain.md)
 
 Daniel Powell describes his trading experience from Robinhood in 2016 through cryptocurrency exchanges, margin trading, NFTs, and decentralized finance. The account covers transfers using Litecoin, self-custody with Phantom, Solana applications, position sizing, and his final MELANIA trade in January 2025. It follows his transition from active trading to monitoring markets without holding trading positions.
+
+### background:technical-stack — [My Technical Stack: From Early Web Development to AI-Assisted Systems](background/technical-stack.md)
+
+Daniel Powell traces his technical toolkit from current AI-assisted automation and software projects back to early web development around 2005. The overview connects languages, Python libraries, application frameworks, hosting, Discord integrations, CAD, and media tools with their uses, then covers earlier web editors, graphics software, game development, and music production, with links to supporting project records.
 
 ## AI Experiments
 

@@ -2,7 +2,7 @@
 
 Browse by subject. PUB identifiers remain stable across titles and locations.
 
-[About Daniel Powell](ABOUT.md) · [Archive summary](SUMMARY.md) · [Archive structure](STRUCTURE.md)
+[About Daniel Powell](ABOUT.md) · [Archive summary](SUMMARY.md) · [Archive structure](STRUCTURE.md) · [Technical stack and history](background/technical-stack.md)
 
 ## Workflows
 
@@ -184,6 +184,7 @@ Personal history, career, education, credentials, and field accounts.
 
 | Reference | Article |
 |---|---|
+| background:technical-stack | [My Technical Stack: From Early Web Development to AI-Assisted Systems](background/technical-stack.md) |
 | PUB-0010 | [Connecticut Nuisance Wildlife Control as a Community Service](background/PUB-0010-wildlife-control-community-service.md) |
 | PUB-0012 | [A Memorable Notary Appointment and Situational Awareness](background/PUB-0012-notary-appointment.md) |
 | PUB-0083 | [From Hand Drafting to AutoCAD and AI](background/PUB-0083-drafting-from-handwork-to-ai.md) |

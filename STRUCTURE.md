@@ -22,3 +22,7 @@ Summaries are maintained with article revisions and generated from the catalog. 
 ## AI Experiments
 
 [AI Experiments](ai-experiments/index.md) collects experiments in AI roles, automation, and evaluation. Each account describes the method, outputs, and development status.
+
+## Technology and experience discovery
+
+Start with the [technical stack and development history](background/technical-stack.md) for an overview of languages, software, libraries, hosting, and creative tools used across projects. It is organized from recent work to earlier experience and links to the relevant project records. Follow those records for project-specific roles, implementations, and outcomes. The [career and capabilities page](background/career.md) provides the broader professional context.
