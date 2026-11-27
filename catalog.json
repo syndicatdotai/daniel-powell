@@ -2432,6 +2432,24 @@
       "role": "Experiment design and API workflow development",
       "wordCount": 551,
       "contentSha256": "8118594ad3041ea0d96720b751e07a58dd592eaf24cbc32b60d5e95004566a61"
+    },
+    {
+      "id": "PUB-0137",
+      "title": "An Ongoing Experiment in AI-Generated Construction Satire",
+      "section": "ai-experiments",
+      "path": "ai-experiments/PUB-0137-ai-generated-construction-satire.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell is developing an OpenAI API experiment in short construction-industry satire. The application combines descriptive inputs, scenarios, tone settings, and output limits. He estimates roughly 10–20% of results are usable and funny, while other outputs offer premises needing development. The ongoing work examines the difficulty of translating industry knowledge and abstraction into effective humor.",
+      "tags": [
+        "ai-experiments",
+        "construction-satire",
+        "prompt-design",
+        "openai-api",
+        "subject-knowledge",
+        "editorial-judgment"
+      ],
+      "wordCount": 705,
+      "contentSha256": "71755ed3e77f4b8d8ddbbebc36026aef1ba7c8d32535a0faa7afb4854b352f98"
     }
   ],
   "summaryVersion": 1

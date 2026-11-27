@@ -585,3 +585,7 @@ Experiments in AI roles, automation, and evaluation, with their methods, outputs
 ### PUB-0136 — [Testing Counter-Drone Scenarios with an Adversary, a Defender, and a Judge](ai-experiments/PUB-0136-counter-uas-scenario-experiment.md)
 
 Daniel Powell built an unpublished counter-drone scenario experiment using the OpenAI API. Separate adversarial, defensive, and judge roles generated hypothetical incidents, developed responses under scenario-specific environmental and authority constraints, and compared likely outcomes. Daniel controlled the information passed to the defender. The work explored role-based AI evaluation through simulated accounts.
+
+### PUB-0137 — [An Ongoing Experiment in AI-Generated Construction Satire](ai-experiments/PUB-0137-ai-generated-construction-satire.md)
+
+Daniel Powell is developing an OpenAI API experiment in short construction-industry satire. The application combines descriptive inputs, scenarios, tone settings, and output limits. He estimates roughly 10–20% of results are usable and funny, while other outputs offer premises needing development. The ongoing work examines the difficulty of translating industry knowledge and abstraction into effective humor.

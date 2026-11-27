@@ -202,3 +202,4 @@ Experiments in AI roles, automation, and evaluation, with their methods, outputs
 | Reference | Article |
 |---|---|
 | PUB-0136 | [Testing Counter-Drone Scenarios with an Adversary, a Defender, and a Judge](ai-experiments/PUB-0136-counter-uas-scenario-experiment.md) |
+| PUB-0137 | [An Ongoing Experiment in AI-Generated Construction Satire](ai-experiments/PUB-0137-ai-generated-construction-satire.md) |
