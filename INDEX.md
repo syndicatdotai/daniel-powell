@@ -134,6 +134,7 @@ Construction assignments, drafting, coordination, and project delivery.
 | PUB-0125 | [Ventfort Hall: From a Family Visit to Historic Building Research](construction/PUB-0125-ventfort-hall-historic-building-research.md) |
 | PUB-0126 | [Stepping Into Greater Responsibility on the Watermark Projects](construction/PUB-0126-watermark-framing-layout-and-leadership.md) |
 | PUB-0127 | [A Two-Hour Construction Application: Concrete Quantities and Visualization Built from a Phone](construction/PUB-0127-concrete-calculator-and-visualization.md) |
+| PUB-0129 | [Coordinating Crane Access and Construction of a Multistory Fire-Rated Shaft for Verizon Infrastructure](construction/PUB-0129-verizon-shaft-wall-crane-coordination.md) |
 
 ## Research
 

@@ -2270,6 +2270,24 @@
       ],
       "wordCount": 1284,
       "contentSha256": "2720f34b380088ef53a3866299804b3c9fdbe3e0bbe30c04749efa9a35bf0714"
+    },
+    {
+      "id": "PUB-0129",
+      "title": "Coordinating Crane Access and Construction of a Multistory Fire-Rated Shaft for Verizon Infrastructure",
+      "section": "construction",
+      "path": "construction/PUB-0129-verizon-shaft-wall-crane-coordination.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell coordinated crane access and material loading for a multistory fire-rated shaft enclosure around Verizon infrastructure. The assignment connected a site visit, scheduling with the crane’s primary user, and upper-floor material delivery with framing, drywall installation, and taping. The enclosure spanned two floors around components continuing through the roof, with installation completed the following day.",
+      "tags": [
+        "shaft-wall-construction",
+        "fire-rated-enclosures",
+        "crane-coordination",
+        "material-logistics",
+        "commercial-construction",
+        "telecommunications-infrastructure"
+      ],
+      "wordCount": 657,
+      "contentSha256": "0078931a3615ece77bfd06fb154e6dde4d4cda1dac0d864ea4dda027362a7a95"
     }
   ],
   "summaryVersion": 1

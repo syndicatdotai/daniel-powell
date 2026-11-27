@@ -458,6 +458,10 @@ Daniel Powell describes taking on greater communication responsibilities during 
 
 Daniel Powell used ChatGPT on his phone to build a browser-based concrete calculator and visualization in approximately two hours. The tool modeled a walkway around three adjoining circular pool sections, estimated cubic yardage, and supplied screenshots for the client. The account explains the assumptions required by missing fillet dimensions and the value of purpose-built construction applications.
 
+### PUB-0129 — [Coordinating Crane Access and Construction of a Multistory Fire-Rated Shaft for Verizon Infrastructure](construction/PUB-0129-verizon-shaft-wall-crane-coordination.md)
+
+Daniel Powell coordinated crane access and material loading for a multistory fire-rated shaft enclosure around Verizon infrastructure. The assignment connected a site visit, scheduling with the crane’s primary user, and upper-floor material delivery with framing, drywall installation, and taping. The enclosure spanned two floors around components continuing through the roof, with installation completed the following day.
+
 ## Research
 
 Research projects and technical investigations.
