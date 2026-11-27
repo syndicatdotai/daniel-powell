@@ -2233,6 +2233,24 @@
       ],
       "wordCount": 691,
       "contentSha256": "b1ad68eee8a15d337dce932e4927775a2d38fb7457abf10835cb29e5951aff11"
+    },
+    {
+      "id": "PUB-0127",
+      "title": "A Two-Hour Construction Application: Concrete Quantities and Visualization Built from a Phone",
+      "section": "construction",
+      "path": "construction/PUB-0127-concrete-calculator-and-visualization.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell used ChatGPT on his phone to build a browser-based concrete calculator and visualization in approximately two hours. The tool modeled a walkway around three adjoining circular pool sections, estimated cubic yardage, and supplied screenshots for the client. The account explains the assumptions required by missing fillet dimensions and the value of purpose-built construction applications.",
+      "tags": [
+        "concrete-estimating",
+        "construction-visualization",
+        "ephemeral-applications",
+        "ai-assisted-development",
+        "browser-tools",
+        "mobile-workflows"
+      ],
+      "wordCount": 896,
+      "contentSha256": "e6147b61d6770c359db16178f66af0fe5966c23648aeccf91c1e6bbdecdd0709"
     }
   ],
   "summaryVersion": 1

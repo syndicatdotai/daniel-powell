@@ -450,6 +450,10 @@ Daniel Powell contributes volunteer technical advice to Ventfort Hall's Building
 
 Daniel Powell describes taking on greater communication responsibilities during steel-stud framing at Watermark facilities in Connecticut. The work included laying out progressive-radius walls by transferring a scaled drawing grid into field points, refining the curve, and installing decorative fiberglass columns and suspended inverted domes. His blueprint-reading and installation experience supported an informal role representing the framing company.
 
+### PUB-0127 — [A Two-Hour Construction Application: Concrete Quantities and Visualization Built from a Phone](construction/PUB-0127-concrete-calculator-and-visualization.md)
+
+Daniel Powell used ChatGPT on his phone to build a browser-based concrete calculator and visualization in approximately two hours. The tool modeled a walkway around three adjoining circular pool sections, estimated cubic yardage, and supplied screenshots for the client. The account explains the assumptions required by missing fillet dimensions and the value of purpose-built construction applications.
+
 ## Research
 
 Research projects and technical investigations.

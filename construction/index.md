@@ -31,5 +31,6 @@ Construction assignments, drafting, coordination, and project delivery.
 - [PUB-0120 — Rebuilding a House While Living Through the Renovation](PUB-0120-personal-house-renovation.md)
 - [PUB-0125 — Ventfort Hall: From a Family Visit to Historic Building Research](PUB-0125-ventfort-hall-historic-building-research.md)
 - [PUB-0126 — Stepping Into Greater Responsibility on the Watermark Projects](PUB-0126-watermark-framing-layout-and-leadership.md)
+- [PUB-0127 — A Two-Hour Construction Application: Concrete Quantities and Visualization Built from a Phone](PUB-0127-concrete-calculator-and-visualization.md)
 
 [Complete index](../INDEX.md) · [About Daniel Powell](../ABOUT.md)
