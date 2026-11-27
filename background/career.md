@@ -319,12 +319,16 @@ Evidence: PUB-0010, PUB-0017, and PUB-0012 in the [public project index](../INDE
 - Carry specialty-interior work through framing, drywall installation, and finishing.
 - Install and finish Trim-Tex specialty products.
 - Build radius walls and radius soffits.
+- Lay out progressive-radius walls where the curvature changes along the wall face.
+- Transfer wall geometry from a scaled grid on architectural drawings to measured field points when radial centers are inaccessible or outside line of sight.
+- Trace the curve in segments between transferred points and refine its continuity along the wall length.
 - Construct suspended radial soffits with custom drywall and architectural reveals.
 - Construct specialty soffits with integrated light pockets.
 - Form decorative drywall around low-hanging ductwork.
 - Install architectural reveals to match the drawings.
 - Execute trimless finishes in high-end residential interiors using architectural shadow beads.
-- Install fiberglass columns and domes as interior architectural features.
+- Install decorative radial fiberglass columns.
+- Install suspended inverted fiberglass domes.
 - Install Armstrong drywall suspension-grid systems.
 - Adapt commercial drywall-grid methods to residential interiors.
 - Install acoustical ceiling grids and ceiling finishes.
@@ -339,6 +343,8 @@ Evidence: PUB-0010, PUB-0017, and PUB-0012 in the [public project index](../INDE
 - Carry out wallpaper and wainscoting work in bathroom renovation.
 - Design and build custom office furniture using cabinet-grade plywood, foam, and fabric.
 - Coordinate framing, drywall, finish, and accessibility-related work in commercial fit-outs.
+
+Project example: [PUB-0126 — Watermark framing, progressive-radius layout, and growing responsibility](../construction/PUB-0126-watermark-framing-layout-and-leadership.md).
 
 ### Additional trade experience
 

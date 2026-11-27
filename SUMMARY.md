@@ -446,6 +446,10 @@ Daniel Powell purchased and extensively renovated an early-1900s house, performi
 
 Daniel Powell contributes volunteer technical advice to Ventfort Hall's Buildings and Grounds work. An attic observation led to AI-assisted research into historic back plastering, comparing period construction literature with site conditions and restoration history. He prepared a sourced assessment and shared it with Ventfort Hall's board of directors and staff.
 
+### PUB-0126 — [Stepping Into Greater Responsibility on the Watermark Projects](construction/PUB-0126-watermark-framing-layout-and-leadership.md)
+
+Daniel Powell describes taking on greater communication responsibilities during steel-stud framing at Watermark facilities in Connecticut. The work included laying out progressive-radius walls by transferring a scaled drawing grid into field points, refining the curve, and installing decorative fiberglass columns and suspended inverted domes. His blueprint-reading and installation experience supported an informal role representing the framing company.
+
 ## Research
 
 Research projects and technical investigations.

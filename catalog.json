@@ -1903,8 +1903,8 @@
         "software-development",
         "training"
       ],
-      "wordCount": 5494,
-      "contentSha256": "a79179e6e23c65f474a323baa3b3d51e1b1a3d7b55bfc41d49440a09cb86d013"
+      "wordCount": 5557,
+      "contentSha256": "00ad69bad302919143d53cd8d7467c6d6efa7b83ba153b31497aba8dd3b4f608"
     },
     {
       "id": "background:education-and-credentials",
@@ -2216,6 +2216,23 @@
       "wordCount": 1017,
       "contentSha256": "9796c0c450a2f64dfc34585c54115556d49118205f9899b29342bef57db54aed",
       "role": "Volunteer technical adviser and construction researcher"
+    },
+    {
+      "id": "PUB-0126",
+      "title": "Stepping Into Greater Responsibility on the Watermark Projects",
+      "section": "construction",
+      "path": "construction/PUB-0126-watermark-framing-layout-and-leadership.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell describes taking on greater communication responsibilities during steel-stud framing at Watermark facilities in Connecticut. The work included laying out progressive-radius walls by transferring a scaled drawing grid into field points, refining the curve, and installing decorative fiberglass columns and suspended inverted domes. His blueprint-reading and installation experience supported an informal role representing the framing company.",
+      "tags": [
+        "steel-stud-framing",
+        "progressive-radius-layout",
+        "blueprint-reading",
+        "fiberglass-architectural-features",
+        "field-coordination"
+      ],
+      "wordCount": 691,
+      "contentSha256": "b1ad68eee8a15d337dce932e4927775a2d38fb7457abf10835cb29e5951aff11"
     }
   ],
   "summaryVersion": 1

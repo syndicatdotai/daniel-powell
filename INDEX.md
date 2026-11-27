@@ -131,6 +131,7 @@ Construction assignments, drafting, coordination, and project delivery.
 | PUB-0119 | [Goodspeed Opera House: Assembly Selection and Installation for a Warehouse Fire Separation](construction/PUB-0119-goodspeed-opera-house-warehouse-fire-separation.md) |
 | PUB-0120 | [Rebuilding a House While Living Through the Renovation](construction/PUB-0120-personal-house-renovation.md) |
 | PUB-0125 | [Ventfort Hall: From a Family Visit to Historic Building Research](construction/PUB-0125-ventfort-hall-historic-building-research.md) |
+| PUB-0126 | [Stepping Into Greater Responsibility on the Watermark Projects](construction/PUB-0126-watermark-framing-layout-and-leadership.md) |
 
 ## Research
 
