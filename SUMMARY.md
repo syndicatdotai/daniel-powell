@@ -326,6 +326,10 @@ Daniel Powell explains how field measurements and dictated instructions become a
 
 A fictional practice exercise follows a stair-and-landing layout through an initial drawing, a landing-length revision, and a pitched-landing variation. It explains comparing generated geometry, saving editable project revisions, and reviewing CAD and component outputs. It is a written exercise; no downloadable sample or tested demonstration file is advertised.
 
+### PUB-0124 — [Job Brain: Finding a Simpler Way to Organize My Business](applications/job-brain/overview.md)
+
+Daniel Powell developed Job Brain to organize construction-business notes, jobs, entities, and commitments through a mobile interface and AI-backed retrieval. He shifted his focus to a lighter business workflow built around Markdown, Obsidian, Codex, reusable skills, and scripts, carrying forward the emphasis on preserving sources, retaining context, and making answers traceable.
+
 ## Construction
 
 Construction assignments, drafting, coordination, and project delivery.

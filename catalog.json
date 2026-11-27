@@ -2178,6 +2178,25 @@
       ],
       "wordCount": 861,
       "contentSha256": "e0900ac876b76b872eb4abe87ed0586727237b0419a77f186c0e6534e25148a5"
+    },
+    {
+      "id": "PUB-0124",
+      "title": "Job Brain: Finding a Simpler Way to Organize My Business",
+      "section": "applications",
+      "path": "applications/job-brain/overview.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell developed Job Brain to organize construction-business notes, jobs, entities, and commitments through a mobile interface and AI-backed retrieval. He shifted his focus to a lighter business workflow built around Markdown, Obsidian, Codex, reusable skills, and scripts, carrying forward the emphasis on preserving sources, retaining context, and making answers traceable.",
+      "tags": [
+        "job-brain",
+        "business-automation",
+        "software-development",
+        "markdown-workflows",
+        "ai-assisted-development",
+        "knowledge-management"
+      ],
+      "wordCount": 1141,
+      "contentSha256": "4836c52b5c33d20660661d4c7116f3def014b6e4dad0fe8b3f22418e6a8d4d07",
+      "role": "Business owner and application developer"
     }
   ],
   "summaryVersion": 1

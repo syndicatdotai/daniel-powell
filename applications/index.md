@@ -13,5 +13,6 @@ Software applications and their development.
 - [PUB-0109 — Building Blackout: A Cooperative Game with Two Different Views](blackout/overview.md)
 - [PUB-0112 — Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems](exfiltrate/overview.md)
 - [PUB-0122 — Mech Division: An Early Experiment in Automated Game Development](mech-division/overview.md)
+- [PUB-0124 — Job Brain: Finding a Simpler Way to Organize My Business](job-brain/overview.md)
 
 [Complete index](../INDEX.md) · [About Daniel Powell](../ABOUT.md)
