@@ -2380,7 +2380,7 @@
       "section": "business-automation",
       "path": "business-automation/PUB-0134-browser-automation-for-business-research.md",
       "legacyPaths": [],
-      "summary": "Daniel Powell used ChatGPT and Cursor to develop browser automation and Python data-preparation tools for public business research. JavaScript and Playwright collected information; supporting utilities selected fields, consolidated nested records, and organized individual business files. The work connected collection with structured inputs for summaries, published profiles, and a browsable business reference library.",
+      "summary": "Daniel Powell used ChatGPT and Cursor to develop browser automation and Python tools for public business research. JavaScript and Playwright collected information; utilities selected fields, consolidated records, compared lists by exact business names, and organized individual files. The work supplied structured inputs for summaries, published profiles, and a browsable reference library.",
       "tags": [
         "browser-automation",
         "business-research",
@@ -2391,8 +2391,8 @@
         "python",
         "playwright"
       ],
-      "wordCount": 1763,
-      "contentSha256": "67f46ea077bbd2e1cd2f7166d9cfec7d98243b13dca82aafa498be2909f02e0c"
+      "wordCount": 1889,
+      "contentSha256": "2dbf5564c64c185c6b38a1b5c31226d515b050dc08df2fde7da6274f55c6a3b1"
     },
     {
       "id": "PUB-0135",

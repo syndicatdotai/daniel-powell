@@ -90,6 +90,14 @@ That behavior made the consolidation process inspectable. The code established h
 
 Source accuracy and questions about whether two differently named businesses represented the same organization remained separate research decisions. The preparation tool handled the organization of the collected fields.
 
+## Comparing Coverage Across Collected Lists
+
+Alongside the collection and preparation tools, I developed a Python utility to compare two collections of business records. It identified business names present in both files and names appearing in only one.
+
+The tool reduced the comparison to a focused set of fields: business name, record index, and category. It saved a JSON report containing counts, shared names, and the records unique to each input. That provided a way to examine differences between collected lists without carrying all the detailed source material into the report.
+
+The matching rule used exact business names. Differences in spelling or naming therefore remained relevant when interpreting the results. The report made overlap and differences visible according to that rule, providing an input for further review.
+
 ## Organizing a Library Around Individual Businesses
 
 Another utility separated a larger business collection into individual JSON files, placing each business in its own folder.
