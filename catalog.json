@@ -2387,6 +2387,25 @@
       ],
       "wordCount": 1763,
       "contentSha256": "67f46ea077bbd2e1cd2f7166d9cfec7d98243b13dca82aafa498be2909f02e0c"
+    },
+    {
+      "id": "PUB-0135",
+      "title": "Using Python and the OpenAI API to Generate Structured Business Content",
+      "section": "business-automation",
+      "path": "business-automation/PUB-0135-python-openai-structured-business-content.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell used ChatGPT and Cursor to develop a Python workflow that sent prepared business records to the OpenAI API and saved structured content for later publishing. The account covers prompts, named output fields, response parsing, local processing, separate source and content files, batch discovery, and targeted rewrites while distinguishing structural checks from factual review.",
+      "tags": [
+        "ai-implementation",
+        "content-workflows",
+        "openai-api",
+        "python",
+        "structured-content",
+        "prompt-design",
+        "workflow-automation"
+      ],
+      "wordCount": 1120,
+      "contentSha256": "13c54542e3859037a601be4110e43bcf447f2c6b33fc356bc86ddab8faa79b65"
     }
   ],
   "summaryVersion": 1

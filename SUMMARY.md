@@ -302,6 +302,10 @@ Daniel Powell used AI to organize prospect research, audience-specific outreach,
 
 Daniel Powell used ChatGPT and Cursor to develop browser automation and Python data-preparation tools for public business research. JavaScript and Playwright collected information; supporting utilities selected fields, consolidated nested records, and organized individual business files. The work connected collection with structured inputs for summaries, published profiles, and a browsable business reference library.
 
+### PUB-0135 — [Using Python and the OpenAI API to Generate Structured Business Content](business-automation/PUB-0135-python-openai-structured-business-content.md)
+
+Daniel Powell used ChatGPT and Cursor to develop a Python workflow that sent prepared business records to the OpenAI API and saved structured content for later publishing. The account covers prompts, named output fields, response parsing, local processing, separate source and content files, batch discovery, and targeted rewrites while distinguishing structural checks from factual review.
+
 ## Applications
 
 Software applications and their development.
