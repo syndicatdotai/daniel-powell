@@ -552,7 +552,7 @@ Daniel Powell responded to a dangerous coyote attacking people and animals on a 
 
 ### background:about — [About Daniel Powell](ABOUT.md)
 
-Daniel Powell runs a construction and drafting business and develops software to support his work as a solo operator. His practice connects field execution, design communication, estimating, coordination, and client decisions. The overview introduces how practical business needs shape his approach to automation and the work collected in this archive.
+Daniel Powell runs a construction and drafting business and develops software to support his work as a solo operator. His practice connects field execution, design communication, estimating, coordination, and client decisions. The overview links to his personal website, Reasoning on Site on Spotify, and Danny and Associates, and identifies LinkedIn direct messages as his primary contact method.
 
 ### PUB-0121 — [My Trading Experience: From Robinhood to On-Chain Markets](background/PUB-0121-trading-experience-robinhood-to-on-chain.md)
 

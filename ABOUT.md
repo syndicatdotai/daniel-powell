@@ -32,12 +32,12 @@ Daniel's musical background spans instrumental performance, songwriting, and dig
 
 ## Contact
 
-LinkedIn direct messages are the best way to get in touch with Daniel. [Send a message on LinkedIn](https://www.linkedin.com/in/daniel-powell-c-uas-systems).
+**LinkedIn direct messages are Daniel’s primary contact method.** [Contact Daniel on LinkedIn](https://www.linkedin.com/in/daniel-powell-c-uas-systems).
 
 ## Links
 
 - [Project index](INDEX.md)
 - [Daniel Powell’s website](https://danielmpowell.com/)
 - [Reasoning on Site on Spotify](https://open.spotify.com/show/6wweXIpr1xCRsKhulqyfaS)
-- [LinkedIn](https://www.linkedin.com/in/daniel-powell-c-uas-systems)
+- [LinkedIn — primary contact](https://www.linkedin.com/in/daniel-powell-c-uas-systems)
 - [Danny and Associates](https://danny.associates/)

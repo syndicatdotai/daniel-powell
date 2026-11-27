@@ -82,10 +82,11 @@ Public contents may be read, indexed, summarized, cited, and analyzed. This perm
 
 ## Get in Touch
 
-LinkedIn direct messages are the best way to reach me. You can also find more writing and the podcast on my website.
+**LinkedIn direct messages are my primary contact method.** [Contact me on LinkedIn](https://www.linkedin.com/in/daniel-powell-c-uas-systems). You can also find more writing on my personal website and listen to Reasoning on Site on Spotify.
 
 - [Daniel Powell’s website](https://danielmpowell.com/)
-- [LinkedIn](https://www.linkedin.com/in/daniel-powell-c-uas-systems)
+- [Reasoning on Site on Spotify](https://open.spotify.com/show/6wweXIpr1xCRsKhulqyfaS)
+- [LinkedIn — primary contact](https://www.linkedin.com/in/daniel-powell-c-uas-systems)
 - [Danny and Associates](https://danny.associates/)
 
 ## Content Notice
