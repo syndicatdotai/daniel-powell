@@ -2288,6 +2288,24 @@
       ],
       "wordCount": 657,
       "contentSha256": "0078931a3615ece77bfd06fb154e6dde4d4cda1dac0d864ea4dda027362a7a95"
+    },
+    {
+      "id": "PUB-0130",
+      "title": "Regional Travel and Specialty Construction Support for Telecommunications Projects",
+      "section": "construction",
+      "path": "construction/PUB-0130-regional-travel-specialty-construction.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell travels from Higganum, Connecticut, for specialty construction assignments across New England and New York, including contractor-led Verizon and T-Mobile projects. He plans materials, local sourcing, access, and overnight logistics. A Connecticut mountaintop generator replacement illustrates his carpentry role: temporarily removing and restoring barricades and supporting electricians while other crews handled transport and electrical work.",
+      "tags": [
+        "regional-construction",
+        "specialty-carpentry",
+        "telecommunications-projects",
+        "remote-site-access",
+        "material-logistics",
+        "contractor-networks"
+      ],
+      "wordCount": 1048,
+      "contentSha256": "081d9a00af28bc880b26bb137bcd3aa67fed7e9b375b0419cf6f2eb8debc3eb6"
     }
   ],
   "summaryVersion": 1

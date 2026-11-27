@@ -462,6 +462,10 @@ Daniel Powell used ChatGPT on his phone to build a browser-based concrete calcul
 
 Daniel Powell coordinated crane access and material loading for a multistory fire-rated shaft enclosure around Verizon infrastructure. The assignment connected a site visit, scheduling with the crane’s primary user, and upper-floor material delivery with framing, drywall installation, and taping. The enclosure spanned two floors around components continuing through the roof, with installation completed the following day.
 
+### PUB-0130 — [Regional Travel and Specialty Construction Support for Telecommunications Projects](construction/PUB-0130-regional-travel-specialty-construction.md)
+
+Daniel Powell travels from Higganum, Connecticut, for specialty construction assignments across New England and New York, including contractor-led Verizon and T-Mobile projects. He plans materials, local sourcing, access, and overnight logistics. A Connecticut mountaintop generator replacement illustrates his carpentry role: temporarily removing and restoring barricades and supporting electricians while other crews handled transport and electrical work.
+
 ## Research
 
 Research projects and technical investigations.
