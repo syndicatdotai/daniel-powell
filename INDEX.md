@@ -78,6 +78,7 @@ Business operations, automation, documentation, and media production.
 | PUB-0086 | [Nightly Research That Fills Gaps in My Knowledge Vault](workflows/PUB-0086-knowledge-vault-research.md) |
 | PUB-0111 | [Preparing Drawing PDFs and Printed Documents Through Codex Remote](workflows/PUB-0111-remote-drawing-export-and-printing.md) |
 | PUB-0117 | [Keeping Job Conditions and Notes in Obsidian](workflows/PUB-0117-job-conditions-and-notes.md) |
+| PUB-0123 | [Using AI to Write Reusable Website Extraction Scripts](workflows/PUB-0123-reusable-website-extraction-scripts.md) |
 
 ## Applications
 

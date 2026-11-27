@@ -282,6 +282,10 @@ Remote document work extends from preparation through to a file or printed packa
 
 I use Obsidian as an ongoing record of my construction jobs. Each job has its own Markdown file, with related photos, drawings, and supporting documents stored alongside it. The notes develop as the work progresses. An initial scope might come from an email or a phone call.
 
+### PUB-0123 — [Using AI to Write Reusable Website Extraction Scripts](workflows/PUB-0123-reusable-website-extraction-scripts.md)
+
+Daniel Powell uses AI to write reusable JavaScript for extracting website content through Chrome DevTools. He specifies the information and desired output format, including CSV and Markdown, and saves useful scripts for later. The workflow offers a focused alternative to browser navigation through a chat interface for defined extraction tasks.
+
 ## Applications
 
 Software applications and their development.

@@ -2160,6 +2160,24 @@
       ],
       "wordCount": 411,
       "contentSha256": "82c3645035a341466e06d31f7c80d3c9cd8e1756da452fb7a40644d760f1849e"
+    },
+    {
+      "id": "PUB-0123",
+      "title": "Using AI to Write Reusable Website Extraction Scripts",
+      "section": "workflows",
+      "path": "workflows/PUB-0123-reusable-website-extraction-scripts.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell uses AI to write reusable JavaScript for extracting website content through Chrome DevTools. He specifies the information and desired output format, including CSV and Markdown, and saves useful scripts for later. The workflow offers a focused alternative to browser navigation through a chat interface for defined extraction tasks.",
+      "tags": [
+        "javascript",
+        "chrome-devtools",
+        "web-extraction",
+        "csv",
+        "markdown",
+        "ai-assisted-development"
+      ],
+      "wordCount": 861,
+      "contentSha256": "e0900ac876b76b872eb4abe87ed0586727237b0419a77f186c0e6534e25148a5"
     }
   ],
   "summaryVersion": 1
