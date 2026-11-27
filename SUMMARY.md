@@ -497,3 +497,7 @@ Daniel Powell responded to a dangerous coyote attacking people and animals on a 
 ### background:about — [About Daniel Powell](ABOUT.md)
 
 Daniel Powell runs a construction and drafting business and develops software to support his work as a solo operator. His practice connects field execution, design communication, estimating, coordination, and client decisions. The overview introduces how practical business needs shape his approach to automation and the work collected in this archive.
+
+### PUB-0121 — [My Trading Experience: From Robinhood to On-Chain Markets](background/PUB-0121-trading-experience-robinhood-to-on-chain.md)
+
+Daniel Powell describes his trading experience from Robinhood in 2016 through cryptocurrency exchanges, margin trading, NFTs, and decentralized finance. The account covers transfers using Litecoin, self-custody with Phantom, Solana applications, position sizing, and his final MELANIA trade in January 2025. It follows his transition from active trading to monitoring markets without holding trading positions.

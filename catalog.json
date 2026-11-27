@@ -2060,6 +2060,25 @@
       "wordCount": 972,
       "contentSha256": "12f7d65fbd2fd02a432e08f90a8e2e7130bbc75e5048b87db3666111feac4378",
       "role": "Owner, renovator, and trade coordinator"
+    },
+    {
+      "id": "PUB-0121",
+      "title": "My Trading Experience: From Robinhood to On-Chain Markets",
+      "section": "background",
+      "path": "background/PUB-0121-trading-experience-robinhood-to-on-chain.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell describes his trading experience from Robinhood in 2016 through cryptocurrency exchanges, margin trading, NFTs, and decentralized finance. The account covers transfers using Litecoin, self-custody with Phantom, Solana applications, position sizing, and his final MELANIA trade in January 2025. It follows his transition from active trading to monitoring markets without holding trading positions.",
+      "tags": [
+        "cryptocurrency",
+        "trading",
+        "self-custody",
+        "decentralized-finance",
+        "market-analysis",
+        "nft-trading"
+      ],
+      "period": "2016–November 2026",
+      "wordCount": 2540,
+      "contentSha256": "decfadd9dbcb024edf5aca907eece4715612e9669b0b5e954be146bd5a0fa744"
     }
   ],
   "summaryVersion": 1

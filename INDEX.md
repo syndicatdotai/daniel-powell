@@ -168,3 +168,4 @@ Personal history, career, education, credentials, and field accounts.
 | Background | [Musical Background and Production](background/music.md) |
 | Background | [Responding to a Rabid Coyote on a Connecticut Farm](background/responding-to-a-dangerous-wildlife-incident.md) |
 | Background | [About Daniel Powell](ABOUT.md) |
+| PUB-0121 | [My Trading Experience: From Robinhood to On-Chain Markets](background/PUB-0121-trading-experience-robinhood-to-on-chain.md) |
