@@ -302,6 +302,10 @@ I developed Blackout as a browser game built around asymmetric cooperation. Two 
 
 Daniel Powell is developing Exfiltrate, a browser-based drone salvage game with a public Vercel build. He directs its mechanics and interface and uses AI-assisted development for implementation, testing, architecture, and authoring tools. The project combines physical cargo handling, Host storage and fabrication, interacting station systems, and sensing that separates world state from player knowledge.
 
+### PUB-0122 — [Mech Division: An Early Experiment in Automated Game Development](applications/mech-division/overview.md)
+
+Daniel Powell developed Mech Division as an early experiment in scheduled AI game development. A recurring instruction loop selected tasks, implemented features, ran checks, and recorded the next step. The result included five campaign missions, progression, abilities, enemies, and editing tools. He considers the experiment partially successful: playable output, but insufficient overall quality and direction for a finished game.
+
 ## Construction
 
 Construction assignments, drafting, coordination, and project delivery.

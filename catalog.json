@@ -2079,6 +2079,24 @@
       "period": "2016–November 2026",
       "wordCount": 2540,
       "contentSha256": "decfadd9dbcb024edf5aca907eece4715612e9669b0b5e954be146bd5a0fa744"
+    },
+    {
+      "id": "PUB-0122",
+      "title": "Mech Division: An Early Experiment in Automated Game Development",
+      "section": "applications",
+      "path": "applications/mech-division/overview.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell developed Mech Division as an early experiment in scheduled AI game development. A recurring instruction loop selected tasks, implemented features, ran checks, and recorded the next step. The result included five campaign missions, progression, abilities, enemies, and editing tools. He considers the experiment partially successful: playable output, but insufficient overall quality and direction for a finished game.",
+      "tags": [
+        "game-development",
+        "ai-assisted-development",
+        "workflow-automation",
+        "campaign-progression",
+        "browser-game",
+        "automated-testing"
+      ],
+      "wordCount": 1268,
+      "contentSha256": "fe2ea515103bbcb10b197bb3c8e79399e13e03c94fdcb09e86ffd0a382a4fd24"
     }
   ],
   "summaryVersion": 1

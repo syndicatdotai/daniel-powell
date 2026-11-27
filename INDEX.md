@@ -89,6 +89,7 @@ Software applications and their development.
 | PUB-0108 | [Building an Architectural Client Intake Application](applications/client-intake/overview.md) |
 | PUB-0109 | [Building Blackout: A Cooperative Game with Two Different Views](applications/blackout/overview.md) |
 | PUB-0112 | [Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems](applications/exfiltrate/overview.md) |
+| PUB-0122 | [Mech Division: An Early Experiment in Automated Game Development](applications/mech-division/overview.md) |
 
 ## Construction
 
