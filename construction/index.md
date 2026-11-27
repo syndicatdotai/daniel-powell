@@ -35,5 +35,6 @@ Construction assignments, drafting, coordination, and project delivery.
 - [PUB-0129 — Coordinating Crane Access and Construction of a Multistory Fire-Rated Shaft for Verizon Infrastructure](PUB-0129-verizon-shaft-wall-crane-coordination.md)
 - [PUB-0130 — Regional Travel and Specialty Construction Support for Telecommunications Projects](PUB-0130-regional-travel-specialty-construction.md)
 - [PUB-0131 — Coordinating Multiple Trades Under a Compressed Schedule at Seabury](PUB-0131-seabury-compressed-schedule-trade-coordination.md)
+- [PUB-0132 — Cross-Functional Project Delivery at Infinity Group](PUB-0132-infinity-group-cross-functional-project-delivery.md)
 
 [Complete index](../INDEX.md) · [About Daniel Powell](../ABOUT.md)

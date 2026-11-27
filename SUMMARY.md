@@ -470,6 +470,10 @@ Daniel Powell travels from Higganum, Connecticut, for specialty construction ass
 
 Daniel Powell coordinated overlapping trade work during an Infinity Group renovation at Seabury, an occupied retirement community. A compressed schedule brought electrical, low-voltage, framing, drywall, fireproofing, sprinkler, and HVAC crews into approximately 4,000 square feet. His account describes securing subcontractor availability, coordinating shared space, addressing frustration, and maintaining communication around the project deadline and occupied-building requirements.
 
+### PUB-0132 — [Cross-Functional Project Delivery at Infinity Group](construction/PUB-0132-infinity-group-cross-functional-project-delivery.md)
+
+Daniel Powell describes extending his on-site project-management role at Infinity Group into scope clarification, scheduling, CRM presentation improvements, preconstruction pricing support, and client-facing material-selection documents. His contributions connected implementation with estimating and design communication, addressing immediate project needs while keeping customer requirements and contractual scope in view.
+
 ## Research
 
 Research projects and technical investigations.
