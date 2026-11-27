@@ -2450,6 +2450,24 @@
       ],
       "wordCount": 705,
       "contentSha256": "71755ed3e77f4b8d8ddbbebc36026aef1ba7c8d32535a0faa7afb4854b352f98"
+    },
+    {
+      "id": "PUB-0138",
+      "title": "An Early AI Experiment in Generating Creative Excuses",
+      "section": "ai-experiments",
+      "path": "ai-experiments/PUB-0138-local-ai-creative-excuse-generator.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell built a private local application that used outbound OpenAI API requests to generate brief, humorous excuses. Fixed prompts asked GPT-3.5 Turbo to balance initial plausibility with obvious fabrication. A local Express server and browser interface handled responses and errors. A separate button opened an X composer for user review. The application was not exposed online.",
+      "tags": [
+        "ai-experiments",
+        "prompt-design",
+        "computational-humor",
+        "openai-api",
+        "javascript",
+        "web-prototyping"
+      ],
+      "wordCount": 560,
+      "contentSha256": "f981270adb8be46b2b99ef52b2cede105ef64de74803cc0a63c4e1c19ba8e6c2"
     }
   ],
   "summaryVersion": 1

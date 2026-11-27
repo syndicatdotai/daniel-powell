@@ -589,3 +589,7 @@ Daniel Powell built an unpublished counter-drone scenario experiment using the O
 ### PUB-0137 — [An Ongoing Experiment in AI-Generated Construction Satire](ai-experiments/PUB-0137-ai-generated-construction-satire.md)
 
 Daniel Powell is developing an OpenAI API experiment in short construction-industry satire. The application combines descriptive inputs, scenarios, tone settings, and output limits. He estimates roughly 10–20% of results are usable and funny, while other outputs offer premises needing development. The ongoing work examines the difficulty of translating industry knowledge and abstraction into effective humor.
+
+### PUB-0138 — [An Early AI Experiment in Generating Creative Excuses](ai-experiments/PUB-0138-local-ai-creative-excuse-generator.md)
+
+Daniel Powell built a private local application that used outbound OpenAI API requests to generate brief, humorous excuses. Fixed prompts asked GPT-3.5 Turbo to balance initial plausibility with obvious fabrication. A local Express server and browser interface handled responses and errors. A separate button opened an X composer for user review. The application was not exposed online.
