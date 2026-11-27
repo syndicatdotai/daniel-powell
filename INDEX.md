@@ -194,3 +194,11 @@ Personal history, career, education, credentials, and field accounts.
 | Background | [Responding to a Rabid Coyote on a Connecticut Farm](background/responding-to-a-dangerous-wildlife-incident.md) |
 | Background | [About Daniel Powell](ABOUT.md) |
 | PUB-0121 | [My Trading Experience: From Robinhood to On-Chain Markets](background/PUB-0121-trading-experience-robinhood-to-on-chain.md) |
+
+## AI Experiments
+
+Experiments in AI roles, automation, and evaluation, with their methods, outputs, and development status.
+
+| Reference | Article |
+|---|---|
+| PUB-0136 | [Testing Counter-Drone Scenarios with an Adversary, a Defender, and a Judge](ai-experiments/PUB-0136-counter-uas-scenario-experiment.md) |

@@ -577,3 +577,11 @@ Daniel Powell runs a construction and drafting business and develops software to
 ### PUB-0121 — [My Trading Experience: From Robinhood to On-Chain Markets](background/PUB-0121-trading-experience-robinhood-to-on-chain.md)
 
 Daniel Powell describes his trading experience from Robinhood in 2016 through cryptocurrency exchanges, margin trading, NFTs, and decentralized finance. The account covers transfers using Litecoin, self-custody with Phantom, Solana applications, position sizing, and his final MELANIA trade in January 2025. It follows his transition from active trading to monitoring markets without holding trading positions.
+
+## AI Experiments
+
+Experiments in AI roles, automation, and evaluation, with their methods, outputs, and development status.
+
+### PUB-0136 — [Testing Counter-Drone Scenarios with an Adversary, a Defender, and a Judge](ai-experiments/PUB-0136-counter-uas-scenario-experiment.md)
+
+Daniel Powell built an unpublished counter-drone scenario experiment using the OpenAI API. Separate adversarial, defensive, and judge roles generated hypothetical incidents, developed responses under scenario-specific environmental and authority constraints, and compared likely outcomes. Daniel controlled the information passed to the defender. The work explored role-based AI evaluation through simulated accounts.

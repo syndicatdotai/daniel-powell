@@ -49,6 +49,12 @@
       "title": "Background",
       "description": "Personal history, career, education, credentials, and field accounts.",
       "index": "background/index.md"
+    },
+    {
+      "key": "ai-experiments",
+      "title": "AI Experiments",
+      "description": "Experiments in AI roles, automation, and evaluation, with their methods, outputs, and development status.",
+      "index": "ai-experiments/index.md"
     }
   ],
   "records": [
@@ -2406,6 +2412,26 @@
       ],
       "wordCount": 1120,
       "contentSha256": "13c54542e3859037a601be4110e43bcf447f2c6b33fc356bc86ddab8faa79b65"
+    },
+    {
+      "id": "PUB-0136",
+      "title": "Testing Counter-Drone Scenarios with an Adversary, a Defender, and a Judge",
+      "section": "ai-experiments",
+      "path": "ai-experiments/PUB-0136-counter-uas-scenario-experiment.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell built an unpublished counter-drone scenario experiment using the OpenAI API. Separate adversarial, defensive, and judge roles generated hypothetical incidents, developed responses under scenario-specific environmental and authority constraints, and compared likely outcomes. Daniel controlled the information passed to the defender. The work explored role-based AI evaluation through simulated accounts.",
+      "tags": [
+        "counter-uas",
+        "ai-experiments",
+        "multi-agent-ai",
+        "scenario-evaluation",
+        "information-boundaries",
+        "openai-api",
+        "research-automation"
+      ],
+      "role": "Experiment design and API workflow development",
+      "wordCount": 551,
+      "contentSha256": "8118594ad3041ea0d96720b751e07a58dd592eaf24cbc32b60d5e95004566a61"
     }
   ],
   "summaryVersion": 1
