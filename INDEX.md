@@ -136,6 +136,7 @@ Construction assignments, drafting, coordination, and project delivery.
 | PUB-0127 | [A Two-Hour Construction Application: Concrete Quantities and Visualization Built from a Phone](construction/PUB-0127-concrete-calculator-and-visualization.md) |
 | PUB-0129 | [Coordinating Crane Access and Construction of a Multistory Fire-Rated Shaft for Verizon Infrastructure](construction/PUB-0129-verizon-shaft-wall-crane-coordination.md) |
 | PUB-0130 | [Regional Travel and Specialty Construction Support for Telecommunications Projects](construction/PUB-0130-regional-travel-specialty-construction.md) |
+| PUB-0131 | [Coordinating Multiple Trades Under a Compressed Schedule at Seabury](construction/PUB-0131-seabury-compressed-schedule-trade-coordination.md) |
 
 ## Research
 

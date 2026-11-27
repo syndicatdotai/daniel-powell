@@ -2306,6 +2306,24 @@
       ],
       "wordCount": 1048,
       "contentSha256": "081d9a00af28bc880b26bb137bcd3aa67fed7e9b375b0419cf6f2eb8debc3eb6"
+    },
+    {
+      "id": "PUB-0131",
+      "title": "Coordinating Multiple Trades Under a Compressed Schedule at Seabury",
+      "section": "construction",
+      "path": "construction/PUB-0131-seabury-compressed-schedule-trade-coordination.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell coordinated overlapping trade work during an Infinity Group renovation at Seabury, an occupied retirement community. A compressed schedule brought electrical, low-voltage, framing, drywall, fireproofing, sprinkler, and HVAC crews into approximately 4,000 square feet. His account describes securing subcontractor availability, coordinating shared space, addressing frustration, and maintaining communication around the project deadline and occupied-building requirements.",
+      "tags": [
+        "trade-coordination",
+        "construction-scheduling",
+        "field-leadership",
+        "occupied-renovation",
+        "subcontractor-management",
+        "seabury"
+      ],
+      "wordCount": 859,
+      "contentSha256": "b8e7b3c59b22e65f3fd4e67be7f30c638e89741021d50513744c83018dfb440c"
     }
   ],
   "summaryVersion": 1

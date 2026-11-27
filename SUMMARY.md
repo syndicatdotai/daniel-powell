@@ -466,6 +466,10 @@ Daniel Powell coordinated crane access and material loading for a multistory fir
 
 Daniel Powell travels from Higganum, Connecticut, for specialty construction assignments across New England and New York, including contractor-led Verizon and T-Mobile projects. He plans materials, local sourcing, access, and overnight logistics. A Connecticut mountaintop generator replacement illustrates his carpentry role: temporarily removing and restoring barricades and supporting electricians while other crews handled transport and electrical work.
 
+### PUB-0131 — [Coordinating Multiple Trades Under a Compressed Schedule at Seabury](construction/PUB-0131-seabury-compressed-schedule-trade-coordination.md)
+
+Daniel Powell coordinated overlapping trade work during an Infinity Group renovation at Seabury, an occupied retirement community. A compressed schedule brought electrical, low-voltage, framing, drywall, fireproofing, sprinkler, and HVAC crews into approximately 4,000 square feet. His account describes securing subcontractor availability, coordinating shared space, addressing frustration, and maintaining communication around the project deadline and occupied-building requirements.
+
 ## Research
 
 Research projects and technical investigations.
