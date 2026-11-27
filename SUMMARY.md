@@ -298,9 +298,9 @@ Practical accounts of using AI, software, and structured workflows to support bu
 
 Daniel Powell used AI to organize prospect research, audience-specific outreach, communication preparation, and working records for his business. Related ChatGPT and Cursor experiments developed Python and JavaScript tools for browser automation, data processing, validation, and summarization. This retrospective connects AI implementation with business operations, process improvement, and workflow automation across separate research and outreach projects.
 
-### PUB-0134 — [Developing Browser Automation with AI for Business Research](business-automation/PUB-0134-browser-automation-for-business-research.md)
+### PUB-0134 — [Developing AI-Assisted Business Research Tools: From Browser Automation to a Reference Library](business-automation/PUB-0134-browser-automation-for-business-research.md)
 
-Daniel Powell used ChatGPT and Cursor to develop custom browser automation for collecting and organizing public business information. JavaScript console scripts and a Python/Playwright collector produced structured JSON records. The account examines requirements definition, browser interaction, configuration, logging, and data processing as practical experience in business research, AI implementation, and workflow automation.
+Daniel Powell used ChatGPT and Cursor to develop browser automation and Python data-preparation tools for public business research. JavaScript and Playwright collected information; supporting utilities selected fields, consolidated nested records, and organized individual business files. The work connected collection with structured inputs for summaries, published profiles, and a browsable business reference library.
 
 ## Applications
 

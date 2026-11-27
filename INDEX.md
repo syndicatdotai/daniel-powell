@@ -88,7 +88,7 @@ Practical accounts of using AI, software, and structured workflows to support bu
 | Reference | Article |
 |---|---|
 | PUB-0133 | [Using AI to Build a Business Development and Outreach Workflow](business-automation/PUB-0133-ai-assisted-business-development-and-outreach.md) |
-| PUB-0134 | [Developing Browser Automation with AI for Business Research](business-automation/PUB-0134-browser-automation-for-business-research.md) |
+| PUB-0134 | [Developing AI-Assisted Business Research Tools: From Browser Automation to a Reference Library](business-automation/PUB-0134-browser-automation-for-business-research.md) |
 
 ## Applications
 
