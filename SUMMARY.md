@@ -442,6 +442,10 @@ Around 2012, Daniel Powell guided a general contractor through assembly selectio
 
 Daniel Powell purchased and extensively renovated an early-1900s house, performing most construction and finishing work over approximately three to four years. The project combined structural alterations, renewed services, restored floors, custom interiors, porch conversions, and coordination with licensed trades. He lived in the property during the renovation and later sold it for twice its original purchase price.
 
+### PUB-0125 — [Ventfort Hall: From a Family Visit to Historic Building Research](construction/PUB-0125-ventfort-hall-historic-building-research.md)
+
+Daniel Powell contributes volunteer technical advice to Ventfort Hall's Buildings and Grounds work. An attic observation led to AI-assisted research into historic back plastering, comparing period construction literature with site conditions and restoration history. He prepared a sourced assessment and shared it with Ventfort Hall's board of directors and staff.
+
 ## Research
 
 Research projects and technical investigations.

@@ -2197,6 +2197,25 @@
       "wordCount": 1141,
       "contentSha256": "4836c52b5c33d20660661d4c7116f3def014b6e4dad0fe8b3f22418e6a8d4d07",
       "role": "Business owner and application developer"
+    },
+    {
+      "id": "PUB-0125",
+      "title": "Ventfort Hall: From a Family Visit to Historic Building Research",
+      "section": "construction",
+      "path": "construction/PUB-0125-ventfort-hall-historic-building-research.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell contributes volunteer technical advice to Ventfort Hall's Buildings and Grounds work. An attic observation led to AI-assisted research into historic back plastering, comparing period construction literature with site conditions and restoration history. He prepared a sourced assessment and shared it with Ventfort Hall's board of directors and staff.",
+      "tags": [
+        "historic-preservation",
+        "ventfort-hall",
+        "building-investigation",
+        "historic-plaster",
+        "ai-assisted-research",
+        "volunteer-advisory"
+      ],
+      "wordCount": 1017,
+      "contentSha256": "9796c0c450a2f64dfc34585c54115556d49118205f9899b29342bef57db54aed",
+      "role": "Volunteer technical adviser and construction researcher"
     }
   ],
   "summaryVersion": 1

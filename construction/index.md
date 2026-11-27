@@ -29,5 +29,6 @@ Construction assignments, drafting, coordination, and project delivery.
 - [PUB-0118 — Reconfiguring a Commercial Office and Building Eight Custom Workstations](PUB-0118-commercial-office-remodel-custom-workstations.md)
 - [PUB-0119 — Goodspeed Opera House: Assembly Selection and Installation for a Warehouse Fire Separation](PUB-0119-goodspeed-opera-house-warehouse-fire-separation.md)
 - [PUB-0120 — Rebuilding a House While Living Through the Renovation](PUB-0120-personal-house-renovation.md)
+- [PUB-0125 — Ventfort Hall: From a Family Visit to Historic Building Research](PUB-0125-ventfort-hall-historic-building-research.md)
 
 [Complete index](../INDEX.md) · [About Daniel Powell](../ABOUT.md)
