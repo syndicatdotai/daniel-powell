@@ -10,6 +10,8 @@ Experiments in AI roles, automation, and evaluation, with their methods, outputs
 
 - [PUB-0143 — Walking Through Blueprints in Augmented Reality Before the Tools Were Ready](PUB-0143-full-scale-blueprint-augmented-reality.md)
 
+- [PUB-0145 — Building a Time-Tracking Application for a Small Manufacturer](PUB-0145-small-manufacturer-time-tracking-application.md)
+
 Related research: [Developing a Counter-UAS Research Catalog](../research/PUB-0113-developing-a-counter-uas-research-catalog.md)
 
 [Complete index](../INDEX.md) · [About Daniel Powell](../ABOUT.md)

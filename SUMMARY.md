@@ -629,3 +629,7 @@ Daniel Powell built a private local application that used outbound OpenAI API re
 ### PUB-0143 — [Walking Through Blueprints in Augmented Reality Before the Tools Were Ready](ai-experiments/PUB-0143-full-scale-blueprint-augmented-reality.md)
 
 Daniel Powell developed an early browser-based experiment for viewing his architectural drawings at full scale and attempting placement in augmented reality. AI-assisted development encountered persistent debugging problems, while phone tracking and viewing limitations affected usability. Cold walk-ins to roughly six architecture firms produced interest from about three and feedback favoring richer three-dimensional environments. The project remained experimental.
+
+### PUB-0145 — [Building a Time-Tracking Application for a Small Manufacturer](ai-experiments/PUB-0145-small-manufacturer-time-tracking-application.md)
+
+Daniel Powell used AI and ChatGPT Sites to build, test, and deliver a time-tracking application for a small Connecticut manufacturer with approximately four employees. A shared office tablet supports employee clock-in and clock-out actions, while a separate owner panel shows attendance and recorded hours. Requirements, interface review, testing, and production delivery took approximately two hours.

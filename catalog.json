@@ -2623,6 +2623,24 @@
       "period": "2017",
       "wordCount": 559,
       "contentSha256": "7ad8fbb24ed2f33b6c6f2c4d8716144a846fac0ffd749f8a04dd4a308c7529ea"
+    },
+    {
+      "id": "PUB-0145",
+      "title": "Building a Time-Tracking Application for a Small Manufacturer",
+      "section": "ai-experiments",
+      "path": "ai-experiments/PUB-0145-small-manufacturer-time-tracking-application.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell used AI and ChatGPT Sites to build, test, and deliver a time-tracking application for a small Connecticut manufacturer with approximately four employees. A shared office tablet supports employee clock-in and clock-out actions, while a separate owner panel shows attendance and recorded hours. Requirements, interface review, testing, and production delivery took approximately two hours.",
+      "tags": [
+        "ai-assisted-development",
+        "chatgpt-sites",
+        "time-tracking",
+        "manufacturing",
+        "tablet-interface",
+        "access-roles"
+      ],
+      "wordCount": 584,
+      "contentSha256": "13750bc51681533f9f924a05180c2ba8d34c99c4282dcc39e057b4c014402c08"
     }
   ],
   "summaryVersion": 1
