@@ -617,3 +617,7 @@ Daniel Powell is developing an OpenAI API experiment in short construction-indus
 ### PUB-0138 — [An Early AI Experiment in Generating Creative Excuses](ai-experiments/PUB-0138-local-ai-creative-excuse-generator.md)
 
 Daniel Powell built a private local application that used outbound OpenAI API requests to generate brief, humorous excuses. Fixed prompts asked GPT-3.5 Turbo to balance initial plausibility with obvious fabrication. A local Express server and browser interface handled responses and errors. A separate button opened an X composer for user review. The application was not exposed online.
+
+### PUB-0143 — [Walking Through Blueprints in Augmented Reality Before the Tools Were Ready](ai-experiments/PUB-0143-full-scale-blueprint-augmented-reality.md)
+
+Daniel Powell developed an early browser-based experiment for viewing his architectural drawings at full scale and attempting placement in augmented reality. AI-assisted development encountered persistent debugging problems, while phone tracking and viewing limitations affected usability. Cold walk-ins to roughly six architecture firms produced interest from about three and feedback favoring richer three-dimensional environments. The project remained experimental.

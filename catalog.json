@@ -2568,6 +2568,24 @@
       ],
       "wordCount": 1242,
       "contentSha256": "f7b34b420d62994c2687cbb5bafe0172deeadf065ddb5acbf2b5fef6667c2711"
+    },
+    {
+      "id": "PUB-0143",
+      "title": "Walking Through Blueprints in Augmented Reality Before the Tools Were Ready",
+      "section": "ai-experiments",
+      "path": "ai-experiments/PUB-0143-full-scale-blueprint-augmented-reality.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell developed an early browser-based experiment for viewing his architectural drawings at full scale and attempting placement in augmented reality. AI-assisted development encountered persistent debugging problems, while phone tracking and viewing limitations affected usability. Cold walk-ins to roughly six architecture firms produced interest from about three and feedback favoring richer three-dimensional environments. The project remained experimental.",
+      "tags": [
+        "augmented-reality",
+        "architectural-drafting",
+        "browser-prototype",
+        "ai-assisted-development",
+        "customer-discovery",
+        "spatial-interfaces"
+      ],
+      "wordCount": 1179,
+      "contentSha256": "83a926bc3a5e023a6ca75da19992723a58fd4cd250a74b882f3ffe70a2a25f59"
     }
   ],
   "summaryVersion": 1

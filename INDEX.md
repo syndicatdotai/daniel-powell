@@ -216,3 +216,4 @@ Experiments in AI roles, automation, and evaluation, with their methods, outputs
 | PUB-0136 | [Testing Counter-Drone Scenarios with an Adversary, a Defender, and a Judge](ai-experiments/PUB-0136-counter-uas-scenario-experiment.md) |
 | PUB-0137 | [An Ongoing Experiment in AI-Generated Construction Satire](ai-experiments/PUB-0137-ai-generated-construction-satire.md) |
 | PUB-0138 | [An Early AI Experiment in Generating Creative Excuses](ai-experiments/PUB-0138-local-ai-creative-excuse-generator.md) |
+| PUB-0143 | [Walking Through Blueprints in Augmented Reality Before the Tools Were Ready](ai-experiments/PUB-0143-full-scale-blueprint-augmented-reality.md) |
