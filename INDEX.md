@@ -91,6 +91,14 @@ Practical accounts of using AI, software, and structured workflows to support bu
 | PUB-0134 | [Developing AI-Assisted Business Research Tools: From Browser Automation to a Reference Library](business-automation/PUB-0134-browser-automation-for-business-research.md) |
 | PUB-0135 | [Using Python and the OpenAI API to Generate Structured Business Content](business-automation/PUB-0135-python-openai-structured-business-content.md) |
 
+## Automations
+
+Concrete, repeatable automations: their inputs, outputs, implementation, iterative development, and review.
+
+| Reference | Article |
+|---|---|
+| PUB-0140 | [Developing an Automation for Annual Wildlife Activity Reports](automations/PUB-0140-annual-wildlife-report-automation.md) |
+
 ## Applications
 
 Software applications and their development.

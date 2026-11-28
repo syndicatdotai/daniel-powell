@@ -306,6 +306,14 @@ Daniel Powell used ChatGPT and Cursor to develop browser automation and Python t
 
 Daniel Powell used ChatGPT and Cursor to develop a Python workflow that sent prepared business records to the OpenAI API and saved structured content for later publishing. The account covers prompts, named output fields, response parsing, local processing, separate source and content files, batch discovery, and targeted rewrites while distinguishing structural checks from factual review.
 
+## Automations
+
+Concrete, repeatable automations: their inputs, outputs, implementation, iterative development, and review.
+
+### PUB-0140 — [Developing an Automation for Annual Wildlife Activity Reports](automations/PUB-0140-annual-wildlife-report-automation.md)
+
+Daniel Powell developed an AI-assisted automation that prepares Connecticut DEEP wildlife activity reports from field records. Iterative review shaped the evidence rules, editable JSON source, Python PDF renderer, and verification steps. The account explains how corrections to source interpretation, quantity reconciliation, and document layout became reusable improvements, with Daniel reviewing the report before directing submission.
+
 ## Applications
 
 Software applications and their development.

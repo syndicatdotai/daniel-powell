@@ -15,6 +15,12 @@
       "index": "business-automation/index.md"
     },
     {
+      "key": "automations",
+      "title": "Automations",
+      "index": "automations/index.md",
+      "description": "Concrete, repeatable automations: their inputs, outputs, implementation, iterative development, and review."
+    },
+    {
       "key": "applications",
       "title": "Applications",
       "description": "Software applications and their development.",
@@ -2488,6 +2494,25 @@
       ],
       "wordCount": 2484,
       "contentSha256": "8148e599efd433da22180b42d0ab744db6192598fdc18c1de93c6d0b2eadffa3"
+    },
+    {
+      "id": "PUB-0140",
+      "title": "Developing an Automation for Annual Wildlife Activity Reports",
+      "section": "automations",
+      "path": "automations/PUB-0140-annual-wildlife-report-automation.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell developed an AI-assisted automation that prepares Connecticut DEEP wildlife activity reports from field records. Iterative review shaped the evidence rules, editable JSON source, Python PDF renderer, and verification steps. The account explains how corrections to source interpretation, quantity reconciliation, and document layout became reusable improvements, with Daniel reviewing the report before directing submission.",
+      "tags": [
+        "workflow-automation",
+        "wildlife-reporting",
+        "iterative-development",
+        "pdf-generation",
+        "data-reconciliation",
+        "python",
+        "obsidian"
+      ],
+      "wordCount": 1190,
+      "contentSha256": "895b098f62c14497b80f1eb24b4718d8272742a1c49210e34de1e05242ac53d1"
     }
   ],
   "summaryVersion": 1
