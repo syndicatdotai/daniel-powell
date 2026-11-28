@@ -554,6 +554,10 @@ Daniel Powell developed and tested a custom 3D-printed tool for a narrow require
 
 I did a simple project with AutoCAD, Codex, and Three.js to test using exported CAD linework as the geometry for a browser game with two-dimensional physics. I drew the layout in AutoCAD, exported it, and used Codex to help build the interactive environment. It was a straightforward experiment in taking work from a drafting tool and using it in a different setting.
 
+### PUB-0147 — [Developing a Physical Card Game Through Iteration, Playtesting, and Production](design-and-prototyping/PUB-0147-physical-card-game-development-and-production.md)
+
+Daniel Powell developed a physical strategy card game beginning in 2014, simplifying an expansive board-game concept through repeated playtesting. Using Adobe Illustrator, he prepared production-ready artwork and arranged a small overseas-manufactured prototype batch. The two-player game combined simultaneous selection, asymmetric matchups, and single-use cards. Copies were distributed nationally for testing before the project was put on hold.
+
 ## Workshop
 
 Construction techniques and practical methods.

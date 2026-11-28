@@ -182,6 +182,7 @@ Physical designs, prototypes, and experiments.
 |---|---|
 | PUB-0016 | [Operator-Led 3D-Printed Tool for Licensed Wildlife Control](design-and-prototyping/PUB-0016-wildlife-control-tool.md) |
 | PUB-0087 | [Turning AutoCAD Linework into a Browser Game](design-and-prototyping/PUB-0087-cad-linework-browser-game.md) |
+| PUB-0147 | [Developing a Physical Card Game Through Iteration, Playtesting, and Production](design-and-prototyping/PUB-0147-physical-card-game-development-and-production.md) |
 
 ## Workshop
 

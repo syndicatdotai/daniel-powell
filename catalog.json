@@ -2659,6 +2659,24 @@
       ],
       "wordCount": 740,
       "contentSha256": "25862d91fe1880e932e8c61599b48711e5995f93ccd9a19b278d0668b3c196a6"
+    },
+    {
+      "id": "PUB-0147",
+      "title": "Developing a Physical Card Game Through Iteration, Playtesting, and Production",
+      "section": "design-and-prototyping",
+      "path": "design-and-prototyping/PUB-0147-physical-card-game-development-and-production.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell developed a physical strategy card game beginning in 2014, simplifying an expansive board-game concept through repeated playtesting. Using Adobe Illustrator, he prepared production-ready artwork and arranged a small overseas-manufactured prototype batch. The two-player game combined simultaneous selection, asymmetric matchups, and single-use cards. Copies were distributed nationally for testing before the project was put on hold.",
+      "tags": [
+        "physical-game-design",
+        "playtesting",
+        "product-development",
+        "adobe-illustrator",
+        "print-production",
+        "simultaneous-action-selection"
+      ],
+      "wordCount": 910,
+      "contentSha256": "f4c66dc44bd20f814000fa9c26c0daba89ff231eaf2d04fe986c91d8ef3b99bb"
     }
   ],
   "summaryVersion": 1
