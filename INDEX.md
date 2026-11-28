@@ -118,6 +118,7 @@ Software applications and their development.
 | PUB-0112 | [Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems](applications/exfiltrate/overview.md) |
 | PUB-0122 | [Mech Division: An Early Experiment in Automated Game Development](applications/mech-division/overview.md) |
 | PUB-0124 | [Job Brain: Finding a Simpler Way to Organize My Business](applications/job-brain/overview.md) |
+| PUB-0146 | [Hand-Coding a Windows Music Player for My Own Music in 2007](applications/album-software/overview.md) |
 
 ## Construction
 

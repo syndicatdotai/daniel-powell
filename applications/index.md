@@ -15,4 +15,6 @@ Software applications and their development.
 - [PUB-0122 — Mech Division: An Early Experiment in Automated Game Development](mech-division/overview.md)
 - [PUB-0124 — Job Brain: Finding a Simpler Way to Organize My Business](job-brain/overview.md)
 
+- [PUB-0146 — Hand-Coding a Windows Music Player for My Own Music in 2007](album-software/overview.md)
+
 [Complete index](../INDEX.md) · [About Daniel Powell](../ABOUT.md)

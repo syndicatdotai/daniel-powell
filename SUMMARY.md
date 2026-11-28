@@ -370,6 +370,10 @@ A fictional practice exercise follows a stair-and-landing layout through an init
 
 Daniel Powell developed Job Brain to organize construction-business notes, jobs, entities, and commitments through a mobile interface and AI-backed retrieval. He shifted his focus to a lighter business workflow built around Markdown, Obsidian, Codex, reusable skills, and scripts, carrying forward the emphasis on preserving sources, retaining context, and making answers traceable.
 
+### PUB-0146 — [Hand-Coding a Windows Music Player for My Own Music in 2007](applications/album-software/overview.md)
+
+Daniel Powell hand-coded a Windows application in 2007 to present and play his own music. The player combined album and track selection, custom artwork, interface sounds, playback controls, and volume and pitch sliders. Preserved source and release files document the project, which occupied several weeks and connected his music, visual design, and programming before AI-assisted development.
+
 ## Construction
 
 Construction assignments, drafting, coordination, and project delivery.

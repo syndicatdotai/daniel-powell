@@ -2641,6 +2641,24 @@
       ],
       "wordCount": 584,
       "contentSha256": "13750bc51681533f9f924a05180c2ba8d34c99c4282dcc39e057b4c014402c08"
+    },
+    {
+      "id": "PUB-0146",
+      "title": "Hand-Coding a Windows Music Player for My Own Music in 2007",
+      "section": "applications",
+      "path": "applications/album-software/overview.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell hand-coded a Windows application in 2007 to present and play his own music. The player combined album and track selection, custom artwork, interface sounds, playback controls, and volume and pitch sliders. Preserved source and release files document the project, which occupied several weeks and connected his music, visual design, and programming before AI-assisted development.",
+      "tags": [
+        "windows-application",
+        "music-production",
+        "custom-interface",
+        "audio-playback",
+        "hand-coded-software",
+        "early-development"
+      ],
+      "wordCount": 740,
+      "contentSha256": "25862d91fe1880e932e8c61599b48711e5995f93ccd9a19b278d0668b3c196a6"
     }
   ],
   "summaryVersion": 1
