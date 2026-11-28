@@ -2550,6 +2550,24 @@
       ],
       "wordCount": 1941,
       "contentSha256": "02bd09db5886c15f2044ee13187275e451612de28102a4700d715100e0c2d525"
+    },
+    {
+      "id": "PUB-0142",
+      "title": "Prompt-Driven Obsidian Automation for Work and Personal Records",
+      "section": "automations",
+      "path": "automations/PUB-0142-obsidian-prompt-driven-record-automation.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell uses prompts to initiate Obsidian record updates through Codex. Reusable intake instructions separate mixed work and personal information, resolve existing records, and route details to jobs, organizations, tasks, schedules, knowledge notes, and daily entries. Markdown, JSON, Python helpers, and connected workflows support the system, including personal events, health and wellness notes, and occasional food tracking.",
+      "tags": [
+        "obsidian",
+        "codex",
+        "prompt-driven-automation",
+        "knowledge-management",
+        "record-routing",
+        "python"
+      ],
+      "wordCount": 1242,
+      "contentSha256": "f7b34b420d62994c2687cbb5bafe0172deeadf065ddb5acbf2b5fef6667c2711"
     }
   ],
   "summaryVersion": 1

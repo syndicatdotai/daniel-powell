@@ -322,6 +322,10 @@ Concrete, repeatable automations: their inputs, outputs, implementation, iterati
 
 Daniel Powell developed an AI-assisted automation that prepares Connecticut DEEP wildlife activity reports from field records. Iterative review shaped the evidence rules, editable JSON source, Python PDF renderer, and verification steps. The account explains how corrections to source interpretation, quantity reconciliation, and document layout became reusable improvements, with Daniel reviewing the report before directing submission.
 
+### PUB-0142 — [Prompt-Driven Obsidian Automation for Work and Personal Records](automations/PUB-0142-obsidian-prompt-driven-record-automation.md)
+
+Daniel Powell uses prompts to initiate Obsidian record updates through Codex. Reusable intake instructions separate mixed work and personal information, resolve existing records, and route details to jobs, organizations, tasks, schedules, knowledge notes, and daily entries. Markdown, JSON, Python helpers, and connected workflows support the system, including personal events, health and wellness notes, and occasional food tracking.
+
 ## Applications
 
 Software applications and their development.

@@ -100,6 +100,7 @@ Concrete, repeatable automations: their inputs, outputs, implementation, iterati
 | Reference | Article |
 |---|---|
 | PUB-0140 | [Developing an Automation for Annual Wildlife Activity Reports](automations/PUB-0140-annual-wildlife-report-automation.md) |
+| PUB-0142 | [Prompt-Driven Obsidian Automation for Work and Personal Records](automations/PUB-0142-obsidian-prompt-driven-record-automation.md) |
 
 ## Applications
 

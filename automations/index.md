@@ -6,6 +6,8 @@ Concrete, repeatable automations: their inputs, outputs, implementation, iterati
 
 - [PUB-0140 — Developing an Automation for Annual Wildlife Activity Reports](PUB-0140-annual-wildlife-report-automation.md) — Field records, evidence reconciliation, editable JSON, and a reusable Python renderer for the reviewed official report.
 
+- [PUB-0142 — Prompt-Driven Obsidian Automation for Work and Personal Records](PUB-0142-obsidian-prompt-driven-record-automation.md)
+
 ## Related Automation Records
 
 These existing articles retain their current locations and identifiers:
