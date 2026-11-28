@@ -75,4 +75,6 @@ Business operations, automation, documentation, and media production.
 
 - [PUB-0139 — Using AI to Workshop Business Ideas and Build My Knowledge Base](PUB-0139-ai-business-idea-workshopping.md)
 
+- [PUB-0141 — Building a Town-Level Property Research Record with AI and GIS](PUB-0141-town-property-research-with-ai-and-gis.md)
+
 [Complete index](../INDEX.md) · [About Daniel Powell](../ABOUT.md)

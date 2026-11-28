@@ -81,6 +81,7 @@ Business operations, automation, documentation, and media production.
 | PUB-0123 | [Using AI to Write Reusable Website Extraction Scripts](workflows/PUB-0123-reusable-website-extraction-scripts.md) |
 | PUB-0128 | [Designing Business Documents with Code: A Flexible System for Estimates, Invoices, and Contracts](workflows/PUB-0128-code-driven-business-documents.md) |
 | PUB-0139 | [Using AI to Workshop Business Ideas and Build My Knowledge Base](workflows/PUB-0139-ai-business-idea-workshopping.md) |
+| PUB-0141 | [Building a Town-Level Property Research Record with AI and GIS](workflows/PUB-0141-town-property-research-with-ai-and-gis.md) |
 
 ## Business Automation
 

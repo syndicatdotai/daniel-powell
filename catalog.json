@@ -2531,6 +2531,25 @@
       ],
       "wordCount": 848,
       "contentSha256": "d409cd2c3ce8dc35237c47c101b8a403ad702207fd7076debf9187520f4f89dc"
+    },
+    {
+      "id": "PUB-0141",
+      "title": "Building a Town-Level Property Research Record with AI and GIS",
+      "section": "workflows",
+      "path": "workflows/PUB-0141-town-property-research-with-ai-and-gis.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell combines AI-assisted property research, a 50-state public imagery inventory, and QGIS to examine land in a town where he is considering a purchase. Markdown records connect maps, ownership, development history, court material, and unresolved questions. The workflow also explores how source-backed geographic and documentary research can support open-source intelligence investigations.",
+      "tags": [
+        "property-research",
+        "public-aerial-imagery",
+        "qgis",
+        "public-records",
+        "markdown",
+        "open-source-intelligence",
+        "development-history"
+      ],
+      "wordCount": 1941,
+      "contentSha256": "02bd09db5886c15f2044ee13187275e451612de28102a4700d715100e0c2d525"
     }
   ],
   "summaryVersion": 1

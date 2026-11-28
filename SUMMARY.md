@@ -294,6 +294,10 @@ Daniel Powell develops a flexible document-production system for construction es
 
 Daniel Powell uses conversational AI to explore business ideas, improvements to his existing business, and skills he could develop. Discussions cover addressable markets, competitors, industry conditions, and a possible personal edge. Most ideas remain exploratory, while useful learning about construction and unfamiliar industries is saved in snapshots for future reference in his Obsidian knowledge base.
 
+### PUB-0141 — [Building a Town-Level Property Research Record with AI and GIS](workflows/PUB-0141-town-property-research-with-ai-and-gis.md)
+
+Daniel Powell combines AI-assisted property research, a 50-state public imagery inventory, and QGIS to examine land in a town where he is considering a purchase. Markdown records connect maps, ownership, development history, court material, and unresolved questions. The workflow also explores how source-backed geographic and documentary research can support open-source intelligence investigations.
+
 ## Business Automation
 
 Practical accounts of using AI, software, and structured workflows to support business operations, including historical experiments and purpose-built tools.
