@@ -290,6 +290,10 @@ Daniel Powell uses AI to write reusable JavaScript for extracting website conten
 
 Daniel Powell develops a flexible document-production system for construction estimates, invoices, and contracts. Structured records, HTML/CSS layouts, JavaScript browser export, and Python PDF rendering connect reusable templates with AI skills. The workflow supports tailored documents, validation, visual review, job-linked storage, payment tracking, and preservation of issued versions.
 
+### PUB-0139 — [Using AI to Workshop Business Ideas and Build My Knowledge Base](workflows/PUB-0139-ai-business-idea-workshopping.md)
+
+Daniel Powell uses conversational AI to explore business ideas, improvements to his existing business, and skills he could develop. Discussions cover addressable markets, competitors, industry conditions, and a possible personal edge. Most ideas remain exploratory, while useful learning about construction and unfamiliar industries is saved in snapshots for future reference in his Obsidian knowledge base.
+
 ## Business Automation
 
 Practical accounts of using AI, software, and structured workflows to support business operations, including historical experiments and purpose-built tools.

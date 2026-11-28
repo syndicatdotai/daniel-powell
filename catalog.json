@@ -2513,6 +2513,24 @@
       ],
       "wordCount": 1190,
       "contentSha256": "895b098f62c14497b80f1eb24b4718d8272742a1c49210e34de1e05242ac53d1"
+    },
+    {
+      "id": "PUB-0139",
+      "title": "Using AI to Workshop Business Ideas and Build My Knowledge Base",
+      "section": "workflows",
+      "path": "workflows/PUB-0139-ai-business-idea-workshopping.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell uses conversational AI to explore business ideas, improvements to his existing business, and skills he could develop. Discussions cover addressable markets, competitors, industry conditions, and a possible personal edge. Most ideas remain exploratory, while useful learning about construction and unfamiliar industries is saved in snapshots for future reference in his Obsidian knowledge base.",
+      "tags": [
+        "ai-brainstorming",
+        "business-ideas",
+        "market-exploration",
+        "competitor-analysis",
+        "obsidian",
+        "knowledge-management"
+      ],
+      "wordCount": 848,
+      "contentSha256": "d409cd2c3ce8dc35237c47c101b8a403ad702207fd7076debf9187520f4f89dc"
     }
   ],
   "summaryVersion": 1

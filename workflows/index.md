@@ -73,4 +73,6 @@ Business operations, automation, documentation, and media production.
 - [PUB-0123 — Using AI to Write Reusable Website Extraction Scripts](PUB-0123-reusable-website-extraction-scripts.md)
 - [PUB-0128 — Designing Business Documents with Code: A Flexible System for Estimates, Invoices, and Contracts](PUB-0128-code-driven-business-documents.md)
 
+- [PUB-0139 — Using AI to Workshop Business Ideas and Build My Knowledge Base](PUB-0139-ai-business-idea-workshopping.md)
+
 [Complete index](../INDEX.md) · [About Daniel Powell](../ABOUT.md)
