@@ -602,6 +602,10 @@ Daniel Powell describes his trading experience from Robinhood in 2016 through cr
 
 Daniel Powell traces his technical toolkit from current AI-assisted automation and software projects back to early web development around 2005. The overview connects languages, Python libraries, application frameworks, hosting, Discord integrations, CAD, and media tools with their uses, then covers earlier web editors, graphics software, game development, and music production, with links to supporting project records.
 
+### background:bed-bug-service-business — [From a Personal Bed Bug Problem to Running a Commercial Service Business](background/bed-bug-service-business.md)
+
+Daniel Powell built a bed bug service business after resolving an infestation at home. He managed one primary commercial account for approximately two years alongside construction and wildlife work. The account covers research, premium positioning, empathetic client support, related room-remodeling contracts, contained removal through occupied spaces, and a deeper understanding of concealed building connections.
+
 ## AI Experiments
 
 Experiments in AI roles, automation, and evaluation, with their methods, outputs, and development status.

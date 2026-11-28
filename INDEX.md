@@ -202,6 +202,7 @@ Personal history, career, education, credentials, and field accounts.
 | Background | [Daniel Powell](background/career.md) |
 | Background | [Education, Licenses, and Professional Training](background/education-and-credentials.md) |
 | Background | [Moving a Skunk Away From a Crowded Shoreline Park](background/moving-a-skunk-away-from-a-crowded-shoreline-park.md) |
+| Background | [From a Personal Bed Bug Problem to Running a Commercial Service Business](background/bed-bug-service-business.md) |
 | Background | [Musical Background and Production](background/music.md) |
 | Background | [Responding to a Rabid Coyote on a Connecticut Farm](background/responding-to-a-dangerous-wildlife-incident.md) |
 | Background | [About Daniel Powell](ABOUT.md) |

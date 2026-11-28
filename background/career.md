@@ -22,7 +22,7 @@ Several of these activities overlap. They describe concurrent work rather than a
 |---|---|---|
 | 2005 onward | Construction and carpentry | Commercial and residential field work; later expansion into business operations, estimating, coordination, and drafting. |
 | Since 2008 | Connecticut nuisance wildlife control | Maintained operator credential and a limited, continuing local service alongside construction work. |
-| Mid-2010s | Bed bug service business | Commercial service contracts, recurring appointments, non-pesticide contact treatment, building-management coordination, and client support. |
+| Mid-2010s | Bed bug service business | A primary commercial service account, recurring appointments, Cryonite contact treatment, related room-remodeling contracts, and client support. |
 | Around 2017 onward | Counter-UAS research and C-UAS Systems | Public-source research, technical information organization, and development of a counter-drone research resource. |
 | 2019–2020 | Project Manager, Infinity Group | Construction coordination, procurement, schedules, documentation, meetings, and field investigation. |
 | Early 2020s–2026 | Residential and light-commercial drafting | Existing-condition drawings, proposed layouts, construction details, revisions, and permit-response coordination. |
@@ -219,13 +219,19 @@ Daniel's game and interaction work extends back to hobbyist development in the m
 
 ## Bed bug service business and client support
 
-Daniel operated a bed bug service business in the mid-2010s, serving commercial clients through recurring biweekly appointments. He handled contract negotiation, building-management coordination, service delivery, client communication, website design, and marketing materials.
+Daniel operated a bed bug service business in the mid-2010s after researching and resolving an infestation in his own home. He supported one primary commercial client through recurring biweekly appointments under a contract lasting approximately two years. He handled contract negotiation, building-management coordination, service delivery, client communication, website design, and marketing materials.
 
-His approach centered on researching and using non-pesticide methods. He operated a Cryonite machine to apply dry ice directly to bed bugs for contact treatment and advocated for this approach in his service work.
+He researched alternative treatment approaches and positioned the business as a premium service alongside his construction and nuisance wildlife work. He operated a Cryonite machine to apply dry ice directly to bed bugs for contact treatment and advocated for this approach in his service work.
 
 Assignments required discreet operations in public-facing buildings. Daniel coordinated with building management and carried out service without drawing unnecessary attention to the infestation or the people affected. He developed risk-mitigation procedures for entering heavily infested areas and reducing the chance of carrying bed bugs home.
 
 Client support was a central responsibility. Daniel worked with people experiencing the emotional strain of an infestation, using patient communication, discretion, and emotional awareness to discuss the problem and the work being performed. The business combined technical service with ongoing relationship management and sensitive, public-facing communication.
+
+The service also led to room-remodeling contracts after rounds of treatment. Work included carpet and contents removal, bed-frame disassembly, double-bagging items, and wrapping mattresses in plastic for removal through an occupied building. He planned containment and handling along the removal route to limit the risk of spreading bed bugs or eggs into shared spaces.
+
+The work deepened his attention to concealed connections between rooms and floors, while distinguishing insect movement from proof of a fire-rating defect.
+
+Related account: [From a Personal Bed Bug Problem to Running a Commercial Service Business](bed-bug-service-business.md).
 
 ## Wildlife control and other public-facing experience
 
@@ -520,12 +526,12 @@ Light hands-on experience includes:
 
 ### Bed bug services, sensitive client support, and business operations
 
-- Operate a bed bug service business with recurring commercial clients.
+- Operate a bed bug service business serving one primary recurring commercial client alongside construction and wildlife work.
 - Negotiate service contracts.
 - Schedule and carry out biweekly commercial service appointments.
 - Coordinate access and service activities with building management.
 - Conduct discreet service work in public-facing settings.
-- Research non-pesticide methods for handling bed bugs.
+- Research alternative treatment methods and equipment for bed bug service.
 - Operate a Cryonite machine for direct-contact dry-ice treatment.
 - Explain the treatment approach and service activities to clients.
 - Support people experiencing the emotional strain of bed bug infestations.
@@ -534,6 +540,9 @@ Light hands-on experience includes:
 - Design the business website.
 - Develop marketing materials for the service.
 - Maintain ongoing client communication and relationships.
+- Secure related room-remodeling contracts following treatment.
+- Plan removal of carpets, furnishings, and room contents through occupied buildings.
+- Disassemble bed frames, double-bag items, and wrap mattresses for contained removal.
 
 ### Chainsaw operation and light tree work
 

@@ -1921,8 +1921,8 @@
         "software-development",
         "training"
       ],
-      "wordCount": 5557,
-      "contentSha256": "00ad69bad302919143d53cd8d7467c6d6efa7b83ba153b31497aba8dd3b4f608"
+      "wordCount": 5719,
+      "contentSha256": "c2821f2d16e00b00ad4516381b3780900a3aeae7507275fa785474ca044f6c0b"
     },
     {
       "id": "background:education-and-credentials",
@@ -2586,6 +2586,24 @@
       ],
       "wordCount": 1179,
       "contentSha256": "83a926bc3a5e023a6ca75da19992723a58fd4cd250a74b882f3ffe70a2a25f59"
+    },
+    {
+      "id": "background:bed-bug-service-business",
+      "title": "From a Personal Bed Bug Problem to Running a Commercial Service Business",
+      "section": "background",
+      "path": "background/bed-bug-service-business.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell built a bed bug service business after resolving an infestation at home. He managed one primary commercial account for approximately two years alongside construction and wildlife work. The account covers research, premium positioning, empathetic client support, related room-remodeling contracts, contained removal through occupied spaces, and a deeper understanding of concealed building connections.",
+      "tags": [
+        "business-ownership",
+        "bed-bug-services",
+        "client-support",
+        "occupied-building-logistics",
+        "construction",
+        "cryonite"
+      ],
+      "wordCount": 908,
+      "contentSha256": "2d2d98ca66f791852e7b534e5404b482a48f9823116a7ebf0aab7f0eab459026"
     }
   ],
   "summaryVersion": 1

@@ -9,6 +9,7 @@ Personal history, career, education, credentials, and field accounts.
 - [Daniel Powell](career.md)
 - [Education, Licenses, and Professional Training](education-and-credentials.md)
 - [Moving a Skunk Away From a Crowded Shoreline Park](moving-a-skunk-away-from-a-crowded-shoreline-park.md)
+- [From a Personal Bed Bug Problem to Running a Commercial Service Business](bed-bug-service-business.md)
 - [Musical Background and Production](music.md)
 - [Responding to a Rabid Coyote on a Connecticut Farm](responding-to-a-dangerous-wildlife-incident.md)
 - [About Daniel Powell](../ABOUT.md)
