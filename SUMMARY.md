@@ -510,6 +510,10 @@ Daniel Powell coordinated overlapping trade work during an Infinity Group renova
 
 Daniel Powell describes extending his on-site project-management role at Infinity Group into scope clarification, scheduling, CRM presentation improvements, preconstruction pricing support, and client-facing material-selection documents. His contributions connected implementation with estimating and design communication, addressing immediate project needs while keeping customer requirements and contractual scope in view.
 
+### PUB-0144 — [Turning Low Basement Ductwork Into a Decorative Kitchenette Feature](construction/PUB-0144-decorative-basement-soffit.md)
+
+In 2017, Daniel Powell designed and built a decorative soffit around low ductwork beneath a structural beam during a basement-finishing project. He proposed a matching kitchenette island below it to direct circulation away from the obstruction and connect the enclosure with seating and lighting. The work combined practical layout decisions with detailed framing and drywall finishes.
+
 ## Research
 
 Research projects and technical investigations.

@@ -36,5 +36,6 @@ Construction assignments, drafting, coordination, and project delivery.
 - [PUB-0130 — Regional Travel and Specialty Construction Support for Telecommunications Projects](PUB-0130-regional-travel-specialty-construction.md)
 - [PUB-0131 — Coordinating Multiple Trades Under a Compressed Schedule at Seabury](PUB-0131-seabury-compressed-schedule-trade-coordination.md)
 - [PUB-0132 — Cross-Functional Project Delivery at Infinity Group](PUB-0132-infinity-group-cross-functional-project-delivery.md)
+- [PUB-0144 — Turning Low Basement Ductwork Into a Decorative Kitchenette Feature](PUB-0144-decorative-basement-soffit.md)
 
 [Complete index](../INDEX.md) · [About Daniel Powell](../ABOUT.md)
