@@ -1289,7 +1289,8 @@
       ],
       "wordCount": 1817,
       "contentSha256": "b6911177d2d546dc6db837daf7d15fe2d14a7d44e2897b97731d6679ab953494",
-      "role": "Field measurer, shop drafter, and application developer"
+      "role": "Field measurer, shop drafter, and application developer",
+      "displayOrder": 0
     },
     {
       "id": "PUB-0081",
@@ -1758,7 +1759,8 @@
       ],
       "wordCount": 1229,
       "contentSha256": "121e1b36940260575c894230b5141913e277f928ab78e1f1c283034d0202143c",
-      "role": "Application developer"
+      "role": "Application developer",
+      "displayOrder": 9
     },
     {
       "id": "PUB-0109",
@@ -1776,7 +1778,8 @@
       ],
       "wordCount": 2172,
       "contentSha256": "b2f3cb1450b27fcbb8b7fa2631e08ee7762b7cfc608c6e762e455c741d9042c0",
-      "role": "Game developer"
+      "role": "Game developer",
+      "displayOrder": 8
     },
     {
       "id": "PUB-0110",
@@ -1832,7 +1835,8 @@
       ],
       "wordCount": 2037,
       "contentSha256": "6021a9c07089421283156f2e5ba60d580700b1a9e481eb75a018d87e80ad0bd4",
-      "role": "Game designer and developer"
+      "role": "Game designer and developer",
+      "displayOrder": 7
     },
     {
       "id": "PUB-0113",
@@ -2114,7 +2118,8 @@
         "automated-testing"
       ],
       "wordCount": 1268,
-      "contentSha256": "fe2ea515103bbcb10b197bb3c8e79399e13e03c94fdcb09e86ffd0a382a4fd24"
+      "contentSha256": "fe2ea515103bbcb10b197bb3c8e79399e13e03c94fdcb09e86ffd0a382a4fd24",
+      "displayOrder": 6
     },
     {
       "id": "application:railing-generator:introduction",
@@ -2129,7 +2134,8 @@
         "drawing-automation"
       ],
       "wordCount": 569,
-      "contentSha256": "13d7fe03d83be9322bd7bd32f9a9620e18386be55ed1ab2704dafb58a573b9dc"
+      "contentSha256": "13d7fe03d83be9322bd7bd32f9a9620e18386be55ed1ab2704dafb58a573b9dc",
+      "displayOrder": 1
     },
     {
       "id": "application:railing-generator:getting-started",
@@ -2145,7 +2151,8 @@
         "cad-exports"
       ],
       "wordCount": 771,
-      "contentSha256": "9cfb1e22cd6274e3770052b07864ca1c62801d454b1f8214ddd4286c385e5ad3"
+      "contentSha256": "9cfb1e22cd6274e3770052b07864ca1c62801d454b1f8214ddd4286c385e5ad3",
+      "displayOrder": 2
     },
     {
       "id": "application:railing-generator:field-workflow",
@@ -2161,7 +2168,8 @@
         "field-documentation"
       ],
       "wordCount": 624,
-      "contentSha256": "2664796968a98a7f03fa34747ff3e5cce81b25d6b84fdaa8e0cfe5c977f95364"
+      "contentSha256": "2664796968a98a7f03fa34747ff3e5cce81b25d6b84fdaa8e0cfe5c977f95364",
+      "displayOrder": 3
     },
     {
       "id": "application:railing-generator:worked-example",
@@ -2177,7 +2185,8 @@
         "shop-drawings"
       ],
       "wordCount": 411,
-      "contentSha256": "82c3645035a341466e06d31f7c80d3c9cd8e1756da452fb7a40644d760f1849e"
+      "contentSha256": "82c3645035a341466e06d31f7c80d3c9cd8e1756da452fb7a40644d760f1849e",
+      "displayOrder": 4
     },
     {
       "id": "PUB-0123",
@@ -2214,7 +2223,8 @@
       ],
       "wordCount": 1141,
       "contentSha256": "4836c52b5c33d20660661d4c7116f3def014b6e4dad0fe8b3f22418e6a8d4d07",
-      "role": "Business owner and application developer"
+      "role": "Business owner and application developer",
+      "displayOrder": 5
     },
     {
       "id": "PUB-0125",
@@ -2658,7 +2668,8 @@
         "early-development"
       ],
       "wordCount": 740,
-      "contentSha256": "25862d91fe1880e932e8c61599b48711e5995f93ccd9a19b278d0668b3c196a6"
+      "contentSha256": "25862d91fe1880e932e8c61599b48711e5995f93ccd9a19b278d0668b3c196a6",
+      "displayOrder": 10
     },
     {
       "id": "PUB-0147",
@@ -2677,6 +2688,25 @@
       ],
       "wordCount": 910,
       "contentSha256": "f4c66dc44bd20f814000fa9c26c0daba89ff231eaf2d04fe986c91d8ef3b99bb"
+    },
+    {
+      "id": "PUB-0148",
+      "title": "SplitShooter: Learning to Program by Changing the Game",
+      "section": "applications",
+      "path": "applications/splitshooter/overview.md",
+      "legacyPaths": [],
+      "summary": "Daniel Powell began SplitShooter in 2005 by modifying a 3D Game Studio single-player demo. Over several years, he developed local multiplayer, split-screen views, enemy behavior, weapons, levels, textures, and sound. Reading and changing existing code became a formative programming experience, particularly when a playtesting conversation with a friend led to new features they could try about an hour later.",
+      "tags": [
+        "early-programming",
+        "game-development",
+        "3d-game-studio",
+        "local-multiplayer",
+        "split-screen",
+        "learning-through-modification"
+      ],
+      "displayOrder": 11,
+      "wordCount": 1003,
+      "contentSha256": "c3d7b0456de30136187960f361f78ccfbf10d2c3105614155ade039faddfd580"
     }
   ],
   "summaryVersion": 1

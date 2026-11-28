@@ -2,6 +2,8 @@
 
 `catalog.json` is the source for discovery metadata. `SUMMARY.md` is generated from it. Read summaries to select relevant documents, then read their canonical full text for detailed claims.
 
+Application records also carry an optional nonnegative `displayOrder`. Lower values appear first in application navigation, summaries, and the website reference collection. Railing Generator and its guides use priorities 0–4; new applications default to 5, with newer publication IDs first within a priority. Legacy software and games use later priorities. This is editorial display priority, not a project date. Preserve it when adding records or regenerating indexes, and explicitly assign legacy projects a later priority.
+
 Each substantive content record has `summary`, `tags`, `wordCount`, and `contentSha256`. Optional `role` and `period` describe only information present in the article. Existing IDs, paths, and `legacyPaths` remain authoritative. `summaryVersion: 1` enables this additive contract without changing the existing catalog schema or layout versions.
 
 Summaries usually contain 40–70 words, explaining the subject, contribution, and outcome or stage. Shorter text is appropriate for small articles. Tags contain 3–8 distinct lowercase hyphenated terms. Prefer specific activities and techniques over promotional language. Keep summaries grounded in public prose; review them with the document they describe.

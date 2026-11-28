@@ -334,22 +334,6 @@ Software applications and their development.
 
 Daniel Powell developed Railing Generator from his field-measurement and shop-drafting work for a manufacturer. The application converts measured stair and landing geometry into editable railing elevations with post and spindle relationships. He combines fabrication knowledge, voice-directed field input, drawing logic, and AutoCAD refinement in a tool he uses for production work.
 
-### PUB-0108 — [Building an Architectural Client Intake Application](applications/client-intake/overview.md)
-
-I built an architectural client intake application to collect the information that shapes a design program: what the client wants to build, which spaces they need, how they intend to use them, and the conditions the project needs to work within. The application brings a detailed questionnaire, saved client records, written summaries, and concept visualization into the same workflow.
-
-### PUB-0109 — [Building Blackout: A Cooperative Game with Two Different Views](applications/blackout/overview.md)
-
-I developed Blackout as a browser game built around asymmetric cooperation. Two people played on separate devices with different views of the same level. The player moving through the maze had limited visibility, while the guide had a map view and gave verbal directions. The project grew from that interaction into a larger development effort involving movement, hazards, enemies, level creation, visual effects, and multiplayer session handling.
-
-### PUB-0112 — [Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems](applications/exfiltrate/overview.md)
-
-Daniel Powell is developing Exfiltrate, a browser-based drone salvage game with a public Vercel build. He directs its mechanics and interface and uses AI-assisted development for implementation, testing, architecture, and authoring tools. The project combines physical cargo handling, Host storage and fabrication, interacting station systems, and sensing that separates world state from player knowledge.
-
-### PUB-0122 — [Mech Division: An Early Experiment in Automated Game Development](applications/mech-division/overview.md)
-
-Daniel Powell developed Mech Division as an early experiment in scheduled AI game development. A recurring instruction loop selected tasks, implemented features, ran checks, and recorded the next step. The result included five campaign missions, progression, abilities, enemies, and editing tools. He considers the experiment partially successful: playable output, but insufficient overall quality and direction for a finished game.
-
 ### application:railing-generator:introduction — [Railing Generator: From Field Measurements to Shop Drawings](applications/railing-generator/introduction.md)
 
 Railing Generator converts measured stair and landing conditions into editable layouts, drawing sheets, CAD geometry, and component information. This guide explains projects, drawings, exports, and Daniel Powell's separate voice-directed Codex workflow, with emphasis on defaults, review, and the application's continuing development.
@@ -370,9 +354,29 @@ A fictional practice exercise follows a stair-and-landing layout through an init
 
 Daniel Powell developed Job Brain to organize construction-business notes, jobs, entities, and commitments through a mobile interface and AI-backed retrieval. He shifted his focus to a lighter business workflow built around Markdown, Obsidian, Codex, reusable skills, and scripts, carrying forward the emphasis on preserving sources, retaining context, and making answers traceable.
 
+### PUB-0122 — [Mech Division: An Early Experiment in Automated Game Development](applications/mech-division/overview.md)
+
+Daniel Powell developed Mech Division as an early experiment in scheduled AI game development. A recurring instruction loop selected tasks, implemented features, ran checks, and recorded the next step. The result included five campaign missions, progression, abilities, enemies, and editing tools. He considers the experiment partially successful: playable output, but insufficient overall quality and direction for a finished game.
+
+### PUB-0112 — [Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems](applications/exfiltrate/overview.md)
+
+Daniel Powell is developing Exfiltrate, a browser-based drone salvage game with a public Vercel build. He directs its mechanics and interface and uses AI-assisted development for implementation, testing, architecture, and authoring tools. The project combines physical cargo handling, Host storage and fabrication, interacting station systems, and sensing that separates world state from player knowledge.
+
+### PUB-0109 — [Building Blackout: A Cooperative Game with Two Different Views](applications/blackout/overview.md)
+
+I developed Blackout as a browser game built around asymmetric cooperation. Two people played on separate devices with different views of the same level. The player moving through the maze had limited visibility, while the guide had a map view and gave verbal directions. The project grew from that interaction into a larger development effort involving movement, hazards, enemies, level creation, visual effects, and multiplayer session handling.
+
+### PUB-0108 — [Building an Architectural Client Intake Application](applications/client-intake/overview.md)
+
+I built an architectural client intake application to collect the information that shapes a design program: what the client wants to build, which spaces they need, how they intend to use them, and the conditions the project needs to work within. The application brings a detailed questionnaire, saved client records, written summaries, and concept visualization into the same workflow.
+
 ### PUB-0146 — [Hand-Coding a Windows Music Player for My Own Music in 2007](applications/album-software/overview.md)
 
 Daniel Powell hand-coded a Windows application in 2007 to present and play his own music. The player combined album and track selection, custom artwork, interface sounds, playback controls, and volume and pitch sliders. Preserved source and release files document the project, which occupied several weeks and connected his music, visual design, and programming before AI-assisted development.
+
+### PUB-0148 — [SplitShooter: Learning to Program by Changing the Game](applications/splitshooter/overview.md)
+
+Daniel Powell began SplitShooter in 2005 by modifying a 3D Game Studio single-player demo. Over several years, he developed local multiplayer, split-screen views, enemy behavior, weapons, levels, textures, and sound. Reading and changing existing code became a formative programming experience, particularly when a playtesting conversation with a friend led to new features they could try about an hour later.
 
 ## Construction
 

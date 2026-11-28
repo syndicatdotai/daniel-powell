@@ -104,7 +104,7 @@ Concrete, repeatable automations: their inputs, outputs, implementation, iterati
 
 ## Applications
 
-Software applications and their development.
+Software applications and their development. Railing Generator and its guides are featured first, followed by more recent application work and then legacy projects.
 
 | Reference | Article |
 |---|---|
@@ -113,12 +113,13 @@ Software applications and their development.
 | Railing guide | [Getting Started With Railing Generator](applications/railing-generator/getting-started.md) |
 | Railing guide | [From Field Measurements to a Reviewed Drawing](applications/railing-generator/field-to-drawing-workflow.md) |
 | Railing guide | [Worked Example: A Stair Flight With an Upper Landing](applications/railing-generator/example-project.md) |
-| PUB-0108 | [Building an Architectural Client Intake Application](applications/client-intake/overview.md) |
-| PUB-0109 | [Building Blackout: A Cooperative Game with Two Different Views](applications/blackout/overview.md) |
-| PUB-0112 | [Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems](applications/exfiltrate/overview.md) |
-| PUB-0122 | [Mech Division: An Early Experiment in Automated Game Development](applications/mech-division/overview.md) |
 | PUB-0124 | [Job Brain: Finding a Simpler Way to Organize My Business](applications/job-brain/overview.md) |
+| PUB-0122 | [Mech Division: An Early Experiment in Automated Game Development](applications/mech-division/overview.md) |
+| PUB-0112 | [Developing Exfiltrate: Remote Drones, Salvage, and Interacting Station Systems](applications/exfiltrate/overview.md) |
+| PUB-0109 | [Building Blackout: A Cooperative Game with Two Different Views](applications/blackout/overview.md) |
+| PUB-0108 | [Building an Architectural Client Intake Application](applications/client-intake/overview.md) |
 | PUB-0146 | [Hand-Coding a Windows Music Player for My Own Music in 2007](applications/album-software/overview.md) |
+| PUB-0148 | [SplitShooter: Learning to Program by Changing the Game](applications/splitshooter/overview.md) |
 
 ## Construction
 

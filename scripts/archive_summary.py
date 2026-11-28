@@ -69,6 +69,15 @@ def stamp(record, text):
     record['contentSha256'] = content_hash(text)
 
 
+def section_records(catalog, section):
+    """Keep curated application priorities independent of publication numbers."""
+    records = [r for r in catalog['records'] if r['section'] == section]
+    if section != 'applications':
+        return records
+    return sorted(records, key=lambda r: (r.get('displayOrder', 5),
+                  -int(r['id'][4:]) if re.fullmatch(r'PUB-\d+', r['id']) else 0))
+
+
 def render(catalog):
     lines = ['# Archive Summary', '',
              'A searchable overview of Daniel Powell’s work. Start here to select relevant articles, then read the linked full text for detailed claims.', '',
@@ -76,9 +85,8 @@ def render(catalog):
              '<!-- Generated from catalog.json. Edit catalog summaries, then regenerate. -->', '']
     for section in catalog['sections']:
         lines += [f"## {section['title']}", '', section['description'], '']
-        for record in catalog['records']:
-            if record['section'] == section['key']:
-                lines += [f"### {record['id']} — [{record['title']}]({record['path']})", '', record['summary'], '']
+        for record in section_records(catalog, section['key']):
+            lines += [f"### {record['id']} — [{record['title']}]({record['path']})", '', record['summary'], '']
     return '\n'.join(lines)
 
 
@@ -95,6 +103,8 @@ def validate(root, catalog, check_overview=True, content_overrides=None):
         paths.add(record.get('path'))
         if record.get('section') not in sections:
             errors.append(f'{ident}: unknown section')
+        if 'displayOrder' in record and (type(record['displayOrder']) is not int or record['displayOrder'] < 0):
+            errors.append(f'{ident}: displayOrder must be a nonnegative integer')
         errors += [f'{ident}: {e}' for e in metadata_errors(record)]
         try:
             source = safe_path(root, record['path'])

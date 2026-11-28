@@ -74,6 +74,17 @@ class SummaryTests(unittest.TestCase):
         self.record['path']='../outside.md'
         self.assertTrue(any('escapes archive' in e for e in summary.validate(self.root,self.catalog)))
 
+    def test_display_priority_survives_publication_order(self):
+        records = [dict(self.record, id='PUB-0148', section='applications', displayOrder=100),
+                   dict(self.record, id='PUB-0080', section='applications', displayOrder=0),
+                   dict(self.record, id='PUB-0124', section='applications', displayOrder=5),
+                   dict(self.record, id='PUB-0150', section='applications')]
+        catalog = dict(self.catalog, records=records)
+        self.assertEqual([r['id'] for r in summary.section_records(catalog, 'applications')],
+                         ['PUB-0080', 'PUB-0150', 'PUB-0124', 'PUB-0148'])
+        self.record['displayOrder'] = -1
+        self.assertTrue(any('displayOrder' in e for e in summary.validate(self.root,self.catalog)))
+
 
 if __name__=='__main__':
     unittest.main()
